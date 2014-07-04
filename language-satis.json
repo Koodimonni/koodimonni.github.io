@@ -1,0 +1,8 @@
+{
+  "name": "Wordpress language packs",
+  "description": "Composer language packs for wordpress. Contact me if something isn't working or should be here.",
+  "homepage": "http:\/\/languages.koodimonni.fi",
+  "repositories": [
+  ],
+  "require-all": true
+}
