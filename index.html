@@ -41,9 +41,9 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
     <div id="doc" class="yui-t7">
         <div id="hd">
             <h1>Wordpress language packs</h1>
-                            <p>Composer language packs for wordpress. Language shortnames can be different as they are just scrabed out of glotpress. Contact me when something is broken or if you happen to need a freelancer wp-nerd: onni@koodimonni.fi</p>
+                            <p>Composer language packs for Wordpress. Language shortnames can be different as they are just scraped out of glotpress. You can only install one language since composer removes all existing files in directory. This is why I added language-packs as &#039;nordic&#039; or &#039;all&#039;. Contact me when something is broken or you need an additional language-packs or if you happen to need a freelancer wp-nerd: onni@koodimonni.fi</p>
                         <div id="lastupdate">
-                Last updated: <time datetime="09/07/2014">Wed, 09 Jul 2014 13:35:01 +0300</time>
+                Last updated: <time datetime="09/07/2014">Wed, 09 Jul 2014 14:01:20 +0300</time>
             </div>
         </div>
         <div id="bd">
@@ -70,6 +70,27 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                 Filter by package name:
                 <input type="text" id="search" autocomplete="off" autofocus />
 
+                                    <div>
+                        <h3 id="koodimonni-language/all">koodimonni-language/all</h3>
+                                                    <p>Wordpress language files for all languages defined in Koodimonni repos</p>
+                                                <table>
+                                                                                                                    <tr>
+                                    <th>Authors</th>
+                                    <td>
+                                        ,                                     </td>
+                                </tr>
+                                                                                    <tr>
+                                <th>Releases</th>
+                                <td>
+                                    <a href="https://bitbucket.org/koodimonni-languages/all/get/c6603a9157823c6d6f5915f8441d03d36bfcf3f5.zip" title="c6603a9157823c6d6f5915f8441d03d36bfcf3f5">dev-master</a>                                </td>
+                            </tr>
+                            <tr>
+                                <th>Required by</th>
+                                <td>
+                                                                                                        </td>
+                            </tr>
+                        </table>
+                    </div>
                                     <div>
                         <h3 id="koodimonni-language/eo">koodimonni-language/eo</h3>
                                                     <p>Wordpress language files for Esperanto</p>
@@ -890,6 +911,27 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
+                        <h3 id="koodimonni-language/nordic">koodimonni-language/nordic</h3>
+                                                    <p>Wordpress language files for language pack containing: fi&#039;,&#039;sv&#039;,&#039;ru&#039;,&#039;nb&#039;,&#039;et</p>
+                                                <table>
+                                                                                                                    <tr>
+                                    <th>Authors</th>
+                                    <td>
+                                        ,                                     </td>
+                                </tr>
+                                                                                    <tr>
+                                <th>Releases</th>
+                                <td>
+                                    <a href="https://bitbucket.org/koodimonni-languages/nordic/get/977479c98ed89bb5ff59fb142593c94418f85e38.zip" title="977479c98ed89bb5ff59fb142593c94418f85e38">dev-master</a>                                </td>
+                            </tr>
+                            <tr>
+                                <th>Required by</th>
+                                <td>
+                                                                                                        </td>
+                            </tr>
+                        </table>
+                    </div>
+                                    <div>
                         <h3 id="koodimonni-language/pl">koodimonni-language/pl</h3>
                                                     <p>Wordpress language files for Polski</p>
                                                 <table>
@@ -1322,6 +1364,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                                 <th>Required by</th>
                                 <td>
                                                                                                                 <ul>
+                                                                                            <li><a href="#koodimonni-language/all">koodimonni-language/all</a></li>
                                                                                             <li><a href="#koodimonni-language/eo">koodimonni-language/eo</a></li>
                                                                                             <li><a href="#koodimonni-language/es">koodimonni-language/es</a></li>
                                                                                             <li><a href="#koodimonni-language/et">koodimonni-language/et</a></li>
@@ -1361,6 +1404,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                                                                                             <li><a href="#koodimonni-language/nb">koodimonni-language/nb</a></li>
                                                                                             <li><a href="#koodimonni-language/nl">koodimonni-language/nl</a></li>
                                                                                             <li><a href="#koodimonni-language/nn">koodimonni-language/nn</a></li>
+                                                                                            <li><a href="#koodimonni-language/nordic">koodimonni-language/nordic</a></li>
                                                                                             <li><a href="#koodimonni-language/pl">koodimonni-language/pl</a></li>
                                                                                             <li><a href="#koodimonni-language/pt">koodimonni-language/pt</a></li>
                                                                                             <li><a href="#koodimonni-language/ro">koodimonni-language/ro</a></li>
@@ -1388,7 +1432,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                             </div>
         </div>
         <div id="ft">
-            <p><small>This Composer Repository is proudly powered by <a href="https://github.com/composer/satis">Satis</a> 1.0.0-dev - Last updated:  2014-07-09T13:35:01+0300</small></p>
+            <p><small>This Composer Repository is proudly powered by <a href="https://github.com/composer/satis">Satis</a> 1.0.0-dev - Last updated:  2014-07-09T14:01:20+0300</small></p>
         </div>
     </div>
 
@@ -1437,7 +1481,7 @@ if(x.isFunction(n))while(r=o[i++])"+"===r[0]?(r=r.slice(1)||"*",(e[r]=e[r]||[]).
         $(window).trigger("hashchange");
         var $lastUpdate = $('#lastupdate time');
         function updateDate() {
-            $lastUpdate.text(moment('2014-07-09T13:35:01+0300').fromNow());
+            $lastUpdate.text(moment('2014-07-09T14:01:20+0300').fromNow());
         }
         setInterval(updateDate, 5000);
         updateDate();
