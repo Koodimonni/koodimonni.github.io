@@ -1,5 +1,5 @@
 {
-"name":"Wordpress language packs",
+"name":"Wordpress language packs by Koodimonni",
 "description":"Composer language packs for Wordpress. Language shortnames can be different as they are just scraped out of glotpress. You can install as many languages as you want. Require koodimonni-language/all if you want them all. Contact me when something is broken or you need an additional language-packs or if you happen to need a freelance wordpress developer: onni@koodimonni.fi",
 "homepage":"http://languages.koodimonni.fi",
 "repositories":[
