@@ -1,1 +1,0 @@
-{"name":"koodimonni-language/nordic","type":"wordpress-language","description":"Wordpress language files for ","authors":{"name":"Wordpress translators","url":"http://translate.wordpress.org/projects/wp/"},"minimum-stability":"dev","require":{"mnsami/composer-custom-directory-installer":"dev-master"}}
