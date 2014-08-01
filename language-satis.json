@@ -1,252 +1,324 @@
 {
-"name":"Wordpress language packs by Koodimonni",
-"description":"Composer language packs for Wordpress. Language shortnames can be different as they are just scraped out of glotpress. You can install as many languages as you want. Require koodimonni-language/all if you want them all. Contact me when something is broken or you need an additional language-packs or if you happen to need a freelance wordpress developer: onni@koodimonni.fi",
-"homepage":"http://languages.koodimonni.fi",
-"repositories":[
-{
-"type":"vcs",
-"url":"https://github.com/Koodimonni/composer-installer-plugin"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/eo.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/es.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/et.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/eu.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/fa.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/fi.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/fo.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/fr.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/fy.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/ga.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/gl.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/haw.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/he.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/hi.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/hr.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/hu.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/id.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/in.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/is.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/it.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/iu.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/ja.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/ka.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/kk.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/kl.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/km.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/ko.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/ky.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/lb.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/lo.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/lt.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/lv.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/mk.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/mn.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/mt.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/my.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/nb.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/nl.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/nn.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/pl.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/pt.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/ro.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/ru.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/sk.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/sl.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/sq.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/sr.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/sv.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/th.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/tl.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/tr.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/ug.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/uk.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/ur.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/vi.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/xh.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/zh.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/zu.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/all.git"
-},
-{
-"type":"vcs",
-"url":"https://bitbucket.org/koodimonni-languages/nordic.git"
-}
-],
-"require-all":true
+    "name": "Wordpress language packs by Koodimonni",
+    "description": "Composer language packs for Wordpress. Language shortnames can be different as they are just scraped out of glotpress. You can install as many languages as you want. Require koodimonni-language/all if you want them all. Contact me when something is broken or you need an additional language-packs or if you happen to need a freelance wordpress developer: onni@koodimonni.fi",
+    "homepage": "http://languages.koodimonni.fi",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/eo.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/es.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/et.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/eu.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/fa.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/fi.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/fo.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/fr.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/fy.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/ga.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/gl.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/haw.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/he.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/hi.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/hr.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/hu.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/id.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/in.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/is.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/it.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/iu.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/ja.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/ka.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/kk.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/kl.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/km.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/ko.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/ky.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/lb.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/lo.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/lt.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/lv.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/mk.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/mn.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/mt.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/my.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/nb.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/nl.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/nn.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/pl.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/pt.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/ro.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/ru.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/sk.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/sl.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/sq.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/sr.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/sv.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/th.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/tl.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/tr.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/ug.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/uk.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/ur.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/vi.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/xh.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/zh.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/zu.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/all.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/nordic.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/af.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/ar.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/am.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/as.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/az.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/be.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/bg.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/bn.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/bs.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/by.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/byn.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/ca.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/ckb.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/cs.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/da.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/de.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/dv.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/dz.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/koodimonni-languages/el.git"
+        }
+    ],
+    "require-all": true
 }

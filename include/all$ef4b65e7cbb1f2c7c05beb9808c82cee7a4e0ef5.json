@@ -1,0 +1,2458 @@
+{
+    "packages": {
+        "koodimonni-language/af": {
+            "dev-master": {
+                "name": "koodimonni-language/af",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/af.git",
+                    "reference": "cd5de902b3c79afbd0f7419e5d90f922556989bf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/af/get/cd5de902b3c79afbd0f7419e5d90f922556989bf.zip",
+                    "reference": "cd5de902b3c79afbd0f7419e5d90f922556989bf",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:25:36",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Afrikaans",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/all": {
+            "dev-master": {
+                "name": "koodimonni-language/all",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/all.git",
+                    "reference": "e51f98e52ce5f608b4cac0cd7422f38fd634aed5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/all/get/e51f98e52ce5f608b4cac0cd7422f38fd634aed5.zip",
+                    "reference": "e51f98e52ce5f608b4cac0cd7422f38fd634aed5",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:46:11",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for all languages defined in Koodimonni repos",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/am": {
+            "dev-master": {
+                "name": "koodimonni-language/am",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/am.git",
+                    "reference": "a21cc856f1a10688553ed541e6eb582b07397e3a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/am/get/a21cc856f1a10688553ed541e6eb582b07397e3a.zip",
+                    "reference": "a21cc856f1a10688553ed541e6eb582b07397e3a",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:29:25",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for አማርኛ",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/ar": {
+            "dev-master": {
+                "name": "koodimonni-language/ar",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/ar.git",
+                    "reference": "dd3ddb1f6e78af0ae6dcdac34c1a9eee36c2d871"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/ar/get/dd3ddb1f6e78af0ae6dcdac34c1a9eee36c2d871.zip",
+                    "reference": "dd3ddb1f6e78af0ae6dcdac34c1a9eee36c2d871",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:25:49",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for عربي",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/as": {
+            "dev-master": {
+                "name": "koodimonni-language/as",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/as.git",
+                    "reference": "f8370ff4bef90d6fef6cd67a2a8eefa8a86542f4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/as/get/f8370ff4bef90d6fef6cd67a2a8eefa8a86542f4.zip",
+                    "reference": "f8370ff4bef90d6fef6cd67a2a8eefa8a86542f4",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:29:29",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for  অসমীয়া ",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/az": {
+            "dev-master": {
+                "name": "koodimonni-language/az",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/az.git",
+                    "reference": "aaa5ab2f838bd1cd130285eda991e9fdf0408fea"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/az/get/aaa5ab2f838bd1cd130285eda991e9fdf0408fea.zip",
+                    "reference": "aaa5ab2f838bd1cd130285eda991e9fdf0408fea",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:29:33",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for آذربایجان دیلی",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/be": {
+            "dev-master": {
+                "name": "koodimonni-language/be",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/be.git",
+                    "reference": "a0f1c77192c337bc3e2ac3475b735966bf03710a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/be/get/a0f1c77192c337bc3e2ac3475b735966bf03710a.zip",
+                    "reference": "a0f1c77192c337bc3e2ac3475b735966bf03710a",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:29:37",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Беларускі",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/bg": {
+            "dev-master": {
+                "name": "koodimonni-language/bg",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/bg.git",
+                    "reference": "59a0594fc781bb1af2af0c465261648881e65bde"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/bg/get/59a0594fc781bb1af2af0c465261648881e65bde.zip",
+                    "reference": "59a0594fc781bb1af2af0c465261648881e65bde",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:29:42",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Български",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/bn": {
+            "dev-master": {
+                "name": "koodimonni-language/bn",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/bn.git",
+                    "reference": "0a006409ba49fb94795a540eb41cf89406ed36a4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/bn/get/0a006409ba49fb94795a540eb41cf89406ed36a4.zip",
+                    "reference": "0a006409ba49fb94795a540eb41cf89406ed36a4",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:29:48",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for বাংলা",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/bs": {
+            "dev-master": {
+                "name": "koodimonni-language/bs",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/bs.git",
+                    "reference": "ace36c8eda4566ae262f7abf145311b1f268c7dc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/bs/get/ace36c8eda4566ae262f7abf145311b1f268c7dc.zip",
+                    "reference": "ace36c8eda4566ae262f7abf145311b1f268c7dc",
+                    "shasum": ""
+                },
+                "time": "2014-07-09 18:28:20",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Bosanski",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/by": {
+            "dev-master": {
+                "name": "koodimonni-language/by",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/by.git",
+                    "reference": "abdf41a83f29697745e01c8d7047d389c727cf07"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/by/get/abdf41a83f29697745e01c8d7047d389c727cf07.zip",
+                    "reference": "abdf41a83f29697745e01c8d7047d389c727cf07",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:30:53",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Беларускі",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/byn": {
+            "dev-master": {
+                "name": "koodimonni-language/byn",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/byn.git",
+                    "reference": "4328c8a4ce34fb55cb016b82a3774fcdd04ed8a7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/byn/get/4328c8a4ce34fb55cb016b82a3774fcdd04ed8a7.zip",
+                    "reference": "4328c8a4ce34fb55cb016b82a3774fcdd04ed8a7",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:41:25",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for ብሊና",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/ca": {
+            "dev-master": {
+                "name": "koodimonni-language/ca",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/ca.git",
+                    "reference": "663f0e16e7dabef57ee73ac0245f639817b7a356"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/ca/get/663f0e16e7dabef57ee73ac0245f639817b7a356.zip",
+                    "reference": "663f0e16e7dabef57ee73ac0245f639817b7a356",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:41:29",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Сatalà",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/ckb": {
+            "dev-master": {
+                "name": "koodimonni-language/ckb",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/ckb.git",
+                    "reference": "2bfd9fb420e3f358d0a026832168c71ec5855468"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/ckb/get/2bfd9fb420e3f358d0a026832168c71ec5855468.zip",
+                    "reference": "2bfd9fb420e3f358d0a026832168c71ec5855468",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:41:33",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Kurdi",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/cs": {
+            "dev-master": {
+                "name": "koodimonni-language/cs",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/cs.git",
+                    "reference": "45cddf44dd11326a94b6cacef34b7079e68a6822"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/cs/get/45cddf44dd11326a94b6cacef34b7079e68a6822.zip",
+                    "reference": "45cddf44dd11326a94b6cacef34b7079e68a6822",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:41:37",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Čeština",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/da": {
+            "dev-master": {
+                "name": "koodimonni-language/da",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/da.git",
+                    "reference": "885ffbbdd41eee4d23c281be3db87e0ad22a05de"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/da/get/885ffbbdd41eee4d23c281be3db87e0ad22a05de.zip",
+                    "reference": "885ffbbdd41eee4d23c281be3db87e0ad22a05de",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:41:42",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Dansk",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/de": {
+            "dev-master": {
+                "name": "koodimonni-language/de",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/de.git",
+                    "reference": "1365fccf2661306c1047cab83cbb3ca9caa49fe5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/de/get/1365fccf2661306c1047cab83cbb3ca9caa49fe5.zip",
+                    "reference": "1365fccf2661306c1047cab83cbb3ca9caa49fe5",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:41:46",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Deutsch",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/dv": {
+            "dev-master": {
+                "name": "koodimonni-language/dv",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/dv.git",
+                    "reference": "b90d501293df60fff09147caad10be1f5b9c571b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/dv/get/b90d501293df60fff09147caad10be1f5b9c571b.zip",
+                    "reference": "b90d501293df60fff09147caad10be1f5b9c571b",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:41:50",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for ދިވެހި",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/dz": {
+            "dev-master": {
+                "name": "koodimonni-language/dz",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/dz.git",
+                    "reference": "659a3578b9a6ccfbb98f4eafc7ad88d8583164d6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/dz/get/659a3578b9a6ccfbb98f4eafc7ad88d8583164d6.zip",
+                    "reference": "659a3578b9a6ccfbb98f4eafc7ad88d8583164d6",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:41:53",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for རྫོང་ཁ་",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/el": {
+            "dev-master": {
+                "name": "koodimonni-language/el",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/el.git",
+                    "reference": "923a03cac7bfd6855de195cbeadd1d4951231098"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/el/get/923a03cac7bfd6855de195cbeadd1d4951231098.zip",
+                    "reference": "923a03cac7bfd6855de195cbeadd1d4951231098",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:41:57",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Ελληνικά",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/eo": {
+            "dev-master": {
+                "name": "koodimonni-language/eo",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/eo.git",
+                    "reference": "07056c49498fc63553528aaa62aed3cb1688f3b6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/eo/get/07056c49498fc63553528aaa62aed3cb1688f3b6.zip",
+                    "reference": "07056c49498fc63553528aaa62aed3cb1688f3b6",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:42:01",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Esperanto",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/es": {
+            "dev-master": {
+                "name": "koodimonni-language/es",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/es.git",
+                    "reference": "799e4bed0aaadd5f47982b5bc2eb686ebcd94adb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/es/get/799e4bed0aaadd5f47982b5bc2eb686ebcd94adb.zip",
+                    "reference": "799e4bed0aaadd5f47982b5bc2eb686ebcd94adb",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:42:05",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Español",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/et": {
+            "dev-master": {
+                "name": "koodimonni-language/et",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/et.git",
+                    "reference": "4fcf5cab52082f7380203eb8b887387b23d9cf4b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/et/get/4fcf5cab52082f7380203eb8b887387b23d9cf4b.zip",
+                    "reference": "4fcf5cab52082f7380203eb8b887387b23d9cf4b",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:42:09",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Eesti",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/eu": {
+            "dev-master": {
+                "name": "koodimonni-language/eu",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/eu.git",
+                    "reference": "1ace6965894af2606637d0c2e2ba14b1e0a7bd14"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/eu/get/1ace6965894af2606637d0c2e2ba14b1e0a7bd14.zip",
+                    "reference": "1ace6965894af2606637d0c2e2ba14b1e0a7bd14",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:42:13",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Euskara",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/fa": {
+            "dev-master": {
+                "name": "koodimonni-language/fa",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/fa.git",
+                    "reference": "29fb598309046b2972c872ea8601bb51e6d9afef"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/fa/get/29fb598309046b2972c872ea8601bb51e6d9afef.zip",
+                    "reference": "29fb598309046b2972c872ea8601bb51e6d9afef",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:42:17",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for \"فارسی\"",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/fi": {
+            "dev-master": {
+                "name": "koodimonni-language/fi",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/fi.git",
+                    "reference": "27492715d53765fff6baaa0039b5407d6c70c163"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/fi/get/27492715d53765fff6baaa0039b5407d6c70c163.zip",
+                    "reference": "27492715d53765fff6baaa0039b5407d6c70c163",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:42:20",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Suomi",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/fo": {
+            "dev-master": {
+                "name": "koodimonni-language/fo",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/fo.git",
+                    "reference": "bb5cd393dd00146dfc44157ee02ce424545beb77"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/fo/get/bb5cd393dd00146dfc44157ee02ce424545beb77.zip",
+                    "reference": "bb5cd393dd00146dfc44157ee02ce424545beb77",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:42:24",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Føroyskt",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/fr": {
+            "dev-master": {
+                "name": "koodimonni-language/fr",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/fr.git",
+                    "reference": "20f4a020a98b190f1358668211b8891763355566"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/fr/get/20f4a020a98b190f1358668211b8891763355566.zip",
+                    "reference": "20f4a020a98b190f1358668211b8891763355566",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:42:28",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Français",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/fy": {
+            "dev-master": {
+                "name": "koodimonni-language/fy",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/fy.git",
+                    "reference": "c977bc3768ad496b272255d2abdc5ad20646fe50"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/fy/get/c977bc3768ad496b272255d2abdc5ad20646fe50.zip",
+                    "reference": "c977bc3768ad496b272255d2abdc5ad20646fe50",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:42:32",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Frysk",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/ga": {
+            "dev-master": {
+                "name": "koodimonni-language/ga",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/ga.git",
+                    "reference": "ed0673f955c2ec1b465508c4af07b9cca29b2a0b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/ga/get/ed0673f955c2ec1b465508c4af07b9cca29b2a0b.zip",
+                    "reference": "ed0673f955c2ec1b465508c4af07b9cca29b2a0b",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:42:36",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Gaeilge",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/gl": {
+            "dev-master": {
+                "name": "koodimonni-language/gl",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/gl.git",
+                    "reference": "0376406f98e615bbaf6a804e5f894e5194845089"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/gl/get/0376406f98e615bbaf6a804e5f894e5194845089.zip",
+                    "reference": "0376406f98e615bbaf6a804e5f894e5194845089",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:42:40",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Galego",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/haw": {
+            "dev-master": {
+                "name": "koodimonni-language/haw",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/haw.git",
+                    "reference": "57706fa520cda0685619f6f444bf215fa429967a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/haw/get/57706fa520cda0685619f6f444bf215fa429967a.zip",
+                    "reference": "57706fa520cda0685619f6f444bf215fa429967a",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:42:47",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for ʻŌlelo Hawaiʻi",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/he": {
+            "dev-master": {
+                "name": "koodimonni-language/he",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/he.git",
+                    "reference": "89aa9276a33c28e5a6cfb335da7c8a1aee21b279"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/he/get/89aa9276a33c28e5a6cfb335da7c8a1aee21b279.zip",
+                    "reference": "89aa9276a33c28e5a6cfb335da7c8a1aee21b279",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:42:50",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for עברית",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/hi": {
+            "dev-master": {
+                "name": "koodimonni-language/hi",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/hi.git",
+                    "reference": "c4021bbb69a5045312643e821e3c620ea1bbde47"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/hi/get/c4021bbb69a5045312643e821e3c620ea1bbde47.zip",
+                    "reference": "c4021bbb69a5045312643e821e3c620ea1bbde47",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:42:54",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for हिन्दी",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/hr": {
+            "dev-master": {
+                "name": "koodimonni-language/hr",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/hr.git",
+                    "reference": "3e94c28d6a9e7c4be30b052c9063dd3bab55b033"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/hr/get/3e94c28d6a9e7c4be30b052c9063dd3bab55b033.zip",
+                    "reference": "3e94c28d6a9e7c4be30b052c9063dd3bab55b033",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:42:58",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Hrvatski",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/hu": {
+            "dev-master": {
+                "name": "koodimonni-language/hu",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/hu.git",
+                    "reference": "67dc138a4ef788afa74994c32953d4369805eeb3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/hu/get/67dc138a4ef788afa74994c32953d4369805eeb3.zip",
+                    "reference": "67dc138a4ef788afa74994c32953d4369805eeb3",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:43:02",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Magyar",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/id": {
+            "dev-master": {
+                "name": "koodimonni-language/id",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/id.git",
+                    "reference": "bd912e509bad4cc3fc59c4b50cf095f6b7afa604"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/id/get/bd912e509bad4cc3fc59c4b50cf095f6b7afa604.zip",
+                    "reference": "bd912e509bad4cc3fc59c4b50cf095f6b7afa604",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:43:05",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Bahasa",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/in": {
+            "dev-master": {
+                "name": "koodimonni-language/in",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/in.git",
+                    "reference": "1b22d5794fc29a1637330ad3a31bc40967bfa92f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/in/get/1b22d5794fc29a1637330ad3a31bc40967bfa92f.zip",
+                    "reference": "1b22d5794fc29a1637330ad3a31bc40967bfa92f",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:43:09",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Bahasa",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/is": {
+            "dev-master": {
+                "name": "koodimonni-language/is",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/is.git",
+                    "reference": "60498b2d050c8b47e4fcad798dec64d0ea9a2efe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/is/get/60498b2d050c8b47e4fcad798dec64d0ea9a2efe.zip",
+                    "reference": "60498b2d050c8b47e4fcad798dec64d0ea9a2efe",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:43:13",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Íslenska",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/it": {
+            "dev-master": {
+                "name": "koodimonni-language/it",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/it.git",
+                    "reference": "e7c6c4b3e2fe459e6e32e38a9a533918389d65dd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/it/get/e7c6c4b3e2fe459e6e32e38a9a533918389d65dd.zip",
+                    "reference": "e7c6c4b3e2fe459e6e32e38a9a533918389d65dd",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:43:17",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Italiano",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/iu": {
+            "dev-master": {
+                "name": "koodimonni-language/iu",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/iu.git",
+                    "reference": "6ea07ca11e11694f14ea9ebef5d6c6cc2152ba32"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/iu/get/6ea07ca11e11694f14ea9ebef5d6c6cc2152ba32.zip",
+                    "reference": "6ea07ca11e11694f14ea9ebef5d6c6cc2152ba32",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:43:20",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for ᐃᓄᒃᑎᑐᑦ",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/ja": {
+            "dev-master": {
+                "name": "koodimonni-language/ja",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/ja.git",
+                    "reference": "329cd8c2ad298c35a4609f1a8392c6d568172f4e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/ja/get/329cd8c2ad298c35a4609f1a8392c6d568172f4e.zip",
+                    "reference": "329cd8c2ad298c35a4609f1a8392c6d568172f4e",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:43:25",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for 日本語",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/ka": {
+            "dev-master": {
+                "name": "koodimonni-language/ka",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/ka.git",
+                    "reference": "2d6e884f2083255b0dbc9effb8e6be5bf2c407e0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/ka/get/2d6e884f2083255b0dbc9effb8e6be5bf2c407e0.zip",
+                    "reference": "2d6e884f2083255b0dbc9effb8e6be5bf2c407e0",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:43:29",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for ქართული",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/kk": {
+            "dev-master": {
+                "name": "koodimonni-language/kk",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/kk.git",
+                    "reference": "53ad87f352b0b5c9cf781538ced2b7b685ccbe5f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/kk/get/53ad87f352b0b5c9cf781538ced2b7b685ccbe5f.zip",
+                    "reference": "53ad87f352b0b5c9cf781538ced2b7b685ccbe5f",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:43:33",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Қазақша",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/kl": {
+            "dev-master": {
+                "name": "koodimonni-language/kl",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/kl.git",
+                    "reference": "2792684d10c34b1ea3f47954f992d80b7b49fff5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/kl/get/2792684d10c34b1ea3f47954f992d80b7b49fff5.zip",
+                    "reference": "2792684d10c34b1ea3f47954f992d80b7b49fff5",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:43:36",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Kalaallisut",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/km": {
+            "dev-master": {
+                "name": "koodimonni-language/km",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/km.git",
+                    "reference": "728bc230599471b857aaeec4b900f17e1f627545"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/km/get/728bc230599471b857aaeec4b900f17e1f627545.zip",
+                    "reference": "728bc230599471b857aaeec4b900f17e1f627545",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:43:43",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for ភាសាខ្មែរ",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/ko": {
+            "dev-master": {
+                "name": "koodimonni-language/ko",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/ko.git",
+                    "reference": "eb7e8fd7a15244d16b9122afb4431b7dd2f82dfd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/ko/get/eb7e8fd7a15244d16b9122afb4431b7dd2f82dfd.zip",
+                    "reference": "eb7e8fd7a15244d16b9122afb4431b7dd2f82dfd",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:43:53",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for 한국어",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/ky": {
+            "dev-master": {
+                "name": "koodimonni-language/ky",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/ky.git",
+                    "reference": "285de8fb7b4146194b61df6a2380f9e55d8469b1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/ky/get/285de8fb7b4146194b61df6a2380f9e55d8469b1.zip",
+                    "reference": "285de8fb7b4146194b61df6a2380f9e55d8469b1",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:43:59",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Кыргызча",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/lb": {
+            "dev-master": {
+                "name": "koodimonni-language/lb",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/lb.git",
+                    "reference": "dacc7ecb1009f09ea5574173e0460b69a5cdd975"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/lb/get/dacc7ecb1009f09ea5574173e0460b69a5cdd975.zip",
+                    "reference": "dacc7ecb1009f09ea5574173e0460b69a5cdd975",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:44:03",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Lëtzebuergesch",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/lo": {
+            "dev-master": {
+                "name": "koodimonni-language/lo",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/lo.git",
+                    "reference": "6dd9cbc4ff26409b2e6577cd5f31cf1b530542af"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/lo/get/6dd9cbc4ff26409b2e6577cd5f31cf1b530542af.zip",
+                    "reference": "6dd9cbc4ff26409b2e6577cd5f31cf1b530542af",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:44:07",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for ປະເທດລາວ",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/lt": {
+            "dev-master": {
+                "name": "koodimonni-language/lt",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/lt.git",
+                    "reference": "86066e64dd9a000970cb77ce239dfcb20dec5d05"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/lt/get/86066e64dd9a000970cb77ce239dfcb20dec5d05.zip",
+                    "reference": "86066e64dd9a000970cb77ce239dfcb20dec5d05",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:44:11",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Lietuvių",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/lv": {
+            "dev-master": {
+                "name": "koodimonni-language/lv",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/lv.git",
+                    "reference": "7ab026523e0b6b8f0cd7bdabd5b03c44efb349fa"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/lv/get/7ab026523e0b6b8f0cd7bdabd5b03c44efb349fa.zip",
+                    "reference": "7ab026523e0b6b8f0cd7bdabd5b03c44efb349fa",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:44:15",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Latviešu",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/mk": {
+            "dev-master": {
+                "name": "koodimonni-language/mk",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/mk.git",
+                    "reference": "914f4c406d41c70a517cacb3f9eb9237d3cf50db"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/mk/get/914f4c406d41c70a517cacb3f9eb9237d3cf50db.zip",
+                    "reference": "914f4c406d41c70a517cacb3f9eb9237d3cf50db",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:44:19",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Македонски",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/mn": {
+            "dev-master": {
+                "name": "koodimonni-language/mn",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/mn.git",
+                    "reference": "5f62663124d516e09252242c2998a4730c9d8fe2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/mn/get/5f62663124d516e09252242c2998a4730c9d8fe2.zip",
+                    "reference": "5f62663124d516e09252242c2998a4730c9d8fe2",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:44:23",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for ᠮᠣᠨᠭᠭᠣᠯ",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/mt": {
+            "dev-master": {
+                "name": "koodimonni-language/mt",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/mt.git",
+                    "reference": "93921c155e871a37bc9214ecd0fbc8a611d6cbd1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/mt/get/93921c155e871a37bc9214ecd0fbc8a611d6cbd1.zip",
+                    "reference": "93921c155e871a37bc9214ecd0fbc8a611d6cbd1",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:44:27",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Malti",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/my": {
+            "dev-master": {
+                "name": "koodimonni-language/my",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/my.git",
+                    "reference": "77d0c1e4884f088ef970258421b25c13b881f85a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/my/get/77d0c1e4884f088ef970258421b25c13b881f85a.zip",
+                    "reference": "77d0c1e4884f088ef970258421b25c13b881f85a",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:44:31",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for myanma bhasa",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/nb": {
+            "dev-master": {
+                "name": "koodimonni-language/nb",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/nb.git",
+                    "reference": "bd28a531e9d2ffcc39a318fdd2f0b66cd911f992"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/nb/get/bd28a531e9d2ffcc39a318fdd2f0b66cd911f992.zip",
+                    "reference": "bd28a531e9d2ffcc39a318fdd2f0b66cd911f992",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:44:35",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for ‪Norsk Bokmål‬",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/nl": {
+            "dev-master": {
+                "name": "koodimonni-language/nl",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/nl.git",
+                    "reference": "34b1c710cebefa804c9f2a85d7106c2a2f349e96"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/nl/get/34b1c710cebefa804c9f2a85d7106c2a2f349e96.zip",
+                    "reference": "34b1c710cebefa804c9f2a85d7106c2a2f349e96",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:44:39",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Nederlands",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/nn": {
+            "dev-master": {
+                "name": "koodimonni-language/nn",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/nn.git",
+                    "reference": "eecad7ea351b3e6186487efdbf4053018806cc6b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/nn/get/eecad7ea351b3e6186487efdbf4053018806cc6b.zip",
+                    "reference": "eecad7ea351b3e6186487efdbf4053018806cc6b",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:44:47",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Norsk",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/nordic": {
+            "2014.07.09": {
+                "name": "koodimonni-language/nordic",
+                "version": "2014.07.09",
+                "version_normalized": "2014-07-09",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/nordic.git",
+                    "reference": "565df62a0f9dd0e7e210b8c1b6aed3944ca36057"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/nordic/get/565df62a0f9dd0e7e210b8c1b6aed3944ca36057.zip",
+                    "reference": "565df62a0f9dd0e7e210b8c1b6aed3944ca36057",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "time": "2014-07-09 17:43:20",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for language pack containing: fi','sv','ru','nb','et",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            },
+            "dev-master": {
+                "name": "koodimonni-language/nordic",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/nordic.git",
+                    "reference": "976e218418354e98e85a0e04c7ff987be9111025"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/nordic/get/976e218418354e98e85a0e04c7ff987be9111025.zip",
+                    "reference": "976e218418354e98e85a0e04c7ff987be9111025",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:46:15",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for language pack containing: fi, sv, ru, nb, et",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/pl": {
+            "dev-master": {
+                "name": "koodimonni-language/pl",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/pl.git",
+                    "reference": "72e8a296da3b0efab06c2887b17a85949485d1c9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/pl/get/72e8a296da3b0efab06c2887b17a85949485d1c9.zip",
+                    "reference": "72e8a296da3b0efab06c2887b17a85949485d1c9",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:44:51",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Polski",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/pt": {
+            "dev-master": {
+                "name": "koodimonni-language/pt",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/pt.git",
+                    "reference": "3decbd6195cba19b09ae1591503f00cb6e6f040c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/pt/get/3decbd6195cba19b09ae1591503f00cb6e6f040c.zip",
+                    "reference": "3decbd6195cba19b09ae1591503f00cb6e6f040c",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:44:55",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Português",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/ro": {
+            "dev-master": {
+                "name": "koodimonni-language/ro",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/ro.git",
+                    "reference": "abdd5b9c751fd77635ba045fbc42d1c84a2c5c14"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/ro/get/abdd5b9c751fd77635ba045fbc42d1c84a2c5c14.zip",
+                    "reference": "abdd5b9c751fd77635ba045fbc42d1c84a2c5c14",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:44:59",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Română",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/ru": {
+            "dev-master": {
+                "name": "koodimonni-language/ru",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/ru.git",
+                    "reference": "437a928f6dc23594e4515d90593bf9a7de1ff3fe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/ru/get/437a928f6dc23594e4515d90593bf9a7de1ff3fe.zip",
+                    "reference": "437a928f6dc23594e4515d90593bf9a7de1ff3fe",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:45:03",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Русский",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/sk": {
+            "dev-master": {
+                "name": "koodimonni-language/sk",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/sk.git",
+                    "reference": "22b7134ba2d90cb6e394b17a13934a1e48df5bd5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/sk/get/22b7134ba2d90cb6e394b17a13934a1e48df5bd5.zip",
+                    "reference": "22b7134ba2d90cb6e394b17a13934a1e48df5bd5",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:45:07",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Slovenčina",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/sl": {
+            "dev-master": {
+                "name": "koodimonni-language/sl",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/sl.git",
+                    "reference": "1fb9f8f5015c9b731412b822cc61afe181be2d3f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/sl/get/1fb9f8f5015c9b731412b822cc61afe181be2d3f.zip",
+                    "reference": "1fb9f8f5015c9b731412b822cc61afe181be2d3f",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:45:11",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Slovenščina",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/sq": {
+            "dev-master": {
+                "name": "koodimonni-language/sq",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/sq.git",
+                    "reference": "480bd93e82afeccb049ce9faac8f09225c39a673"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/sq/get/480bd93e82afeccb049ce9faac8f09225c39a673.zip",
+                    "reference": "480bd93e82afeccb049ce9faac8f09225c39a673",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:45:15",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for gjuha shqipe",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/sr": {
+            "dev-master": {
+                "name": "koodimonni-language/sr",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/sr.git",
+                    "reference": "b2571b36eafa3056c5af1748105038acdeae6a83"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/sr/get/b2571b36eafa3056c5af1748105038acdeae6a83.zip",
+                    "reference": "b2571b36eafa3056c5af1748105038acdeae6a83",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:45:18",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Српски",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/sv": {
+            "dev-master": {
+                "name": "koodimonni-language/sv",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/sv.git",
+                    "reference": "5147ae2dfe4e7dc2c38f46cc7a385ec3234f3260"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/sv/get/5147ae2dfe4e7dc2c38f46cc7a385ec3234f3260.zip",
+                    "reference": "5147ae2dfe4e7dc2c38f46cc7a385ec3234f3260",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:45:22",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Svenska",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/th": {
+            "dev-master": {
+                "name": "koodimonni-language/th",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/th.git",
+                    "reference": "f2fe8f4bacab784d12166b51e82c2db7e64d03b6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/th/get/f2fe8f4bacab784d12166b51e82c2db7e64d03b6.zip",
+                    "reference": "f2fe8f4bacab784d12166b51e82c2db7e64d03b6",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:45:26",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for ไทย/ประเทศไทย",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/tl": {
+            "dev-master": {
+                "name": "koodimonni-language/tl",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/tl.git",
+                    "reference": "bb654c2df8c49921946fa543e4c7e2e3a2f71f9d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/tl/get/bb654c2df8c49921946fa543e4c7e2e3a2f71f9d.zip",
+                    "reference": "bb654c2df8c49921946fa543e4c7e2e3a2f71f9d",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:45:29",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Tagalog",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/tr": {
+            "dev-master": {
+                "name": "koodimonni-language/tr",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/tr.git",
+                    "reference": "7b2dd674446a0d02df9ab4f4af9f274d6809262b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/tr/get/7b2dd674446a0d02df9ab4f4af9f274d6809262b.zip",
+                    "reference": "7b2dd674446a0d02df9ab4f4af9f274d6809262b",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:45:34",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Türkçe",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/ug": {
+            "dev-master": {
+                "name": "koodimonni-language/ug",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/ug.git",
+                    "reference": "db77d53634c455c3436688783d55445453d8cced"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/ug/get/db77d53634c455c3436688783d55445453d8cced.zip",
+                    "reference": "db77d53634c455c3436688783d55445453d8cced",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:45:38",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for 中文",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/uk": {
+            "dev-master": {
+                "name": "koodimonni-language/uk",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/uk.git",
+                    "reference": "0df05e1b713380331cff7c109838a7c5966a4863"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/uk/get/0df05e1b713380331cff7c109838a7c5966a4863.zip",
+                    "reference": "0df05e1b713380331cff7c109838a7c5966a4863",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:45:44",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Українська",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/ur": {
+            "dev-master": {
+                "name": "koodimonni-language/ur",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/ur.git",
+                    "reference": "5b6ca2e4c9bd15fdaab78928ffbce03f165a252e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/ur/get/5b6ca2e4c9bd15fdaab78928ffbce03f165a252e.zip",
+                    "reference": "5b6ca2e4c9bd15fdaab78928ffbce03f165a252e",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:45:48",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for پاکستان‎",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/vi": {
+            "dev-master": {
+                "name": "koodimonni-language/vi",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/vi.git",
+                    "reference": "e1e0d8c2b4ff3eff354f0671a6d51c0f7a768f98"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/vi/get/e1e0d8c2b4ff3eff354f0671a6d51c0f7a768f98.zip",
+                    "reference": "e1e0d8c2b4ff3eff354f0671a6d51c0f7a768f98",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:45:52",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for Tiếng Việt",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/xh": {
+            "dev-master": {
+                "name": "koodimonni-language/xh",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/xh.git",
+                    "reference": "b5883d426f7c1842b5a78a188e533b4f47c7215b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/xh/get/b5883d426f7c1842b5a78a188e533b4f47c7215b.zip",
+                    "reference": "b5883d426f7c1842b5a78a188e533b4f47c7215b",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:45:56",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for isiXhosa",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/zh": {
+            "dev-master": {
+                "name": "koodimonni-language/zh",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/zh.git",
+                    "reference": "3a70439090922e550d80520b6039356a15f5bfb3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/zh/get/3a70439090922e550d80520b6039356a15f5bfb3.zip",
+                    "reference": "3a70439090922e550d80520b6039356a15f5bfb3",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:46:00",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for 中文",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "koodimonni-language/zu": {
+            "dev-master": {
+                "name": "koodimonni-language/zu",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://bitbucket.org/koodimonni-languages/zu.git",
+                    "reference": "1c0b6350c528da0d2198ddd2d7aaaa10ae291512"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://bitbucket.org/koodimonni-languages/zu/get/1c0b6350c528da0d2198ddd2d7aaaa10ae291512.zip",
+                    "reference": "1c0b6350c528da0d2198ddd2d7aaaa10ae291512",
+                    "shasum": ""
+                },
+                "time": "2014-08-01 17:46:04",
+                "type": "wordpress-language",
+                "authors": {
+                    "name": "Wordpress translators",
+                    "url": "http://translate.wordpress.org/projects/wp"
+                },
+                "description": "Wordpress language files for isiZulu",
+                "homepage": "www.translate.wordpress.org",
+                "keywords": [
+                    "language",
+                    "wordpress"
+                ]
+            }
+        },
+        "mnsami/composer-custom-directory-installer": {
+            "dev-master": {
+                "name": "mnsami/composer-custom-directory-installer",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Koodimonni/composer-installer-plugin.git",
+                    "reference": "d33bbab4b8d846c314ca1dc85eb11d1493f30abe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Koodimonni/composer-installer-plugin/zipball/d33bbab4b8d846c314ca1dc85eb11d1493f30abe",
+                    "reference": "d33bbab4b8d846c314ca1dc85eb11d1493f30abe",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer-plugin-api": "*",
+                    "php": ">=5.3"
+                },
+                "time": "2014-04-03 15:00:52",
+                "type": "composer-plugin",
+                "extra": {
+                    "class": [
+                        "Composer\\CustomDirectoryInstaller\\LibraryPlugin",
+                        "Composer\\CustomDirectoryInstaller\\PearPlugin"
+                    ]
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Composer\\CustomDirectoryInstaller": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Mina Nabil Sami",
+                        "email": "mina.nsami@gmail.com"
+                    }
+                ],
+                "description": "A composer plugin, to help install packages of different types in custom paths.",
+                "homepage": "http://www.leaseweblabs.com",
+                "keywords": [
+                    "composer",
+                    "composer-installer",
+                    "composer-plugin"
+                ],
+                "support": {
+                    "source": "https://github.com/Koodimonni/composer-installer-plugin/tree/master"
+                }
+            }
+        }
+    }
+}
