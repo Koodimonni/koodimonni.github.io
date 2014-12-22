@@ -1,4 +1,4 @@
-http://languages.koodimonni.fi:
+koodimonni.github.io
 =========================
 - Automatically create composer packages for wordpress translations from api.wordpress.org and github.com
 - This repo provides custom satis repository for wordpress languages. See more in [languages.koodimonni.fi](http://languages.koodimonni.fi)
