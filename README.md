@@ -11,7 +11,7 @@ How to use:
 1. git clone https://github.com/Koodimonni/koodimonni.github.io /to/your/htdocs
 2. cd /to/your/htdocs && composer install
 2. Set cronjob (crontab -e)
-3. */30 * * * * cd /home/onni/languages.koodimonni.fi/ && /usr/bin/php bin/wp-org-api && /usr/bin/php bin/satis build satis.json . && git commit -am "Updated languages at: `date +\"\%T \%m-\%d-\%y\"`" && git add --all && git push origin master
+3. */30 * * * * cd /to/your/htdocs && bash update.sh
 
 License
 -------
