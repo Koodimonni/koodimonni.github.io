@@ -2809,6 +2809,9 @@
                 "zh_cn": {
                     "4.0": {
                         "dist": "https://downloads.wordpress.org/translation/core/4.0/zh_CN.zip"
+                    },
+                    "4.1": {
+                        "dist": "https://downloads.wordpress.org/translation/core/4.1/zh_CN.zip"
                     }
                 },
                 "zh_tw": {

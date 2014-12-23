@@ -15797,6 +15797,25 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-language/core-zh_cn",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "core",
+                    "zh_cn"
+                ],
+                "description": "Wordpress core translation for Chinese (China) - zh_cn",
+                "version": "4.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/zh_CN.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-language/core-zh_tw",
                 "type": "wordpress-language",
                 "keywords": [
@@ -22643,6 +22662,33 @@
                 "version": "4.0",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/core/4.0/zh_CN.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": "*",
+                    "koodimonni-plugin-language/wordpress-importer-zh_cn": "*",
+                    "koodimonni-theme-language/twentytwelve-zh_cn": "*",
+                    "koodimonni-theme-language/twentyeleven-zh_cn": "*",
+                    "koodimonni-plugin-language/woocommerce-zh_cn": "*"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-language/zh_cn",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "Full-Package",
+                    "twentyfifteen",
+                    "zh_cn"
+                ],
+                "description": "Full Wordpress translation (including themes and core plugins) for Chinese (China) - zh_cn",
+                "version": "4.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/zh_CN.zip",
                     "type": "zip"
                 },
                 "require": {
