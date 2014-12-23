@@ -1,6 +1,6 @@
 {
     "name": "Wordpress language packs",
-    "description": "Composer language packs for wordpress. Contact me if something isn't working or should be here.",
+    "description": "Composer language packs for Wordpress translations. This includes translations for core and official themes and few plugins.",
     "homepage": "http://languages.koodimonni.fi",
     "require-all": true,
     "require-dependencies": true,

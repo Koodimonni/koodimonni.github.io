@@ -1,9 +1,12 @@
 #!/usr/bin/php
 <?php
 
-#Script to catalog all translation packages into composer packages from wordpress.org api.
-#In addition this looks up woocommerce translations from github
-
+# Script to catalog all translation packages into composer packages from wordpress.org api.
+# In addition this looks up woocommerce translations from github.
+# It caches all results from sources into config/wp-packages.json which is a set of packages.
+# Set means that every package is only defined in that file just once.
+# Then it builds complete information for satis using config/satis-template.json as template
+# It uses config/languages-info.json to fill up complete package information.
 set_time_limit(3600);
 
 $root = dirname(__DIR__);
@@ -61,6 +64,7 @@ function get_json_url($url) {
 $wp_versions_json = get_json_url("https://api.wordpress.org/core/version-check/1.7/");
 if (!$wp_versions_json) { exit(1); }
 $wp_versions = array();
+echo "These are the latest wordpress versions:\n";
 foreach ($wp_versions_json['offers'] as $key => $value) {
   echo "version:".$value['version']."\n";
   $wp_versions[] = $value['version'];
@@ -149,14 +153,18 @@ foreach ($packages['packages'] as $type => $values) {
           "type" => "package",
           "package" => array(
             "name" => "{$vendor}/{$block_name}-{$language}",
-            "type" => "wordpress-language",
+            "type" => "wordpress-language", // This should be $type but composer/installers is blocking any undefined types.
             "keywords" => array("Wordpress","Translation",$block_name,$language),
             "description" => "Wordpress {$block_name} translation for {$languages_info[$language]['english_name']} - {$language}",
             "version" => $version,
             "dist" => array(
               "url" => $dist['dist'],
               "type" => get_file_extension($dist['dist'])
-            )
+            ),
+            //Use custom installer for all files
+            "require" => [
+              "koodimonni/composer-dropin-installer" => ">=0.2.3"
+            ]
           )
         );
       }
@@ -167,11 +175,12 @@ foreach ($packages['packages'] as $type => $values) {
 foreach ($packages['packages']["wordpress-language"]['core'] as $language => $offers) {
   foreach ($offers as $version => $dist) {
     $require_array = array(
-              "koodimonni/composer-dropin-installer" => "*"
+              "koodimonni/composer-dropin-installer" => ">=0.2.3"
             );
     #add all required parts into require_array
     foreach (array_merge($plugins,$themes,$thirdparty_plugins) as $component) {
 
+      // Build up full packages but don't include packages that are not defined in $packages
       if (isset($packages['packages']["wordpress-theme-language"][$component][$language]) && $packages['packages']["wordpress-theme-language"][$component][$language] != NULL) {
         $require_array["koodimonni-theme-language/{$component}-{$language}"] = "*";
       }elseif (isset($packages['packages']["wordpress-plugin-language"][$component][$language]) && $packages['packages']["wordpress-plugin-language"][$component][$language] != NULL ) {
