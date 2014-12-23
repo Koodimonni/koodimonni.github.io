@@ -149,13 +149,14 @@ foreach ($packages['packages'] as $type => $values) {
             $vendor = "koodimonni-language";
             break;
         }
+        $english_name = (isset($languages_info[$language]['english_name']) ? $languages_info[$language]['english_name'] : "" );
         $repositories[] = array(
           "type" => "package",
           "package" => array(
             "name" => "{$vendor}/{$block_name}-{$language}",
             "type" => "wordpress-language", // This should be $type but composer/installers is blocking any undefined types.
             "keywords" => array("Wordpress","Translation",$block_name,$language),
-            "description" => "Wordpress {$block_name} translation for {$languages_info[$language]['english_name']} - {$language}",
+            "description" => "Wordpress {$block_name} translation for {$english_name} - {$language}",
             "version" => $version,
             "dist" => array(
               "url" => $dist['dist'],
