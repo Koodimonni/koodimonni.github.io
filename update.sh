@@ -1,19 +1,19 @@
 #!/bin/bash
+set -e
 
 #Bash script for languages.koodimonni.fi cronjob
 
 #Ask for changes in translations from wordpress.org and save results in satis.json
-/usr/bin/php bin/wp-org-api
+/usr/bin/php bin/wp-org-api >> /dev/null
 
 #Satis.json represents the state of known packages
 #When it changes there has been changes or additions in translations
 CHANGED=$(git diff --name-only satis.json)
 
-if [ "$CHANGED" == "" ]
+if [ "$CHANGED" != "" ]
 then
-  echo "No changes in satis.json"
-else
-  echo "Updating changes into github"
+  echo "Packages have changed!"
+  echo "Updating changes into github..."
   NOW=$(date +"%T %m-%d-%y")
   #Build satis repos and push changes into github
   /usr/bin/php bin/satis build satis.json .
