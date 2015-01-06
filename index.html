@@ -60,17 +60,18 @@ a {color: rgb(254,174,23); text-decoration: none;}
             <h1>Wordpress language packs <br>by Koodimonni</h1>
             <a href="http://koodimonni.fi"><img class="logo" src="https://cdn.koodimonni.fi/koodimonni-logo.svg" alt="Koodimonni logo"></a>
             <p>Recent Wordpress translations as Composer packages.</p>
-            <p>This is composer compatible wrapper for <a href="http://codex.wordpress.org/WordPress.org_API">api.wordpress.org</a> and updated every 30-minutes.</p>
+            <p>This is composer compatible wrapper for <a href="http://codex.wordpress.org/WordPress.org_API">api.wordpress.org</a>.</p>
+            <p>a Cronjob in my server asks changes from wordpress.org every 30-minutes. This repo gets updated when new packages are available.</p>
             <p>These packages use: <a href="https://packagist.org/packages/koodimonni/composer-dropin-installer">koodimonni/composer-dropin-installer</a> for installing multiple packages into same directory.</p>
             <p>You can install as many languages as you want. Contact me when something is broken or you need an additional language-packs or if you happen to need a freelance wordpress developer: <a href="mailto:onni@koodimonni.fi">onni@koodimonni.fi</a></p>
             <p></p>
             <p>Source code and issue handling available in: <a href="https://github.com/Koodimonni/koodimonni.github.io"> Github</a></p>
             <p>Relevant chatting about these language packages in: <a href="https://github.com/Koodimonni/koodimonni.github.io">Roots Discourse</a></p>
             <div id="repos">
-                <p>The repo contains: <b>436 packages </b></p>
+                <p>The repo contains: <b>438 packages </b></p>
             </div>
             <div id="lastupdate">
-                Last updated: <time datetime="23/12/2014">Tue, 23 Dec 2014 23:30:07 +0200</time>
+                Last updated: <time datetime="06/01/2015">Tue, 06 Jan 2015 14:30:07 +0200</time>
             </div>
         </div>
         <div id="bd">
@@ -511,6 +512,27 @@ a {color: rgb(254,174,23); text-decoration: none;}
                                 <th>Releases</th>
                                 <td>
                                     <a href="https://downloads.wordpress.org/translation/core/4.1/es_ES.zip" title="">4.1</a>, <a href="https://downloads.wordpress.org/translation/core/4.0/es_ES.zip" title="">4.0</a>                                </td>
+                            </tr>
+                            <tr>
+                                <th>Required by</th>
+                                <td>
+                                                                                                        </td>
+                            </tr>
+                        </table>
+                    </div>
+                                    <div>
+                        <h3 id="koodimonni-language/core-es_mx">koodimonni-language/core-es_mx</h3>
+                                                    <p>Wordpress core translation for Spanish (Mexico) - es_mx</p>
+                                                <table>
+                                                                                        <tr>
+                                    <th>Type</th>
+                                    <td>wordpress-language</td>
+                                </tr>
+                                                                                    
+                                                        <tr>
+                                <th>Releases</th>
+                                <td>
+                                    <a href="https://downloads.wordpress.org/translation/core/4.1/es_MX.zip" title="">4.1</a>                                </td>
                             </tr>
                             <tr>
                                 <th>Required by</th>
@@ -1351,6 +1373,27 @@ a {color: rgb(254,174,23); text-decoration: none;}
                                 <th>Releases</th>
                                 <td>
                                     <a href="https://downloads.wordpress.org/translation/core/4.1/es_ES.zip" title="">4.1</a>, <a href="https://downloads.wordpress.org/translation/core/4.0/es_ES.zip" title="">4.0</a>                                </td>
+                            </tr>
+                            <tr>
+                                <th>Required by</th>
+                                <td>
+                                                                                                        </td>
+                            </tr>
+                        </table>
+                    </div>
+                                    <div>
+                        <h3 id="koodimonni-language/es_mx">koodimonni-language/es_mx</h3>
+                                                    <p>Full Wordpress translation (including themes and core plugins) for Spanish (Mexico) - es_mx</p>
+                                                <table>
+                                                                                        <tr>
+                                    <th>Type</th>
+                                    <td>wordpress-language</td>
+                                </tr>
+                                                                                    
+                                                        <tr>
+                                <th>Releases</th>
+                                <td>
+                                    <a href="https://downloads.wordpress.org/translation/core/4.1/es_MX.zip" title="">4.1</a>                                </td>
                             </tr>
                             <tr>
                                 <th>Required by</th>
@@ -3014,7 +3057,10 @@ a {color: rgb(254,174,23); text-decoration: none;}
                             <tr>
                                 <th>Required by</th>
                                 <td>
-                                                                                                        </td>
+                                                                                                                <ul>
+                                                                                            <li><a href="#koodimonni-language/es_mx">koodimonni-language/es_mx</a></li>
+                                                                                    </ul>
+                                                                    </td>
                             </tr>
                         </table>
                     </div>
@@ -10101,7 +10147,7 @@ a {color: rgb(254,174,23); text-decoration: none;}
                             </div>
         </div>
         <div id="ft">
-            <p><small>This Composer Repository is proudly powered by <a href="https://github.com/composer/satis">Satis</a> 1.0.0-dev - Last updated:  2014-12-23T23:30:07+0200</small></p>
+            <p><small>This Composer Repository is proudly powered by <a href="https://github.com/composer/satis">Satis</a> 1.0.0-dev - Last updated:  2015-01-06T14:30:07+0200</small></p>
         </div>
     </div>
 
@@ -10150,7 +10196,7 @@ if(x.isFunction(n))while(r=o[i++])"+"===r[0]?(r=r.slice(1)||"*",(e[r]=e[r]||[]).
         $(window).trigger("hashchange");
         var $lastUpdate = $('#lastupdate time');
         function updateDate() {
-            $lastUpdate.text(moment('2014-12-23T23:30:07+0200').fromNow());
+            $lastUpdate.text(moment('2015-01-06T14:30:07+0200').fromNow());
         }
         setInterval(updateDate, 5000);
         updateDate();
