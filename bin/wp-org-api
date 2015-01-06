@@ -85,7 +85,7 @@ foreach ($wp_versions as $version) {
 #Gather data for core plugins
 $plugins = array("akismet","wordpress-importer");
 
-$themes = array("twentyfourteen","twentythirteen","twentytwelve","twentyeleven","twentyfifteen");
+$themes = array("twentyten","twentyeleven","twentytwelve","twentythirteen","twentyfourteen","twentyfifteen");
 $thirdparty_plugins = array("woocommerce");
 
 $plugin_path = "https://api.wordpress.org/translations/plugins/1.0/?slug=";
