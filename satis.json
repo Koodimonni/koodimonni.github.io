@@ -23548,13 +23548,893 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-theme-language/twentyten-ar",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "ar"
+                ],
+                "description": "Wordpress twentyten translation for Arabic - ar",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/ar.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-bg_bg",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "bg_bg"
+                ],
+                "description": "Wordpress twentyten translation for Bulgarian - bg_bg",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/bg_BG.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-bs_ba",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "bs_ba"
+                ],
+                "description": "Wordpress twentyten translation for Bosnian - bs_ba",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/bs_BA.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-ca",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "ca"
+                ],
+                "description": "Wordpress twentyten translation for Catalan - ca",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/ca.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-cs_cz",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "cs_cz"
+                ],
+                "description": "Wordpress twentyten translation for Czech - cs_cz",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/cs_CZ.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-cy",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "cy"
+                ],
+                "description": "Wordpress twentyten translation for Welsh - cy",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/cy.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-da_dk",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "da_dk"
+                ],
+                "description": "Wordpress twentyten translation for Danish - da_dk",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/da_DK.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-de_de",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "de_de"
+                ],
+                "description": "Wordpress twentyten translation for German - de_de",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/de_DE.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-en_ca",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "en_ca"
+                ],
+                "description": "Wordpress twentyten translation for English (Canada) - en_ca",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/en_CA.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-en_au",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "en_au"
+                ],
+                "description": "Wordpress twentyten translation for English (Australia) - en_au",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/en_AU.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-eo",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "eo"
+                ],
+                "description": "Wordpress twentyten translation for Esperanto - eo",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/eo.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-es_pe",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "es_pe"
+                ],
+                "description": "Wordpress twentyten translation for Spanish (Peru) - es_pe",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/es_PE.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-es_es",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "es_es"
+                ],
+                "description": "Wordpress twentyten translation for Spanish (Spain) - es_es",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/es_ES.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-et",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "et"
+                ],
+                "description": "Wordpress twentyten translation for Estonian - et",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/et.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-eu",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "eu"
+                ],
+                "description": "Wordpress twentyten translation for Basque - eu",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/eu.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-fa_ir",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "fa_ir"
+                ],
+                "description": "Wordpress twentyten translation for Persian - fa_ir",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/fa_IR.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-fr_fr",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "fr_fr"
+                ],
+                "description": "Wordpress twentyten translation for French (France) - fr_fr",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/fr_FR.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-gd",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "gd"
+                ],
+                "description": "Wordpress twentyten translation for Scottish - gd",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/gd.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-gl_es",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "gl_es"
+                ],
+                "description": "Wordpress twentyten translation for Galician - gl_es",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/gl_ES.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-he_il",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "he_il"
+                ],
+                "description": "Wordpress twentyten translation for Hebrew - he_il",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/he_IL.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-hr",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "hr"
+                ],
+                "description": "Wordpress twentyten translation for Croatian - hr",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/hr.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-id_id",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "id_id"
+                ],
+                "description": "Wordpress twentyten translation for Indonesian - id_id",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/id_ID.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-ja",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "ja"
+                ],
+                "description": "Wordpress twentyten translation for Japanese - ja",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/ja.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-ko_kr",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "ko_kr"
+                ],
+                "description": "Wordpress twentyten translation for Korean - ko_kr",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/ko_KR.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-my_mm",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "my_mm"
+                ],
+                "description": "Wordpress twentyten translation for Burmese - my_mm",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/my_MM.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-nb_no",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "nb_no"
+                ],
+                "description": "Wordpress twentyten translation for Norwegian (Bokm\u00e5l) - nb_no",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/nb_NO.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-nl_nl",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "nl_nl"
+                ],
+                "description": "Wordpress twentyten translation for Dutch - nl_nl",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/nl_NL.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-pl_pl",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "pl_pl"
+                ],
+                "description": "Wordpress twentyten translation for Polish - pl_pl",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/pl_PL.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-pt_br",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "pt_br"
+                ],
+                "description": "Wordpress twentyten translation for Portuguese (Brazil) - pt_br",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/pt_BR.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-pt_pt",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "pt_pt"
+                ],
+                "description": "Wordpress twentyten translation for Portuguese (Portugal) - pt_pt",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/pt_PT.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-ro_ro",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "ro_ro"
+                ],
+                "description": "Wordpress twentyten translation for Romanian - ro_ro",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/ro_RO.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-ru_ru",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "ru_ru"
+                ],
+                "description": "Wordpress twentyten translation for Russian - ru_ru",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/ru_RU.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-sk_sk",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "sk_sk"
+                ],
+                "description": "Wordpress twentyten translation for Slovak - sk_sk",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/sk_SK.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-sl_si",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "sl_si"
+                ],
+                "description": "Wordpress twentyten translation for Slovenian - sl_si",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/sl_SI.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-sr_rs",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "sr_rs"
+                ],
+                "description": "Wordpress twentyten translation for Serbian - sr_rs",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/sr_RS.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-th",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "th"
+                ],
+                "description": "Wordpress twentyten translation for Thai - th",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/th.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-tr_tr",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "tr_tr"
+                ],
+                "description": "Wordpress twentyten translation for Turkish - tr_tr",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/tr_TR.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-vi",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "vi"
+                ],
+                "description": "Wordpress twentyten translation for Vietnamese - vi",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/vi.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-zh_tw",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "zh_tw"
+                ],
+                "description": "Wordpress twentyten translation for Chinese (Taiwan) - zh_tw",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/zh_TW.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-zh_cn",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "zh_cn"
+                ],
+                "description": "Wordpress twentyten translation for Chinese (China) - zh_cn",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.7/zh_CN.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-language/ar",
                 "type": "wordpress-language",
                 "keywords": [
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "ar"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Arabic - ar",
@@ -23565,10 +24445,11 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
-                    "koodimonni-theme-language/twentyfourteen-ar": "*",
-                    "koodimonni-theme-language/twentythirteen-ar": "*",
-                    "koodimonni-theme-language/twentytwelve-ar": "*",
+                    "koodimonni-theme-language/twentyten-ar": "*",
                     "koodimonni-theme-language/twentyeleven-ar": "*",
+                    "koodimonni-theme-language/twentytwelve-ar": "*",
+                    "koodimonni-theme-language/twentythirteen-ar": "*",
+                    "koodimonni-theme-language/twentyfourteen-ar": "*",
                     "koodimonni-theme-language/twentyfifteen-ar": "*",
                     "koodimonni-plugin-language/woocommerce-ar": "*"
                 }
@@ -23583,7 +24464,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "ar"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Arabic - ar",
@@ -23594,10 +24475,11 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
-                    "koodimonni-theme-language/twentyfourteen-ar": "*",
-                    "koodimonni-theme-language/twentythirteen-ar": "*",
-                    "koodimonni-theme-language/twentytwelve-ar": "*",
+                    "koodimonni-theme-language/twentyten-ar": "*",
                     "koodimonni-theme-language/twentyeleven-ar": "*",
+                    "koodimonni-theme-language/twentytwelve-ar": "*",
+                    "koodimonni-theme-language/twentythirteen-ar": "*",
+                    "koodimonni-theme-language/twentyfourteen-ar": "*",
                     "koodimonni-theme-language/twentyfifteen-ar": "*",
                     "koodimonni-plugin-language/woocommerce-ar": "*"
                 }
@@ -23612,7 +24494,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "az"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Azerbaijani - az",
@@ -23624,9 +24506,9 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/wordpress-importer-az": "*",
-                    "koodimonni-theme-language/twentyfourteen-az": "*",
-                    "koodimonni-theme-language/twentythirteen-az": "*",
                     "koodimonni-theme-language/twentytwelve-az": "*",
+                    "koodimonni-theme-language/twentythirteen-az": "*",
+                    "koodimonni-theme-language/twentyfourteen-az": "*",
                     "koodimonni-theme-language/twentyfifteen-az": "*"
                 }
             }
@@ -23640,7 +24522,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "az"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Azerbaijani - az",
@@ -23652,9 +24534,9 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/wordpress-importer-az": "*",
-                    "koodimonni-theme-language/twentyfourteen-az": "*",
-                    "koodimonni-theme-language/twentythirteen-az": "*",
                     "koodimonni-theme-language/twentytwelve-az": "*",
+                    "koodimonni-theme-language/twentythirteen-az": "*",
+                    "koodimonni-theme-language/twentyfourteen-az": "*",
                     "koodimonni-theme-language/twentyfifteen-az": "*"
                 }
             }
@@ -23668,7 +24550,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "bg_bg"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Bulgarian - bg_bg",
@@ -23680,9 +24562,10 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-bg_bg": "*",
-                    "koodimonni-theme-language/twentythirteen-bg_bg": "*",
-                    "koodimonni-theme-language/twentytwelve-bg_bg": "*",
+                    "koodimonni-theme-language/twentyten-bg_bg": "*",
                     "koodimonni-theme-language/twentyeleven-bg_bg": "*",
+                    "koodimonni-theme-language/twentytwelve-bg_bg": "*",
+                    "koodimonni-theme-language/twentythirteen-bg_bg": "*",
                     "koodimonni-plugin-language/woocommerce-bg_bg": "*"
                 }
             }
@@ -23696,7 +24579,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "bg_bg"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Bulgarian - bg_bg",
@@ -23708,9 +24591,10 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-bg_bg": "*",
-                    "koodimonni-theme-language/twentythirteen-bg_bg": "*",
-                    "koodimonni-theme-language/twentytwelve-bg_bg": "*",
+                    "koodimonni-theme-language/twentyten-bg_bg": "*",
                     "koodimonni-theme-language/twentyeleven-bg_bg": "*",
+                    "koodimonni-theme-language/twentytwelve-bg_bg": "*",
+                    "koodimonni-theme-language/twentythirteen-bg_bg": "*",
                     "koodimonni-plugin-language/woocommerce-bg_bg": "*"
                 }
             }
@@ -23724,7 +24608,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "bs_ba"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Bosnian - bs_ba",
@@ -23737,10 +24621,11 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-bs_ba": "*",
                     "koodimonni-plugin-language/wordpress-importer-bs_ba": "*",
-                    "koodimonni-theme-language/twentyfourteen-bs_ba": "*",
-                    "koodimonni-theme-language/twentythirteen-bs_ba": "*",
-                    "koodimonni-theme-language/twentytwelve-bs_ba": "*",
+                    "koodimonni-theme-language/twentyten-bs_ba": "*",
                     "koodimonni-theme-language/twentyeleven-bs_ba": "*",
+                    "koodimonni-theme-language/twentytwelve-bs_ba": "*",
+                    "koodimonni-theme-language/twentythirteen-bs_ba": "*",
+                    "koodimonni-theme-language/twentyfourteen-bs_ba": "*",
                     "koodimonni-theme-language/twentyfifteen-bs_ba": "*"
                 }
             }
@@ -23754,7 +24639,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "bs_ba"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Bosnian - bs_ba",
@@ -23767,10 +24652,11 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-bs_ba": "*",
                     "koodimonni-plugin-language/wordpress-importer-bs_ba": "*",
-                    "koodimonni-theme-language/twentyfourteen-bs_ba": "*",
-                    "koodimonni-theme-language/twentythirteen-bs_ba": "*",
-                    "koodimonni-theme-language/twentytwelve-bs_ba": "*",
+                    "koodimonni-theme-language/twentyten-bs_ba": "*",
                     "koodimonni-theme-language/twentyeleven-bs_ba": "*",
+                    "koodimonni-theme-language/twentytwelve-bs_ba": "*",
+                    "koodimonni-theme-language/twentythirteen-bs_ba": "*",
+                    "koodimonni-theme-language/twentyfourteen-bs_ba": "*",
                     "koodimonni-theme-language/twentyfifteen-bs_ba": "*"
                 }
             }
@@ -23784,7 +24670,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "ca"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Catalan - ca",
@@ -23797,10 +24683,11 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-ca": "*",
                     "koodimonni-plugin-language/wordpress-importer-ca": "*",
-                    "koodimonni-theme-language/twentyfourteen-ca": "*",
-                    "koodimonni-theme-language/twentythirteen-ca": "*",
-                    "koodimonni-theme-language/twentytwelve-ca": "*",
+                    "koodimonni-theme-language/twentyten-ca": "*",
                     "koodimonni-theme-language/twentyeleven-ca": "*",
+                    "koodimonni-theme-language/twentytwelve-ca": "*",
+                    "koodimonni-theme-language/twentythirteen-ca": "*",
+                    "koodimonni-theme-language/twentyfourteen-ca": "*",
                     "koodimonni-theme-language/twentyfifteen-ca": "*",
                     "koodimonni-plugin-language/woocommerce-ca": "*"
                 }
@@ -23815,7 +24702,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "ca"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Catalan - ca",
@@ -23828,10 +24715,11 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-ca": "*",
                     "koodimonni-plugin-language/wordpress-importer-ca": "*",
-                    "koodimonni-theme-language/twentyfourteen-ca": "*",
-                    "koodimonni-theme-language/twentythirteen-ca": "*",
-                    "koodimonni-theme-language/twentytwelve-ca": "*",
+                    "koodimonni-theme-language/twentyten-ca": "*",
                     "koodimonni-theme-language/twentyeleven-ca": "*",
+                    "koodimonni-theme-language/twentytwelve-ca": "*",
+                    "koodimonni-theme-language/twentythirteen-ca": "*",
+                    "koodimonni-theme-language/twentyfourteen-ca": "*",
                     "koodimonni-theme-language/twentyfifteen-ca": "*",
                     "koodimonni-plugin-language/woocommerce-ca": "*"
                 }
@@ -23846,7 +24734,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "cy"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Welsh - cy",
@@ -23857,10 +24745,11 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
-                    "koodimonni-theme-language/twentyfourteen-cy": "*",
-                    "koodimonni-theme-language/twentythirteen-cy": "*",
-                    "koodimonni-theme-language/twentytwelve-cy": "*",
+                    "koodimonni-theme-language/twentyten-cy": "*",
                     "koodimonni-theme-language/twentyeleven-cy": "*",
+                    "koodimonni-theme-language/twentytwelve-cy": "*",
+                    "koodimonni-theme-language/twentythirteen-cy": "*",
+                    "koodimonni-theme-language/twentyfourteen-cy": "*",
                     "koodimonni-plugin-language/woocommerce-cy": "*"
                 }
             }
@@ -23874,7 +24763,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "cy"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Welsh - cy",
@@ -23885,10 +24774,11 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
-                    "koodimonni-theme-language/twentyfourteen-cy": "*",
-                    "koodimonni-theme-language/twentythirteen-cy": "*",
-                    "koodimonni-theme-language/twentytwelve-cy": "*",
+                    "koodimonni-theme-language/twentyten-cy": "*",
                     "koodimonni-theme-language/twentyeleven-cy": "*",
+                    "koodimonni-theme-language/twentytwelve-cy": "*",
+                    "koodimonni-theme-language/twentythirteen-cy": "*",
+                    "koodimonni-theme-language/twentyfourteen-cy": "*",
                     "koodimonni-plugin-language/woocommerce-cy": "*"
                 }
             }
@@ -23902,7 +24792,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "da_dk"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Danish - da_dk",
@@ -23913,10 +24803,11 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
-                    "koodimonni-theme-language/twentyfourteen-da_dk": "*",
-                    "koodimonni-theme-language/twentythirteen-da_dk": "*",
-                    "koodimonni-theme-language/twentytwelve-da_dk": "*",
+                    "koodimonni-theme-language/twentyten-da_dk": "*",
                     "koodimonni-theme-language/twentyeleven-da_dk": "*",
+                    "koodimonni-theme-language/twentytwelve-da_dk": "*",
+                    "koodimonni-theme-language/twentythirteen-da_dk": "*",
+                    "koodimonni-theme-language/twentyfourteen-da_dk": "*",
                     "koodimonni-plugin-language/woocommerce-da_dk": "*"
                 }
             }
@@ -23930,7 +24821,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "da_dk"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Danish - da_dk",
@@ -23941,10 +24832,11 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
-                    "koodimonni-theme-language/twentyfourteen-da_dk": "*",
-                    "koodimonni-theme-language/twentythirteen-da_dk": "*",
-                    "koodimonni-theme-language/twentytwelve-da_dk": "*",
+                    "koodimonni-theme-language/twentyten-da_dk": "*",
                     "koodimonni-theme-language/twentyeleven-da_dk": "*",
+                    "koodimonni-theme-language/twentytwelve-da_dk": "*",
+                    "koodimonni-theme-language/twentythirteen-da_dk": "*",
+                    "koodimonni-theme-language/twentyfourteen-da_dk": "*",
                     "koodimonni-plugin-language/woocommerce-da_dk": "*"
                 }
             }
@@ -23958,7 +24850,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "de_de"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for German - de_de",
@@ -23971,10 +24863,11 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-de_de": "*",
                     "koodimonni-plugin-language/wordpress-importer-de_de": "*",
-                    "koodimonni-theme-language/twentyfourteen-de_de": "*",
-                    "koodimonni-theme-language/twentythirteen-de_de": "*",
-                    "koodimonni-theme-language/twentytwelve-de_de": "*",
+                    "koodimonni-theme-language/twentyten-de_de": "*",
                     "koodimonni-theme-language/twentyeleven-de_de": "*",
+                    "koodimonni-theme-language/twentytwelve-de_de": "*",
+                    "koodimonni-theme-language/twentythirteen-de_de": "*",
+                    "koodimonni-theme-language/twentyfourteen-de_de": "*",
                     "koodimonni-theme-language/twentyfifteen-de_de": "*",
                     "koodimonni-plugin-language/woocommerce-de_de": "*"
                 }
@@ -23989,7 +24882,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "de_de"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for German - de_de",
@@ -24002,10 +24895,11 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-de_de": "*",
                     "koodimonni-plugin-language/wordpress-importer-de_de": "*",
-                    "koodimonni-theme-language/twentyfourteen-de_de": "*",
-                    "koodimonni-theme-language/twentythirteen-de_de": "*",
-                    "koodimonni-theme-language/twentytwelve-de_de": "*",
+                    "koodimonni-theme-language/twentyten-de_de": "*",
                     "koodimonni-theme-language/twentyeleven-de_de": "*",
+                    "koodimonni-theme-language/twentytwelve-de_de": "*",
+                    "koodimonni-theme-language/twentythirteen-de_de": "*",
+                    "koodimonni-theme-language/twentyfourteen-de_de": "*",
                     "koodimonni-theme-language/twentyfifteen-de_de": "*",
                     "koodimonni-plugin-language/woocommerce-de_de": "*"
                 }
@@ -24020,7 +24914,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "el"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Greek - el",
@@ -24031,9 +24925,9 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
-                    "koodimonni-theme-language/twentyfourteen-el": "*",
-                    "koodimonni-theme-language/twentythirteen-el": "*",
                     "koodimonni-theme-language/twentytwelve-el": "*",
+                    "koodimonni-theme-language/twentythirteen-el": "*",
+                    "koodimonni-theme-language/twentyfourteen-el": "*",
                     "koodimonni-theme-language/twentyfifteen-el": "*",
                     "koodimonni-plugin-language/woocommerce-el": "*"
                 }
@@ -24048,7 +24942,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "en_au"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for English (Australia) - en_au",
@@ -24060,10 +24954,11 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-en_au": "*",
-                    "koodimonni-theme-language/twentyfourteen-en_au": "*",
-                    "koodimonni-theme-language/twentythirteen-en_au": "*",
-                    "koodimonni-theme-language/twentytwelve-en_au": "*",
+                    "koodimonni-theme-language/twentyten-en_au": "*",
                     "koodimonni-theme-language/twentyeleven-en_au": "*",
+                    "koodimonni-theme-language/twentytwelve-en_au": "*",
+                    "koodimonni-theme-language/twentythirteen-en_au": "*",
+                    "koodimonni-theme-language/twentyfourteen-en_au": "*",
                     "koodimonni-theme-language/twentyfifteen-en_au": "*"
                 }
             }
@@ -24077,7 +24972,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "en_au"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for English (Australia) - en_au",
@@ -24089,10 +24984,11 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-en_au": "*",
-                    "koodimonni-theme-language/twentyfourteen-en_au": "*",
-                    "koodimonni-theme-language/twentythirteen-en_au": "*",
-                    "koodimonni-theme-language/twentytwelve-en_au": "*",
+                    "koodimonni-theme-language/twentyten-en_au": "*",
                     "koodimonni-theme-language/twentyeleven-en_au": "*",
+                    "koodimonni-theme-language/twentytwelve-en_au": "*",
+                    "koodimonni-theme-language/twentythirteen-en_au": "*",
+                    "koodimonni-theme-language/twentyfourteen-en_au": "*",
                     "koodimonni-theme-language/twentyfifteen-en_au": "*"
                 }
             }
@@ -24106,7 +25002,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "en_gb"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for English (UK) - en_gb",
@@ -24119,9 +25015,9 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-en_gb": "*",
                     "koodimonni-plugin-language/wordpress-importer-en_gb": "*",
-                    "koodimonni-theme-language/twentyfourteen-en_gb": "*",
-                    "koodimonni-theme-language/twentythirteen-en_gb": "*",
                     "koodimonni-theme-language/twentytwelve-en_gb": "*",
+                    "koodimonni-theme-language/twentythirteen-en_gb": "*",
+                    "koodimonni-theme-language/twentyfourteen-en_gb": "*",
                     "koodimonni-theme-language/twentyfifteen-en_gb": "*",
                     "koodimonni-plugin-language/woocommerce-en_gb": "*"
                 }
@@ -24136,7 +25032,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "en_gb"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for English (UK) - en_gb",
@@ -24149,9 +25045,9 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-en_gb": "*",
                     "koodimonni-plugin-language/wordpress-importer-en_gb": "*",
-                    "koodimonni-theme-language/twentyfourteen-en_gb": "*",
-                    "koodimonni-theme-language/twentythirteen-en_gb": "*",
                     "koodimonni-theme-language/twentytwelve-en_gb": "*",
+                    "koodimonni-theme-language/twentythirteen-en_gb": "*",
+                    "koodimonni-theme-language/twentyfourteen-en_gb": "*",
                     "koodimonni-theme-language/twentyfifteen-en_gb": "*",
                     "koodimonni-plugin-language/woocommerce-en_gb": "*"
                 }
@@ -24166,7 +25062,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "en_ca"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for English (Canada) - en_ca",
@@ -24178,10 +25074,11 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-en_ca": "*",
-                    "koodimonni-theme-language/twentyfourteen-en_ca": "*",
-                    "koodimonni-theme-language/twentythirteen-en_ca": "*",
-                    "koodimonni-theme-language/twentytwelve-en_ca": "*",
+                    "koodimonni-theme-language/twentyten-en_ca": "*",
                     "koodimonni-theme-language/twentyeleven-en_ca": "*",
+                    "koodimonni-theme-language/twentytwelve-en_ca": "*",
+                    "koodimonni-theme-language/twentythirteen-en_ca": "*",
+                    "koodimonni-theme-language/twentyfourteen-en_ca": "*",
                     "koodimonni-theme-language/twentyfifteen-en_ca": "*"
                 }
             }
@@ -24195,7 +25092,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "en_ca"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for English (Canada) - en_ca",
@@ -24207,10 +25104,11 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-en_ca": "*",
-                    "koodimonni-theme-language/twentyfourteen-en_ca": "*",
-                    "koodimonni-theme-language/twentythirteen-en_ca": "*",
-                    "koodimonni-theme-language/twentytwelve-en_ca": "*",
+                    "koodimonni-theme-language/twentyten-en_ca": "*",
                     "koodimonni-theme-language/twentyeleven-en_ca": "*",
+                    "koodimonni-theme-language/twentytwelve-en_ca": "*",
+                    "koodimonni-theme-language/twentythirteen-en_ca": "*",
+                    "koodimonni-theme-language/twentyfourteen-en_ca": "*",
                     "koodimonni-theme-language/twentyfifteen-en_ca": "*"
                 }
             }
@@ -24224,7 +25122,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "eo"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Esperanto - eo",
@@ -24235,10 +25133,11 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
-                    "koodimonni-theme-language/twentyfourteen-eo": "*",
-                    "koodimonni-theme-language/twentythirteen-eo": "*",
-                    "koodimonni-theme-language/twentytwelve-eo": "*",
+                    "koodimonni-theme-language/twentyten-eo": "*",
                     "koodimonni-theme-language/twentyeleven-eo": "*",
+                    "koodimonni-theme-language/twentytwelve-eo": "*",
+                    "koodimonni-theme-language/twentythirteen-eo": "*",
+                    "koodimonni-theme-language/twentyfourteen-eo": "*",
                     "koodimonni-theme-language/twentyfifteen-eo": "*"
                 }
             }
@@ -24252,7 +25151,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "es_es"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Spanish (Spain) - es_es",
@@ -24265,10 +25164,11 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-es_es": "*",
                     "koodimonni-plugin-language/wordpress-importer-es_es": "*",
-                    "koodimonni-theme-language/twentyfourteen-es_es": "*",
-                    "koodimonni-theme-language/twentythirteen-es_es": "*",
-                    "koodimonni-theme-language/twentytwelve-es_es": "*",
+                    "koodimonni-theme-language/twentyten-es_es": "*",
                     "koodimonni-theme-language/twentyeleven-es_es": "*",
+                    "koodimonni-theme-language/twentytwelve-es_es": "*",
+                    "koodimonni-theme-language/twentythirteen-es_es": "*",
+                    "koodimonni-theme-language/twentyfourteen-es_es": "*",
                     "koodimonni-theme-language/twentyfifteen-es_es": "*",
                     "koodimonni-plugin-language/woocommerce-es_es": "*"
                 }
@@ -24283,7 +25183,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "es_es"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Spanish (Spain) - es_es",
@@ -24296,10 +25196,11 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-es_es": "*",
                     "koodimonni-plugin-language/wordpress-importer-es_es": "*",
-                    "koodimonni-theme-language/twentyfourteen-es_es": "*",
-                    "koodimonni-theme-language/twentythirteen-es_es": "*",
-                    "koodimonni-theme-language/twentytwelve-es_es": "*",
+                    "koodimonni-theme-language/twentyten-es_es": "*",
                     "koodimonni-theme-language/twentyeleven-es_es": "*",
+                    "koodimonni-theme-language/twentytwelve-es_es": "*",
+                    "koodimonni-theme-language/twentythirteen-es_es": "*",
+                    "koodimonni-theme-language/twentyfourteen-es_es": "*",
                     "koodimonni-theme-language/twentyfifteen-es_es": "*",
                     "koodimonni-plugin-language/woocommerce-es_es": "*"
                 }
@@ -24314,7 +25215,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "es_cl"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Spanish (Chile) - es_cl",
@@ -24326,9 +25227,9 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-es_cl": "*",
-                    "koodimonni-theme-language/twentyfourteen-es_cl": "*",
-                    "koodimonni-theme-language/twentytwelve-es_cl": "*",
                     "koodimonni-theme-language/twentyeleven-es_cl": "*",
+                    "koodimonni-theme-language/twentytwelve-es_cl": "*",
+                    "koodimonni-theme-language/twentyfourteen-es_cl": "*",
                     "koodimonni-plugin-language/woocommerce-es_cl": "*"
                 }
             }
@@ -24342,7 +25243,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "es_pe"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Spanish (Peru) - es_pe",
@@ -24354,10 +25255,11 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-es_pe": "*",
-                    "koodimonni-theme-language/twentyfourteen-es_pe": "*",
-                    "koodimonni-theme-language/twentythirteen-es_pe": "*",
+                    "koodimonni-theme-language/twentyten-es_pe": "*",
+                    "koodimonni-theme-language/twentyeleven-es_pe": "*",
                     "koodimonni-theme-language/twentytwelve-es_pe": "*",
-                    "koodimonni-theme-language/twentyeleven-es_pe": "*"
+                    "koodimonni-theme-language/twentythirteen-es_pe": "*",
+                    "koodimonni-theme-language/twentyfourteen-es_pe": "*"
                 }
             }
         },
@@ -24370,7 +25272,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "es_pe"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Spanish (Peru) - es_pe",
@@ -24382,10 +25284,11 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-es_pe": "*",
-                    "koodimonni-theme-language/twentyfourteen-es_pe": "*",
-                    "koodimonni-theme-language/twentythirteen-es_pe": "*",
+                    "koodimonni-theme-language/twentyten-es_pe": "*",
+                    "koodimonni-theme-language/twentyeleven-es_pe": "*",
                     "koodimonni-theme-language/twentytwelve-es_pe": "*",
-                    "koodimonni-theme-language/twentyeleven-es_pe": "*"
+                    "koodimonni-theme-language/twentythirteen-es_pe": "*",
+                    "koodimonni-theme-language/twentyfourteen-es_pe": "*"
                 }
             }
         },
@@ -24398,7 +25301,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "eu"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Basque - eu",
@@ -24409,10 +25312,11 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
-                    "koodimonni-theme-language/twentyfourteen-eu": "*",
-                    "koodimonni-theme-language/twentythirteen-eu": "*",
-                    "koodimonni-theme-language/twentytwelve-eu": "*",
+                    "koodimonni-theme-language/twentyten-eu": "*",
                     "koodimonni-theme-language/twentyeleven-eu": "*",
+                    "koodimonni-theme-language/twentytwelve-eu": "*",
+                    "koodimonni-theme-language/twentythirteen-eu": "*",
+                    "koodimonni-theme-language/twentyfourteen-eu": "*",
                     "koodimonni-plugin-language/woocommerce-eu": "*"
                 }
             }
@@ -24426,7 +25330,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "eu"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Basque - eu",
@@ -24437,10 +25341,11 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
-                    "koodimonni-theme-language/twentyfourteen-eu": "*",
-                    "koodimonni-theme-language/twentythirteen-eu": "*",
-                    "koodimonni-theme-language/twentytwelve-eu": "*",
+                    "koodimonni-theme-language/twentyten-eu": "*",
                     "koodimonni-theme-language/twentyeleven-eu": "*",
+                    "koodimonni-theme-language/twentytwelve-eu": "*",
+                    "koodimonni-theme-language/twentythirteen-eu": "*",
+                    "koodimonni-theme-language/twentyfourteen-eu": "*",
                     "koodimonni-plugin-language/woocommerce-eu": "*"
                 }
             }
@@ -24454,7 +25359,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "fa_ir"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Persian - fa_ir",
@@ -24465,10 +25370,11 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
-                    "koodimonni-theme-language/twentyfourteen-fa_ir": "*",
-                    "koodimonni-theme-language/twentythirteen-fa_ir": "*",
-                    "koodimonni-theme-language/twentytwelve-fa_ir": "*",
+                    "koodimonni-theme-language/twentyten-fa_ir": "*",
                     "koodimonni-theme-language/twentyeleven-fa_ir": "*",
+                    "koodimonni-theme-language/twentytwelve-fa_ir": "*",
+                    "koodimonni-theme-language/twentythirteen-fa_ir": "*",
+                    "koodimonni-theme-language/twentyfourteen-fa_ir": "*",
                     "koodimonni-plugin-language/woocommerce-fa_ir": "*"
                 }
             }
@@ -24482,7 +25388,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "fa_ir"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Persian - fa_ir",
@@ -24493,10 +25399,11 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
-                    "koodimonni-theme-language/twentyfourteen-fa_ir": "*",
-                    "koodimonni-theme-language/twentythirteen-fa_ir": "*",
-                    "koodimonni-theme-language/twentytwelve-fa_ir": "*",
+                    "koodimonni-theme-language/twentyten-fa_ir": "*",
                     "koodimonni-theme-language/twentyeleven-fa_ir": "*",
+                    "koodimonni-theme-language/twentytwelve-fa_ir": "*",
+                    "koodimonni-theme-language/twentythirteen-fa_ir": "*",
+                    "koodimonni-theme-language/twentyfourteen-fa_ir": "*",
                     "koodimonni-plugin-language/woocommerce-fa_ir": "*"
                 }
             }
@@ -24510,7 +25417,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "fi"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Finnish - fi",
@@ -24523,10 +25430,10 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-fi": "*",
                     "koodimonni-plugin-language/wordpress-importer-fi": "*",
-                    "koodimonni-theme-language/twentyfourteen-fi": "*",
-                    "koodimonni-theme-language/twentythirteen-fi": "*",
-                    "koodimonni-theme-language/twentytwelve-fi": "*",
                     "koodimonni-theme-language/twentyeleven-fi": "*",
+                    "koodimonni-theme-language/twentytwelve-fi": "*",
+                    "koodimonni-theme-language/twentythirteen-fi": "*",
+                    "koodimonni-theme-language/twentyfourteen-fi": "*",
                     "koodimonni-theme-language/twentyfifteen-fi": "*",
                     "koodimonni-plugin-language/woocommerce-fi": "*"
                 }
@@ -24541,7 +25448,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "fi"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Finnish - fi",
@@ -24554,10 +25461,10 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-fi": "*",
                     "koodimonni-plugin-language/wordpress-importer-fi": "*",
-                    "koodimonni-theme-language/twentyfourteen-fi": "*",
-                    "koodimonni-theme-language/twentythirteen-fi": "*",
-                    "koodimonni-theme-language/twentytwelve-fi": "*",
                     "koodimonni-theme-language/twentyeleven-fi": "*",
+                    "koodimonni-theme-language/twentytwelve-fi": "*",
+                    "koodimonni-theme-language/twentythirteen-fi": "*",
+                    "koodimonni-theme-language/twentyfourteen-fi": "*",
                     "koodimonni-theme-language/twentyfifteen-fi": "*",
                     "koodimonni-plugin-language/woocommerce-fi": "*"
                 }
@@ -24572,7 +25479,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "fr_fr"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for French (France) - fr_fr",
@@ -24585,10 +25492,11 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-fr_fr": "*",
                     "koodimonni-plugin-language/wordpress-importer-fr_fr": "*",
-                    "koodimonni-theme-language/twentyfourteen-fr_fr": "*",
-                    "koodimonni-theme-language/twentythirteen-fr_fr": "*",
-                    "koodimonni-theme-language/twentytwelve-fr_fr": "*",
+                    "koodimonni-theme-language/twentyten-fr_fr": "*",
                     "koodimonni-theme-language/twentyeleven-fr_fr": "*",
+                    "koodimonni-theme-language/twentytwelve-fr_fr": "*",
+                    "koodimonni-theme-language/twentythirteen-fr_fr": "*",
+                    "koodimonni-theme-language/twentyfourteen-fr_fr": "*",
                     "koodimonni-theme-language/twentyfifteen-fr_fr": "*",
                     "koodimonni-plugin-language/woocommerce-fr_fr": "*"
                 }
@@ -24603,7 +25511,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "fr_fr"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for French (France) - fr_fr",
@@ -24616,10 +25524,11 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-fr_fr": "*",
                     "koodimonni-plugin-language/wordpress-importer-fr_fr": "*",
-                    "koodimonni-theme-language/twentyfourteen-fr_fr": "*",
-                    "koodimonni-theme-language/twentythirteen-fr_fr": "*",
-                    "koodimonni-theme-language/twentytwelve-fr_fr": "*",
+                    "koodimonni-theme-language/twentyten-fr_fr": "*",
                     "koodimonni-theme-language/twentyeleven-fr_fr": "*",
+                    "koodimonni-theme-language/twentytwelve-fr_fr": "*",
+                    "koodimonni-theme-language/twentythirteen-fr_fr": "*",
+                    "koodimonni-theme-language/twentyfourteen-fr_fr": "*",
                     "koodimonni-theme-language/twentyfifteen-fr_fr": "*",
                     "koodimonni-plugin-language/woocommerce-fr_fr": "*"
                 }
@@ -24634,7 +25543,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "gd"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Scottish - gd",
@@ -24645,8 +25554,9 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
-                    "koodimonni-theme-language/twentytwelve-gd": "*",
-                    "koodimonni-theme-language/twentyeleven-gd": "*"
+                    "koodimonni-theme-language/twentyten-gd": "*",
+                    "koodimonni-theme-language/twentyeleven-gd": "*",
+                    "koodimonni-theme-language/twentytwelve-gd": "*"
                 }
             }
         },
@@ -24659,7 +25569,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "gl_es"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Galician - gl_es",
@@ -24671,10 +25581,11 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-gl_es": "*",
-                    "koodimonni-theme-language/twentyfourteen-gl_es": "*",
-                    "koodimonni-theme-language/twentythirteen-gl_es": "*",
-                    "koodimonni-theme-language/twentytwelve-gl_es": "*",
+                    "koodimonni-theme-language/twentyten-gl_es": "*",
                     "koodimonni-theme-language/twentyeleven-gl_es": "*",
+                    "koodimonni-theme-language/twentytwelve-gl_es": "*",
+                    "koodimonni-theme-language/twentythirteen-gl_es": "*",
+                    "koodimonni-theme-language/twentyfourteen-gl_es": "*",
                     "koodimonni-theme-language/twentyfifteen-gl_es": "*"
                 }
             }
@@ -24688,7 +25599,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "gl_es"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Galician - gl_es",
@@ -24700,10 +25611,11 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-gl_es": "*",
-                    "koodimonni-theme-language/twentyfourteen-gl_es": "*",
-                    "koodimonni-theme-language/twentythirteen-gl_es": "*",
-                    "koodimonni-theme-language/twentytwelve-gl_es": "*",
+                    "koodimonni-theme-language/twentyten-gl_es": "*",
                     "koodimonni-theme-language/twentyeleven-gl_es": "*",
+                    "koodimonni-theme-language/twentytwelve-gl_es": "*",
+                    "koodimonni-theme-language/twentythirteen-gl_es": "*",
+                    "koodimonni-theme-language/twentyfourteen-gl_es": "*",
                     "koodimonni-theme-language/twentyfifteen-gl_es": "*"
                 }
             }
@@ -24717,7 +25629,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "he_il"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Hebrew - he_il",
@@ -24729,10 +25641,11 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/wordpress-importer-he_il": "*",
-                    "koodimonni-theme-language/twentyfourteen-he_il": "*",
-                    "koodimonni-theme-language/twentythirteen-he_il": "*",
-                    "koodimonni-theme-language/twentytwelve-he_il": "*",
+                    "koodimonni-theme-language/twentyten-he_il": "*",
                     "koodimonni-theme-language/twentyeleven-he_il": "*",
+                    "koodimonni-theme-language/twentytwelve-he_il": "*",
+                    "koodimonni-theme-language/twentythirteen-he_il": "*",
+                    "koodimonni-theme-language/twentyfourteen-he_il": "*",
                     "koodimonni-theme-language/twentyfifteen-he_il": "*",
                     "koodimonni-plugin-language/woocommerce-he_il": "*"
                 }
@@ -24747,7 +25660,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "he_il"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Hebrew - he_il",
@@ -24759,10 +25672,11 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/wordpress-importer-he_il": "*",
-                    "koodimonni-theme-language/twentyfourteen-he_il": "*",
-                    "koodimonni-theme-language/twentythirteen-he_il": "*",
-                    "koodimonni-theme-language/twentytwelve-he_il": "*",
+                    "koodimonni-theme-language/twentyten-he_il": "*",
                     "koodimonni-theme-language/twentyeleven-he_il": "*",
+                    "koodimonni-theme-language/twentytwelve-he_il": "*",
+                    "koodimonni-theme-language/twentythirteen-he_il": "*",
+                    "koodimonni-theme-language/twentyfourteen-he_il": "*",
                     "koodimonni-theme-language/twentyfifteen-he_il": "*",
                     "koodimonni-plugin-language/woocommerce-he_il": "*"
                 }
@@ -24777,7 +25691,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "hr"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Croatian - hr",
@@ -24790,10 +25704,11 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-hr": "*",
                     "koodimonni-plugin-language/wordpress-importer-hr": "*",
-                    "koodimonni-theme-language/twentyfourteen-hr": "*",
-                    "koodimonni-theme-language/twentythirteen-hr": "*",
-                    "koodimonni-theme-language/twentytwelve-hr": "*",
+                    "koodimonni-theme-language/twentyten-hr": "*",
                     "koodimonni-theme-language/twentyeleven-hr": "*",
+                    "koodimonni-theme-language/twentytwelve-hr": "*",
+                    "koodimonni-theme-language/twentythirteen-hr": "*",
+                    "koodimonni-theme-language/twentyfourteen-hr": "*",
                     "koodimonni-theme-language/twentyfifteen-hr": "*",
                     "koodimonni-plugin-language/woocommerce-hr": "*"
                 }
@@ -24808,7 +25723,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "hr"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Croatian - hr",
@@ -24821,10 +25736,11 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-hr": "*",
                     "koodimonni-plugin-language/wordpress-importer-hr": "*",
-                    "koodimonni-theme-language/twentyfourteen-hr": "*",
-                    "koodimonni-theme-language/twentythirteen-hr": "*",
-                    "koodimonni-theme-language/twentytwelve-hr": "*",
+                    "koodimonni-theme-language/twentyten-hr": "*",
                     "koodimonni-theme-language/twentyeleven-hr": "*",
+                    "koodimonni-theme-language/twentytwelve-hr": "*",
+                    "koodimonni-theme-language/twentythirteen-hr": "*",
+                    "koodimonni-theme-language/twentyfourteen-hr": "*",
                     "koodimonni-theme-language/twentyfifteen-hr": "*",
                     "koodimonni-plugin-language/woocommerce-hr": "*"
                 }
@@ -24839,7 +25755,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "hu_hu"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Hungarian - hu_hu",
@@ -24851,9 +25767,9 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/wordpress-importer-hu_hu": "*",
-                    "koodimonni-theme-language/twentyfourteen-hu_hu": "*",
-                    "koodimonni-theme-language/twentythirteen-hu_hu": "*",
                     "koodimonni-theme-language/twentytwelve-hu_hu": "*",
+                    "koodimonni-theme-language/twentythirteen-hu_hu": "*",
+                    "koodimonni-theme-language/twentyfourteen-hu_hu": "*",
                     "koodimonni-theme-language/twentyfifteen-hu_hu": "*",
                     "koodimonni-plugin-language/woocommerce-hu_hu": "*"
                 }
@@ -24868,7 +25784,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "hu_hu"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Hungarian - hu_hu",
@@ -24880,9 +25796,9 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/wordpress-importer-hu_hu": "*",
-                    "koodimonni-theme-language/twentyfourteen-hu_hu": "*",
-                    "koodimonni-theme-language/twentythirteen-hu_hu": "*",
                     "koodimonni-theme-language/twentytwelve-hu_hu": "*",
+                    "koodimonni-theme-language/twentythirteen-hu_hu": "*",
+                    "koodimonni-theme-language/twentyfourteen-hu_hu": "*",
                     "koodimonni-theme-language/twentyfifteen-hu_hu": "*",
                     "koodimonni-plugin-language/woocommerce-hu_hu": "*"
                 }
@@ -24897,7 +25813,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "id_id"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Indonesian - id_id",
@@ -24910,10 +25826,11 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-id_id": "*",
                     "koodimonni-plugin-language/wordpress-importer-id_id": "*",
-                    "koodimonni-theme-language/twentyfourteen-id_id": "*",
-                    "koodimonni-theme-language/twentythirteen-id_id": "*",
-                    "koodimonni-theme-language/twentytwelve-id_id": "*",
+                    "koodimonni-theme-language/twentyten-id_id": "*",
                     "koodimonni-theme-language/twentyeleven-id_id": "*",
+                    "koodimonni-theme-language/twentytwelve-id_id": "*",
+                    "koodimonni-theme-language/twentythirteen-id_id": "*",
+                    "koodimonni-theme-language/twentyfourteen-id_id": "*",
                     "koodimonni-theme-language/twentyfifteen-id_id": "*",
                     "koodimonni-plugin-language/woocommerce-id_id": "*"
                 }
@@ -24928,7 +25845,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "id_id"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Indonesian - id_id",
@@ -24941,10 +25858,11 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-id_id": "*",
                     "koodimonni-plugin-language/wordpress-importer-id_id": "*",
-                    "koodimonni-theme-language/twentyfourteen-id_id": "*",
-                    "koodimonni-theme-language/twentythirteen-id_id": "*",
-                    "koodimonni-theme-language/twentytwelve-id_id": "*",
+                    "koodimonni-theme-language/twentyten-id_id": "*",
                     "koodimonni-theme-language/twentyeleven-id_id": "*",
+                    "koodimonni-theme-language/twentytwelve-id_id": "*",
+                    "koodimonni-theme-language/twentythirteen-id_id": "*",
+                    "koodimonni-theme-language/twentyfourteen-id_id": "*",
                     "koodimonni-theme-language/twentyfifteen-id_id": "*",
                     "koodimonni-plugin-language/woocommerce-id_id": "*"
                 }
@@ -24959,7 +25877,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "it_it"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Italian - it_it",
@@ -24972,9 +25890,9 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-it_it": "*",
                     "koodimonni-plugin-language/wordpress-importer-it_it": "*",
-                    "koodimonni-theme-language/twentyfourteen-it_it": "*",
-                    "koodimonni-theme-language/twentythirteen-it_it": "*",
                     "koodimonni-theme-language/twentytwelve-it_it": "*",
+                    "koodimonni-theme-language/twentythirteen-it_it": "*",
+                    "koodimonni-theme-language/twentyfourteen-it_it": "*",
                     "koodimonni-theme-language/twentyfifteen-it_it": "*",
                     "koodimonni-plugin-language/woocommerce-it_it": "*"
                 }
@@ -24989,7 +25907,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "it_it"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Italian - it_it",
@@ -25002,9 +25920,9 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-it_it": "*",
                     "koodimonni-plugin-language/wordpress-importer-it_it": "*",
-                    "koodimonni-theme-language/twentyfourteen-it_it": "*",
-                    "koodimonni-theme-language/twentythirteen-it_it": "*",
                     "koodimonni-theme-language/twentytwelve-it_it": "*",
+                    "koodimonni-theme-language/twentythirteen-it_it": "*",
+                    "koodimonni-theme-language/twentyfourteen-it_it": "*",
                     "koodimonni-theme-language/twentyfifteen-it_it": "*",
                     "koodimonni-plugin-language/woocommerce-it_it": "*"
                 }
@@ -25019,7 +25937,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "ja"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Japanese - ja",
@@ -25031,10 +25949,11 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-ja": "*",
-                    "koodimonni-theme-language/twentyfourteen-ja": "*",
-                    "koodimonni-theme-language/twentythirteen-ja": "*",
-                    "koodimonni-theme-language/twentytwelve-ja": "*",
+                    "koodimonni-theme-language/twentyten-ja": "*",
                     "koodimonni-theme-language/twentyeleven-ja": "*",
+                    "koodimonni-theme-language/twentytwelve-ja": "*",
+                    "koodimonni-theme-language/twentythirteen-ja": "*",
+                    "koodimonni-theme-language/twentyfourteen-ja": "*",
                     "koodimonni-theme-language/twentyfifteen-ja": "*",
                     "koodimonni-plugin-language/woocommerce-ja": "*"
                 }
@@ -25049,7 +25968,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "ja"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Japanese - ja",
@@ -25061,10 +25980,11 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-ja": "*",
-                    "koodimonni-theme-language/twentyfourteen-ja": "*",
-                    "koodimonni-theme-language/twentythirteen-ja": "*",
-                    "koodimonni-theme-language/twentytwelve-ja": "*",
+                    "koodimonni-theme-language/twentyten-ja": "*",
                     "koodimonni-theme-language/twentyeleven-ja": "*",
+                    "koodimonni-theme-language/twentytwelve-ja": "*",
+                    "koodimonni-theme-language/twentythirteen-ja": "*",
+                    "koodimonni-theme-language/twentyfourteen-ja": "*",
                     "koodimonni-theme-language/twentyfifteen-ja": "*",
                     "koodimonni-plugin-language/woocommerce-ja": "*"
                 }
@@ -25079,7 +25999,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "ko_kr"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Korean - ko_kr",
@@ -25092,10 +26012,11 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-ko_kr": "*",
                     "koodimonni-plugin-language/wordpress-importer-ko_kr": "*",
-                    "koodimonni-theme-language/twentyfourteen-ko_kr": "*",
-                    "koodimonni-theme-language/twentythirteen-ko_kr": "*",
-                    "koodimonni-theme-language/twentytwelve-ko_kr": "*",
+                    "koodimonni-theme-language/twentyten-ko_kr": "*",
                     "koodimonni-theme-language/twentyeleven-ko_kr": "*",
+                    "koodimonni-theme-language/twentytwelve-ko_kr": "*",
+                    "koodimonni-theme-language/twentythirteen-ko_kr": "*",
+                    "koodimonni-theme-language/twentyfourteen-ko_kr": "*",
                     "koodimonni-plugin-language/woocommerce-ko_kr": "*"
                 }
             }
@@ -25109,7 +26030,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "ko_kr"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Korean - ko_kr",
@@ -25122,10 +26043,11 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-ko_kr": "*",
                     "koodimonni-plugin-language/wordpress-importer-ko_kr": "*",
-                    "koodimonni-theme-language/twentyfourteen-ko_kr": "*",
-                    "koodimonni-theme-language/twentythirteen-ko_kr": "*",
-                    "koodimonni-theme-language/twentytwelve-ko_kr": "*",
+                    "koodimonni-theme-language/twentyten-ko_kr": "*",
                     "koodimonni-theme-language/twentyeleven-ko_kr": "*",
+                    "koodimonni-theme-language/twentytwelve-ko_kr": "*",
+                    "koodimonni-theme-language/twentythirteen-ko_kr": "*",
+                    "koodimonni-theme-language/twentyfourteen-ko_kr": "*",
                     "koodimonni-plugin-language/woocommerce-ko_kr": "*"
                 }
             }
@@ -25139,7 +26061,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "my_mm"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Burmese - my_mm",
@@ -25150,10 +26072,11 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
-                    "koodimonni-theme-language/twentyfourteen-my_mm": "*",
-                    "koodimonni-theme-language/twentythirteen-my_mm": "*",
+                    "koodimonni-theme-language/twentyten-my_mm": "*",
+                    "koodimonni-theme-language/twentyeleven-my_mm": "*",
                     "koodimonni-theme-language/twentytwelve-my_mm": "*",
-                    "koodimonni-theme-language/twentyeleven-my_mm": "*"
+                    "koodimonni-theme-language/twentythirteen-my_mm": "*",
+                    "koodimonni-theme-language/twentyfourteen-my_mm": "*"
                 }
             }
         },
@@ -25166,7 +26089,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "my_mm"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Burmese - my_mm",
@@ -25177,10 +26100,11 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
-                    "koodimonni-theme-language/twentyfourteen-my_mm": "*",
-                    "koodimonni-theme-language/twentythirteen-my_mm": "*",
+                    "koodimonni-theme-language/twentyten-my_mm": "*",
+                    "koodimonni-theme-language/twentyeleven-my_mm": "*",
                     "koodimonni-theme-language/twentytwelve-my_mm": "*",
-                    "koodimonni-theme-language/twentyeleven-my_mm": "*"
+                    "koodimonni-theme-language/twentythirteen-my_mm": "*",
+                    "koodimonni-theme-language/twentyfourteen-my_mm": "*"
                 }
             }
         },
@@ -25193,7 +26117,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "nb_no"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Norwegian (Bokm\u00e5l) - nb_no",
@@ -25205,10 +26129,11 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-nb_no": "*",
-                    "koodimonni-theme-language/twentyfourteen-nb_no": "*",
-                    "koodimonni-theme-language/twentythirteen-nb_no": "*",
-                    "koodimonni-theme-language/twentytwelve-nb_no": "*",
+                    "koodimonni-theme-language/twentyten-nb_no": "*",
                     "koodimonni-theme-language/twentyeleven-nb_no": "*",
+                    "koodimonni-theme-language/twentytwelve-nb_no": "*",
+                    "koodimonni-theme-language/twentythirteen-nb_no": "*",
+                    "koodimonni-theme-language/twentyfourteen-nb_no": "*",
                     "koodimonni-theme-language/twentyfifteen-nb_no": "*",
                     "koodimonni-plugin-language/woocommerce-nb_no": "*"
                 }
@@ -25223,7 +26148,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "nb_no"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Norwegian (Bokm\u00e5l) - nb_no",
@@ -25235,10 +26160,11 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-nb_no": "*",
-                    "koodimonni-theme-language/twentyfourteen-nb_no": "*",
-                    "koodimonni-theme-language/twentythirteen-nb_no": "*",
-                    "koodimonni-theme-language/twentytwelve-nb_no": "*",
+                    "koodimonni-theme-language/twentyten-nb_no": "*",
                     "koodimonni-theme-language/twentyeleven-nb_no": "*",
+                    "koodimonni-theme-language/twentytwelve-nb_no": "*",
+                    "koodimonni-theme-language/twentythirteen-nb_no": "*",
+                    "koodimonni-theme-language/twentyfourteen-nb_no": "*",
                     "koodimonni-theme-language/twentyfifteen-nb_no": "*",
                     "koodimonni-plugin-language/woocommerce-nb_no": "*"
                 }
@@ -25253,7 +26179,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "nl_nl"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Dutch - nl_nl",
@@ -25265,10 +26191,11 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-nl_nl": "*",
-                    "koodimonni-theme-language/twentyfourteen-nl_nl": "*",
-                    "koodimonni-theme-language/twentythirteen-nl_nl": "*",
-                    "koodimonni-theme-language/twentytwelve-nl_nl": "*",
+                    "koodimonni-theme-language/twentyten-nl_nl": "*",
                     "koodimonni-theme-language/twentyeleven-nl_nl": "*",
+                    "koodimonni-theme-language/twentytwelve-nl_nl": "*",
+                    "koodimonni-theme-language/twentythirteen-nl_nl": "*",
+                    "koodimonni-theme-language/twentyfourteen-nl_nl": "*",
                     "koodimonni-theme-language/twentyfifteen-nl_nl": "*",
                     "koodimonni-plugin-language/woocommerce-nl_nl": "*"
                 }
@@ -25283,7 +26210,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "nl_nl"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Dutch - nl_nl",
@@ -25295,10 +26222,11 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-nl_nl": "*",
-                    "koodimonni-theme-language/twentyfourteen-nl_nl": "*",
-                    "koodimonni-theme-language/twentythirteen-nl_nl": "*",
-                    "koodimonni-theme-language/twentytwelve-nl_nl": "*",
+                    "koodimonni-theme-language/twentyten-nl_nl": "*",
                     "koodimonni-theme-language/twentyeleven-nl_nl": "*",
+                    "koodimonni-theme-language/twentytwelve-nl_nl": "*",
+                    "koodimonni-theme-language/twentythirteen-nl_nl": "*",
+                    "koodimonni-theme-language/twentyfourteen-nl_nl": "*",
                     "koodimonni-theme-language/twentyfifteen-nl_nl": "*",
                     "koodimonni-plugin-language/woocommerce-nl_nl": "*"
                 }
@@ -25313,7 +26241,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "pl_pl"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Polish - pl_pl",
@@ -25325,10 +26253,11 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-pl_pl": "*",
-                    "koodimonni-theme-language/twentyfourteen-pl_pl": "*",
-                    "koodimonni-theme-language/twentythirteen-pl_pl": "*",
-                    "koodimonni-theme-language/twentytwelve-pl_pl": "*",
+                    "koodimonni-theme-language/twentyten-pl_pl": "*",
                     "koodimonni-theme-language/twentyeleven-pl_pl": "*",
+                    "koodimonni-theme-language/twentytwelve-pl_pl": "*",
+                    "koodimonni-theme-language/twentythirteen-pl_pl": "*",
+                    "koodimonni-theme-language/twentyfourteen-pl_pl": "*",
                     "koodimonni-theme-language/twentyfifteen-pl_pl": "*",
                     "koodimonni-plugin-language/woocommerce-pl_pl": "*"
                 }
@@ -25343,7 +26272,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "pl_pl"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Polish - pl_pl",
@@ -25355,10 +26284,11 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-pl_pl": "*",
-                    "koodimonni-theme-language/twentyfourteen-pl_pl": "*",
-                    "koodimonni-theme-language/twentythirteen-pl_pl": "*",
-                    "koodimonni-theme-language/twentytwelve-pl_pl": "*",
+                    "koodimonni-theme-language/twentyten-pl_pl": "*",
                     "koodimonni-theme-language/twentyeleven-pl_pl": "*",
+                    "koodimonni-theme-language/twentytwelve-pl_pl": "*",
+                    "koodimonni-theme-language/twentythirteen-pl_pl": "*",
+                    "koodimonni-theme-language/twentyfourteen-pl_pl": "*",
                     "koodimonni-theme-language/twentyfifteen-pl_pl": "*",
                     "koodimonni-plugin-language/woocommerce-pl_pl": "*"
                 }
@@ -25373,7 +26303,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "pt_br"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Portuguese (Brazil) - pt_br",
@@ -25385,10 +26315,11 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/wordpress-importer-pt_br": "*",
-                    "koodimonni-theme-language/twentyfourteen-pt_br": "*",
-                    "koodimonni-theme-language/twentythirteen-pt_br": "*",
-                    "koodimonni-theme-language/twentytwelve-pt_br": "*",
+                    "koodimonni-theme-language/twentyten-pt_br": "*",
                     "koodimonni-theme-language/twentyeleven-pt_br": "*",
+                    "koodimonni-theme-language/twentytwelve-pt_br": "*",
+                    "koodimonni-theme-language/twentythirteen-pt_br": "*",
+                    "koodimonni-theme-language/twentyfourteen-pt_br": "*",
                     "koodimonni-theme-language/twentyfifteen-pt_br": "*",
                     "koodimonni-plugin-language/woocommerce-pt_br": "*"
                 }
@@ -25403,7 +26334,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "pt_br"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Portuguese (Brazil) - pt_br",
@@ -25415,10 +26346,11 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/wordpress-importer-pt_br": "*",
-                    "koodimonni-theme-language/twentyfourteen-pt_br": "*",
-                    "koodimonni-theme-language/twentythirteen-pt_br": "*",
-                    "koodimonni-theme-language/twentytwelve-pt_br": "*",
+                    "koodimonni-theme-language/twentyten-pt_br": "*",
                     "koodimonni-theme-language/twentyeleven-pt_br": "*",
+                    "koodimonni-theme-language/twentytwelve-pt_br": "*",
+                    "koodimonni-theme-language/twentythirteen-pt_br": "*",
+                    "koodimonni-theme-language/twentyfourteen-pt_br": "*",
                     "koodimonni-theme-language/twentyfifteen-pt_br": "*",
                     "koodimonni-plugin-language/woocommerce-pt_br": "*"
                 }
@@ -25433,7 +26365,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "pt_pt"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Portuguese (Portugal) - pt_pt",
@@ -25446,10 +26378,11 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-pt_pt": "*",
                     "koodimonni-plugin-language/wordpress-importer-pt_pt": "*",
-                    "koodimonni-theme-language/twentyfourteen-pt_pt": "*",
-                    "koodimonni-theme-language/twentythirteen-pt_pt": "*",
-                    "koodimonni-theme-language/twentytwelve-pt_pt": "*",
+                    "koodimonni-theme-language/twentyten-pt_pt": "*",
                     "koodimonni-theme-language/twentyeleven-pt_pt": "*",
+                    "koodimonni-theme-language/twentytwelve-pt_pt": "*",
+                    "koodimonni-theme-language/twentythirteen-pt_pt": "*",
+                    "koodimonni-theme-language/twentyfourteen-pt_pt": "*",
                     "koodimonni-theme-language/twentyfifteen-pt_pt": "*",
                     "koodimonni-plugin-language/woocommerce-pt_pt": "*"
                 }
@@ -25464,7 +26397,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "pt_pt"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Portuguese (Portugal) - pt_pt",
@@ -25477,10 +26410,11 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-pt_pt": "*",
                     "koodimonni-plugin-language/wordpress-importer-pt_pt": "*",
-                    "koodimonni-theme-language/twentyfourteen-pt_pt": "*",
-                    "koodimonni-theme-language/twentythirteen-pt_pt": "*",
-                    "koodimonni-theme-language/twentytwelve-pt_pt": "*",
+                    "koodimonni-theme-language/twentyten-pt_pt": "*",
                     "koodimonni-theme-language/twentyeleven-pt_pt": "*",
+                    "koodimonni-theme-language/twentytwelve-pt_pt": "*",
+                    "koodimonni-theme-language/twentythirteen-pt_pt": "*",
+                    "koodimonni-theme-language/twentyfourteen-pt_pt": "*",
                     "koodimonni-theme-language/twentyfifteen-pt_pt": "*",
                     "koodimonni-plugin-language/woocommerce-pt_pt": "*"
                 }
@@ -25495,7 +26429,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "ro_ro"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Romanian - ro_ro",
@@ -25506,10 +26440,11 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
-                    "koodimonni-theme-language/twentyfourteen-ro_ro": "*",
-                    "koodimonni-theme-language/twentythirteen-ro_ro": "*",
-                    "koodimonni-theme-language/twentytwelve-ro_ro": "*",
+                    "koodimonni-theme-language/twentyten-ro_ro": "*",
                     "koodimonni-theme-language/twentyeleven-ro_ro": "*",
+                    "koodimonni-theme-language/twentytwelve-ro_ro": "*",
+                    "koodimonni-theme-language/twentythirteen-ro_ro": "*",
+                    "koodimonni-theme-language/twentyfourteen-ro_ro": "*",
                     "koodimonni-theme-language/twentyfifteen-ro_ro": "*",
                     "koodimonni-plugin-language/woocommerce-ro_ro": "*"
                 }
@@ -25524,7 +26459,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "ru_ru"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Russian - ru_ru",
@@ -25537,10 +26472,11 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-ru_ru": "*",
                     "koodimonni-plugin-language/wordpress-importer-ru_ru": "*",
-                    "koodimonni-theme-language/twentyfourteen-ru_ru": "*",
-                    "koodimonni-theme-language/twentythirteen-ru_ru": "*",
-                    "koodimonni-theme-language/twentytwelve-ru_ru": "*",
+                    "koodimonni-theme-language/twentyten-ru_ru": "*",
                     "koodimonni-theme-language/twentyeleven-ru_ru": "*",
+                    "koodimonni-theme-language/twentytwelve-ru_ru": "*",
+                    "koodimonni-theme-language/twentythirteen-ru_ru": "*",
+                    "koodimonni-theme-language/twentyfourteen-ru_ru": "*",
                     "koodimonni-theme-language/twentyfifteen-ru_ru": "*",
                     "koodimonni-plugin-language/woocommerce-ru_ru": "*"
                 }
@@ -25555,7 +26491,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "ru_ru"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Russian - ru_ru",
@@ -25568,10 +26504,11 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-ru_ru": "*",
                     "koodimonni-plugin-language/wordpress-importer-ru_ru": "*",
-                    "koodimonni-theme-language/twentyfourteen-ru_ru": "*",
-                    "koodimonni-theme-language/twentythirteen-ru_ru": "*",
-                    "koodimonni-theme-language/twentytwelve-ru_ru": "*",
+                    "koodimonni-theme-language/twentyten-ru_ru": "*",
                     "koodimonni-theme-language/twentyeleven-ru_ru": "*",
+                    "koodimonni-theme-language/twentytwelve-ru_ru": "*",
+                    "koodimonni-theme-language/twentythirteen-ru_ru": "*",
+                    "koodimonni-theme-language/twentyfourteen-ru_ru": "*",
                     "koodimonni-theme-language/twentyfifteen-ru_ru": "*",
                     "koodimonni-plugin-language/woocommerce-ru_ru": "*"
                 }
@@ -25586,7 +26523,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "sk_sk"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Slovak - sk_sk",
@@ -25598,10 +26535,11 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-sk_sk": "*",
-                    "koodimonni-theme-language/twentyfourteen-sk_sk": "*",
-                    "koodimonni-theme-language/twentythirteen-sk_sk": "*",
-                    "koodimonni-theme-language/twentytwelve-sk_sk": "*",
+                    "koodimonni-theme-language/twentyten-sk_sk": "*",
                     "koodimonni-theme-language/twentyeleven-sk_sk": "*",
+                    "koodimonni-theme-language/twentytwelve-sk_sk": "*",
+                    "koodimonni-theme-language/twentythirteen-sk_sk": "*",
+                    "koodimonni-theme-language/twentyfourteen-sk_sk": "*",
                     "koodimonni-theme-language/twentyfifteen-sk_sk": "*",
                     "koodimonni-plugin-language/woocommerce-sk_sk": "*"
                 }
@@ -25616,7 +26554,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "sk_sk"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Slovak - sk_sk",
@@ -25628,10 +26566,11 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-sk_sk": "*",
-                    "koodimonni-theme-language/twentyfourteen-sk_sk": "*",
-                    "koodimonni-theme-language/twentythirteen-sk_sk": "*",
-                    "koodimonni-theme-language/twentytwelve-sk_sk": "*",
+                    "koodimonni-theme-language/twentyten-sk_sk": "*",
                     "koodimonni-theme-language/twentyeleven-sk_sk": "*",
+                    "koodimonni-theme-language/twentytwelve-sk_sk": "*",
+                    "koodimonni-theme-language/twentythirteen-sk_sk": "*",
+                    "koodimonni-theme-language/twentyfourteen-sk_sk": "*",
                     "koodimonni-theme-language/twentyfifteen-sk_sk": "*",
                     "koodimonni-plugin-language/woocommerce-sk_sk": "*"
                 }
@@ -25646,7 +26585,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "sr_rs"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Serbian - sr_rs",
@@ -25657,10 +26596,11 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
-                    "koodimonni-theme-language/twentyfourteen-sr_rs": "*",
-                    "koodimonni-theme-language/twentythirteen-sr_rs": "*",
-                    "koodimonni-theme-language/twentytwelve-sr_rs": "*",
+                    "koodimonni-theme-language/twentyten-sr_rs": "*",
                     "koodimonni-theme-language/twentyeleven-sr_rs": "*",
+                    "koodimonni-theme-language/twentytwelve-sr_rs": "*",
+                    "koodimonni-theme-language/twentythirteen-sr_rs": "*",
+                    "koodimonni-theme-language/twentyfourteen-sr_rs": "*",
                     "koodimonni-theme-language/twentyfifteen-sr_rs": "*",
                     "koodimonni-plugin-language/woocommerce-sr_rs": "*"
                 }
@@ -25675,7 +26615,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "sr_rs"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Serbian - sr_rs",
@@ -25686,10 +26626,11 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
-                    "koodimonni-theme-language/twentyfourteen-sr_rs": "*",
-                    "koodimonni-theme-language/twentythirteen-sr_rs": "*",
-                    "koodimonni-theme-language/twentytwelve-sr_rs": "*",
+                    "koodimonni-theme-language/twentyten-sr_rs": "*",
                     "koodimonni-theme-language/twentyeleven-sr_rs": "*",
+                    "koodimonni-theme-language/twentytwelve-sr_rs": "*",
+                    "koodimonni-theme-language/twentythirteen-sr_rs": "*",
+                    "koodimonni-theme-language/twentyfourteen-sr_rs": "*",
                     "koodimonni-theme-language/twentyfifteen-sr_rs": "*",
                     "koodimonni-plugin-language/woocommerce-sr_rs": "*"
                 }
@@ -25704,7 +26645,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "sv_se"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Swedish - sv_se",
@@ -25717,9 +26658,9 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-sv_se": "*",
                     "koodimonni-plugin-language/wordpress-importer-sv_se": "*",
-                    "koodimonni-theme-language/twentyfourteen-sv_se": "*",
-                    "koodimonni-theme-language/twentythirteen-sv_se": "*",
                     "koodimonni-theme-language/twentytwelve-sv_se": "*",
+                    "koodimonni-theme-language/twentythirteen-sv_se": "*",
+                    "koodimonni-theme-language/twentyfourteen-sv_se": "*",
                     "koodimonni-theme-language/twentyfifteen-sv_se": "*",
                     "koodimonni-plugin-language/woocommerce-sv_se": "*"
                 }
@@ -25734,7 +26675,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "sv_se"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Swedish - sv_se",
@@ -25747,9 +26688,9 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-sv_se": "*",
                     "koodimonni-plugin-language/wordpress-importer-sv_se": "*",
-                    "koodimonni-theme-language/twentyfourteen-sv_se": "*",
-                    "koodimonni-theme-language/twentythirteen-sv_se": "*",
                     "koodimonni-theme-language/twentytwelve-sv_se": "*",
+                    "koodimonni-theme-language/twentythirteen-sv_se": "*",
+                    "koodimonni-theme-language/twentyfourteen-sv_se": "*",
                     "koodimonni-theme-language/twentyfifteen-sv_se": "*",
                     "koodimonni-plugin-language/woocommerce-sv_se": "*"
                 }
@@ -25764,7 +26705,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "th"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Thai - th",
@@ -25776,10 +26717,11 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/wordpress-importer-th": "*",
-                    "koodimonni-theme-language/twentyfourteen-th": "*",
-                    "koodimonni-theme-language/twentythirteen-th": "*",
-                    "koodimonni-theme-language/twentytwelve-th": "*",
+                    "koodimonni-theme-language/twentyten-th": "*",
                     "koodimonni-theme-language/twentyeleven-th": "*",
+                    "koodimonni-theme-language/twentytwelve-th": "*",
+                    "koodimonni-theme-language/twentythirteen-th": "*",
+                    "koodimonni-theme-language/twentyfourteen-th": "*",
                     "koodimonni-theme-language/twentyfifteen-th": "*",
                     "koodimonni-plugin-language/woocommerce-th": "*"
                 }
@@ -25794,7 +26736,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "th"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Thai - th",
@@ -25806,10 +26748,11 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/wordpress-importer-th": "*",
-                    "koodimonni-theme-language/twentyfourteen-th": "*",
-                    "koodimonni-theme-language/twentythirteen-th": "*",
-                    "koodimonni-theme-language/twentytwelve-th": "*",
+                    "koodimonni-theme-language/twentyten-th": "*",
                     "koodimonni-theme-language/twentyeleven-th": "*",
+                    "koodimonni-theme-language/twentytwelve-th": "*",
+                    "koodimonni-theme-language/twentythirteen-th": "*",
+                    "koodimonni-theme-language/twentyfourteen-th": "*",
                     "koodimonni-theme-language/twentyfifteen-th": "*",
                     "koodimonni-plugin-language/woocommerce-th": "*"
                 }
@@ -25824,7 +26767,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "tr_tr"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Turkish - tr_tr",
@@ -25836,10 +26779,11 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/wordpress-importer-tr_tr": "*",
-                    "koodimonni-theme-language/twentyfourteen-tr_tr": "*",
-                    "koodimonni-theme-language/twentythirteen-tr_tr": "*",
-                    "koodimonni-theme-language/twentytwelve-tr_tr": "*",
+                    "koodimonni-theme-language/twentyten-tr_tr": "*",
                     "koodimonni-theme-language/twentyeleven-tr_tr": "*",
+                    "koodimonni-theme-language/twentytwelve-tr_tr": "*",
+                    "koodimonni-theme-language/twentythirteen-tr_tr": "*",
+                    "koodimonni-theme-language/twentyfourteen-tr_tr": "*",
                     "koodimonni-theme-language/twentyfifteen-tr_tr": "*",
                     "koodimonni-plugin-language/woocommerce-tr_tr": "*"
                 }
@@ -25854,7 +26798,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "tr_tr"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Turkish - tr_tr",
@@ -25866,10 +26810,11 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/wordpress-importer-tr_tr": "*",
-                    "koodimonni-theme-language/twentyfourteen-tr_tr": "*",
-                    "koodimonni-theme-language/twentythirteen-tr_tr": "*",
-                    "koodimonni-theme-language/twentytwelve-tr_tr": "*",
+                    "koodimonni-theme-language/twentyten-tr_tr": "*",
                     "koodimonni-theme-language/twentyeleven-tr_tr": "*",
+                    "koodimonni-theme-language/twentytwelve-tr_tr": "*",
+                    "koodimonni-theme-language/twentythirteen-tr_tr": "*",
+                    "koodimonni-theme-language/twentyfourteen-tr_tr": "*",
                     "koodimonni-theme-language/twentyfifteen-tr_tr": "*",
                     "koodimonni-plugin-language/woocommerce-tr_tr": "*"
                 }
@@ -25884,7 +26829,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "zh_cn"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Chinese (China) - zh_cn",
@@ -25896,8 +26841,9 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/wordpress-importer-zh_cn": "*",
-                    "koodimonni-theme-language/twentytwelve-zh_cn": "*",
+                    "koodimonni-theme-language/twentyten-zh_cn": "*",
                     "koodimonni-theme-language/twentyeleven-zh_cn": "*",
+                    "koodimonni-theme-language/twentytwelve-zh_cn": "*",
                     "koodimonni-plugin-language/woocommerce-zh_cn": "*"
                 }
             }
@@ -25911,7 +26857,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "zh_cn"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Chinese (China) - zh_cn",
@@ -25923,8 +26869,9 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/wordpress-importer-zh_cn": "*",
-                    "koodimonni-theme-language/twentytwelve-zh_cn": "*",
+                    "koodimonni-theme-language/twentyten-zh_cn": "*",
                     "koodimonni-theme-language/twentyeleven-zh_cn": "*",
+                    "koodimonni-theme-language/twentytwelve-zh_cn": "*",
                     "koodimonni-plugin-language/woocommerce-zh_cn": "*"
                 }
             }
@@ -25938,7 +26885,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "zh_tw"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Chinese (Taiwan) - zh_tw",
@@ -25949,10 +26896,11 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
-                    "koodimonni-theme-language/twentyfourteen-zh_tw": "*",
-                    "koodimonni-theme-language/twentythirteen-zh_tw": "*",
-                    "koodimonni-theme-language/twentytwelve-zh_tw": "*",
+                    "koodimonni-theme-language/twentyten-zh_tw": "*",
                     "koodimonni-theme-language/twentyeleven-zh_tw": "*",
+                    "koodimonni-theme-language/twentytwelve-zh_tw": "*",
+                    "koodimonni-theme-language/twentythirteen-zh_tw": "*",
+                    "koodimonni-theme-language/twentyfourteen-zh_tw": "*",
                     "koodimonni-plugin-language/woocommerce-zh_tw": "*"
                 }
             }
@@ -25966,7 +26914,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "sl_si"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Slovenian - sl_si",
@@ -25977,9 +26925,10 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
-                    "koodimonni-theme-language/twentythirteen-sl_si": "*",
-                    "koodimonni-theme-language/twentytwelve-sl_si": "*",
+                    "koodimonni-theme-language/twentyten-sl_si": "*",
                     "koodimonni-theme-language/twentyeleven-sl_si": "*",
+                    "koodimonni-theme-language/twentytwelve-sl_si": "*",
+                    "koodimonni-theme-language/twentythirteen-sl_si": "*",
                     "koodimonni-plugin-language/woocommerce-sl_si": "*"
                 }
             }
@@ -25993,7 +26942,7 @@
                     "Wordpress",
                     "Translation",
                     "Full-Package",
-                    "twentyfifteen",
+                    "twentyten",
                     "es_mx"
                 ],
                 "description": "Full Wordpress translation (including themes and core plugins) for Spanish (Mexico) - es_mx",
