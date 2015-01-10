@@ -18334,6 +18334,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-language/core-zh_tw",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "core",
+                    "zh_tw"
+                ],
+                "description": "Wordpress core translation for Chinese (Taiwan) - zh_tw",
+                "version": "4.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/zh_TW.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-language/core-sl_si",
                 "type": "wordpress-language",
                 "keywords": [
@@ -26892,6 +26914,35 @@
                 "version": "4.0",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/core/4.0/zh_TW.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-theme-language/twentyten-zh_tw": "*",
+                    "koodimonni-theme-language/twentyeleven-zh_tw": "*",
+                    "koodimonni-theme-language/twentytwelve-zh_tw": "*",
+                    "koodimonni-theme-language/twentythirteen-zh_tw": "*",
+                    "koodimonni-theme-language/twentyfourteen-zh_tw": "*",
+                    "koodimonni-plugin-language/woocommerce-zh_tw": "*"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-language/zh_tw",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "Full-Package",
+                    "twentyten",
+                    "zh_tw"
+                ],
+                "description": "Full Wordpress translation (including themes and core plugins) for Chinese (Taiwan) - zh_tw",
+                "version": "4.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/zh_TW.zip",
                     "type": "zip"
                 },
                 "require": {

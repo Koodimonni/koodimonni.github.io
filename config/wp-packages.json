@@ -2817,6 +2817,9 @@
                 "zh_tw": {
                     "4.0": {
                         "dist": "https://downloads.wordpress.org/translation/core/4.0/zh_TW.zip"
+                    },
+                    "4.1": {
+                        "dist": "https://downloads.wordpress.org/translation/core/4.1/zh_TW.zip"
                     }
                 },
                 "sl_si": {
