@@ -19357,7 +19357,7 @@
                 "description": "Wordpress core translation for Arabic - ar",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/ar.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/ar.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -19401,7 +19401,7 @@
                 "description": "Wordpress core translation for Azerbaijani - az",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/az.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/az.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -19445,7 +19445,7 @@
                 "description": "Wordpress core translation for Bulgarian - bg_bg",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/bg_BG.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/bg_BG.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -19489,7 +19489,7 @@
                 "description": "Wordpress core translation for Bosnian - bs_ba",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/bs_BA.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/bs_BA.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -19533,7 +19533,7 @@
                 "description": "Wordpress core translation for Catalan - ca",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/ca.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/ca.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -19577,7 +19577,7 @@
                 "description": "Wordpress core translation for Welsh - cy",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/cy.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/cy.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -19621,7 +19621,7 @@
                 "description": "Wordpress core translation for Danish - da_dk",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/da_DK.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/da_DK.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -19665,7 +19665,7 @@
                 "description": "Wordpress core translation for German - de_de",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/de_DE.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/de_DE.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -19709,7 +19709,7 @@
                 "description": "Wordpress core translation for Greek - el",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/el.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/el.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -19731,7 +19731,7 @@
                 "description": "Wordpress core translation for English (Australia) - en_au",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/en_AU.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/en_AU.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -19775,7 +19775,7 @@
                 "description": "Wordpress core translation for English (UK) - en_gb",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/en_GB.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/en_GB.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -19819,7 +19819,7 @@
                 "description": "Wordpress core translation for English (Canada) - en_ca",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/en_CA.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/en_CA.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -19863,7 +19863,7 @@
                 "description": "Wordpress core translation for Esperanto - eo",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/eo.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/eo.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -19885,7 +19885,7 @@
                 "description": "Wordpress core translation for Spanish (Spain) - es_es",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/es_ES.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/es_ES.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -19973,7 +19973,7 @@
                 "description": "Wordpress core translation for Spanish (Peru) - es_pe",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/es_PE.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/es_PE.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -20017,7 +20017,7 @@
                 "description": "Wordpress core translation for Basque - eu",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/eu.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/eu.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -20039,7 +20039,7 @@
                 "description": "Wordpress core translation for Persian - fa_ir",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/fa_IR.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/fa_IR.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -20083,7 +20083,7 @@
                 "description": "Wordpress core translation for Finnish - fi",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/fi.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/fi.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -20127,7 +20127,7 @@
                 "description": "Wordpress core translation for French (France) - fr_fr",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/fr_FR.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/fr_FR.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -20193,7 +20193,7 @@
                 "description": "Wordpress core translation for Galician - gl_es",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/gl_ES.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/gl_ES.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -20237,7 +20237,7 @@
                 "description": "Wordpress core translation for Hebrew - he_il",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/he_IL.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/he_IL.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -20281,7 +20281,7 @@
                 "description": "Wordpress core translation for Croatian - hr",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/hr.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/hr.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -20325,7 +20325,7 @@
                 "description": "Wordpress core translation for Hungarian - hu_hu",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/hu_HU.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/hu_HU.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -20369,7 +20369,7 @@
                 "description": "Wordpress core translation for Indonesian - id_id",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/id_ID.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/id_ID.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -20413,7 +20413,7 @@
                 "description": "Wordpress core translation for Italian - it_it",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/it_IT.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/it_IT.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -20457,7 +20457,7 @@
                 "description": "Wordpress core translation for Japanese - ja",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/ja.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/ja.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -20501,7 +20501,7 @@
                 "description": "Wordpress core translation for Korean - ko_kr",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/ko_KR.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/ko_KR.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -20545,7 +20545,7 @@
                 "description": "Wordpress core translation for Burmese - my_mm",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/my_MM.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/my_MM.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -20589,7 +20589,7 @@
                 "description": "Wordpress core translation for Norwegian (Bokm\u00e5l) - nb_no",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/nb_NO.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/nb_NO.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -20633,7 +20633,7 @@
                 "description": "Wordpress core translation for Dutch - nl_nl",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/nl_NL.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/nl_NL.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -20677,7 +20677,7 @@
                 "description": "Wordpress core translation for Polish - pl_pl",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/pl_PL.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/pl_PL.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -20721,7 +20721,7 @@
                 "description": "Wordpress core translation for Portuguese (Brazil) - pt_br",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/pt_BR.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/pt_BR.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -20765,7 +20765,7 @@
                 "description": "Wordpress core translation for Portuguese (Portugal) - pt_pt",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/pt_PT.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/pt_PT.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -20809,7 +20809,7 @@
                 "description": "Wordpress core translation for Romanian - ro_ro",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/ro_RO.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/ro_RO.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -20831,7 +20831,7 @@
                 "description": "Wordpress core translation for Russian - ru_ru",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/ru_RU.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/ru_RU.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -20875,7 +20875,7 @@
                 "description": "Wordpress core translation for Slovak - sk_sk",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/sk_SK.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/sk_SK.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -20919,7 +20919,7 @@
                 "description": "Wordpress core translation for Serbian - sr_rs",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/sr_RS.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/sr_RS.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -20963,7 +20963,7 @@
                 "description": "Wordpress core translation for Swedish - sv_se",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/sv_SE.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/sv_SE.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -21007,7 +21007,7 @@
                 "description": "Wordpress core translation for Thai - th",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/th.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/th.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -21051,7 +21051,7 @@
                 "description": "Wordpress core translation for Turkish - tr_tr",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/tr_TR.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/tr_TR.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -21117,7 +21117,7 @@
                 "description": "Wordpress core translation for Chinese (China) - zh_cn",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/zh_CN.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/zh_CN.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -21161,7 +21161,7 @@
                 "description": "Wordpress core translation for Chinese (Taiwan) - zh_tw",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/zh_TW.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/zh_TW.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -21183,7 +21183,7 @@
                 "description": "Wordpress core translation for Slovenian - sl_si",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/sl_SI.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/sl_SI.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -21205,7 +21205,7 @@
                 "description": "Wordpress core translation for Spanish (Mexico) - es_mx",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/es_MX.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/es_MX.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -27278,7 +27278,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Arabic - ar",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/ar.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/ar.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -27338,7 +27338,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Azerbaijani - az",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/az.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/az.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -27394,7 +27394,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Bulgarian - bg_bg",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/bg_BG.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/bg_BG.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -27452,7 +27452,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Bosnian - bs_ba",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/bs_BA.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/bs_BA.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -27514,7 +27514,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Catalan - ca",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/ca.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/ca.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -27578,7 +27578,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Welsh - cy",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/cy.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/cy.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -27636,7 +27636,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Danish - da_dk",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/da_DK.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/da_DK.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -27694,7 +27694,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for German - de_de",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/de_DE.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/de_DE.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -27758,7 +27758,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Greek - el",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/el.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/el.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -27786,7 +27786,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for English (Australia) - en_au",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/en_AU.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/en_AU.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -27846,7 +27846,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for English (UK) - en_gb",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/en_GB.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/en_GB.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -27906,7 +27906,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for English (Canada) - en_ca",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/en_CA.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/en_CA.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -27966,7 +27966,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Esperanto - eo",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/eo.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/eo.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -27995,7 +27995,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Spanish (Spain) - es_es",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/es_ES.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/es_ES.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -28116,7 +28116,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Spanish (Peru) - es_pe",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/es_PE.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/es_PE.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -28174,7 +28174,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Basque - eu",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/eu.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/eu.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -28203,7 +28203,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Persian - fa_ir",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/fa_IR.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/fa_IR.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -28261,7 +28261,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Finnish - fi",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/fi.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/fi.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -28323,7 +28323,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for French (France) - fr_fr",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/fr_FR.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/fr_FR.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -28413,7 +28413,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Galician - gl_es",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/gl_ES.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/gl_ES.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -28473,7 +28473,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Hebrew - he_il",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/he_IL.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/he_IL.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -28535,7 +28535,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Croatian - hr",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/hr.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/hr.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -28599,7 +28599,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Hungarian - hu_hu",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/hu_HU.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/hu_HU.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -28657,7 +28657,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Indonesian - id_id",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/id_ID.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/id_ID.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -28721,7 +28721,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Italian - it_it",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/it_IT.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/it_IT.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -28781,7 +28781,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Japanese - ja",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/ja.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/ja.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -28843,7 +28843,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Korean - ko_kr",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/ko_KR.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/ko_KR.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -28905,7 +28905,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Burmese - my_mm",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/my_MM.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/my_MM.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -28961,7 +28961,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Norwegian (Bokm\u00e5l) - nb_no",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/nb_NO.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/nb_NO.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -29023,7 +29023,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Dutch - nl_nl",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/nl_NL.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/nl_NL.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -29085,7 +29085,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Polish - pl_pl",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/pl_PL.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/pl_PL.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -29147,7 +29147,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Portuguese (Brazil) - pt_br",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/pt_BR.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/pt_BR.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -29209,7 +29209,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Portuguese (Portugal) - pt_pt",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/pt_PT.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/pt_PT.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -29273,7 +29273,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Romanian - ro_ro",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/ro_RO.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/ro_RO.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -29303,7 +29303,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Russian - ru_ru",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/ru_RU.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/ru_RU.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -29367,7 +29367,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Slovak - sk_sk",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/sk_SK.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/sk_SK.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -29429,7 +29429,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Serbian - sr_rs",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/sr_RS.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/sr_RS.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -29489,7 +29489,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Swedish - sv_se",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/sv_SE.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/sv_SE.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -29549,7 +29549,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Thai - th",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/th.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/th.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -29611,7 +29611,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Turkish - tr_tr",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/tr_TR.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/tr_TR.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -29701,7 +29701,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Chinese (China) - zh_cn",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/zh_CN.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/zh_CN.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -29758,7 +29758,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Chinese (Taiwan) - zh_tw",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/zh_TW.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/zh_TW.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -29787,7 +29787,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Slovenian - sl_si",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/sl_SI.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/sl_SI.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -29815,7 +29815,7 @@
                 "description": "Full Wordpress translation (including themes and core plugins) for Spanish (Mexico) - es_mx",
                 "version": "4.1",
                 "dist": {
-                    "url": "http://downloads.wordpress.org/translation/core/4.1/es_MX.zip",
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/es_MX.zip",
                     "type": "zip"
                 },
                 "require": {
