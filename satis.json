@@ -22624,6 +22624,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-language/core-lt_lt",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "core",
+                    "lt_lt"
+                ],
+                "description": "Wordpress core translation for Lithuanian - lt_lt",
+                "version": "4.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/lt_LT.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-theme-language/twentyfourteen-ar",
                 "type": "wordpress-language",
                 "keywords": [
@@ -31229,6 +31251,34 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/woocommerce-es_mx": "*"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-language/lt_lt",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "Full-Package",
+                    "twentyten",
+                    "lt_lt"
+                ],
+                "description": "Full Wordpress translation (including themes and core plugins) for Lithuanian - lt_lt",
+                "version": "4.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.1/lt_LT.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-theme-language/twentytwelve-lt_lt": "*",
+                    "koodimonni-theme-language/twentythirteen-lt_lt": "*",
+                    "koodimonni-theme-language/twentyfourteen-lt_lt": "*",
+                    "koodimonni-theme-language/twentyfifteen-lt_lt": "*",
+                    "koodimonni-plugin-language/woocommerce-lt_lt": "*"
                 }
             }
         }

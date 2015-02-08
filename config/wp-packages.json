@@ -3407,6 +3407,11 @@
                     "4.1": {
                         "dist": "https://downloads.wordpress.org/translation/core/4.1/es_MX.zip"
                     }
+                },
+                "lt_lt": {
+                    "4.1": {
+                        "dist": "https://downloads.wordpress.org/translation/core/4.1/lt_LT.zip"
+                    }
                 }
             }
         },
