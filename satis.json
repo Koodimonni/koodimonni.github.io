@@ -29136,6 +29136,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-plugin-language/akismet-da_dk",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "akismet",
+                    "da_dk"
+                ],
+                "description": "Wordpress akismet translation for Danish - da_dk",
+                "version": "3.0.4",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/akismet/3.0.4/da_DK.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-plugin-language/wordpress-importer-az",
                 "type": "wordpress-language",
                 "keywords": [
@@ -30182,6 +30204,28 @@
                 "version": "0.6.1",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/plugin/wordpress-importer/0.6.1/sq.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-plugin-language/wordpress-importer-nl_nl",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "wordpress-importer",
+                    "nl_nl"
+                ],
+                "description": "Wordpress wordpress-importer translation for Dutch - nl_nl",
+                "version": "0.6.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/wordpress-importer/0.6.1/nl_NL.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -38557,6 +38601,7 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/akismet-da_dk": "*",
                     "koodimonni-theme-language/twentyten-da_dk": "*",
                     "koodimonni-theme-language/twentyeleven-da_dk": "*",
                     "koodimonni-theme-language/twentytwelve-da_dk": "*",
@@ -38586,6 +38631,7 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/akismet-da_dk": "*",
                     "koodimonni-theme-language/twentyten-da_dk": "*",
                     "koodimonni-theme-language/twentyeleven-da_dk": "*",
                     "koodimonni-theme-language/twentytwelve-da_dk": "*",
@@ -39950,6 +39996,7 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-nl_nl": "*",
+                    "koodimonni-plugin-language/wordpress-importer-nl_nl": "*",
                     "koodimonni-theme-language/twentyten-nl_nl": "*",
                     "koodimonni-theme-language/twentyeleven-nl_nl": "*",
                     "koodimonni-theme-language/twentytwelve-nl_nl": "*",
@@ -39981,6 +40028,7 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-nl_nl": "*",
+                    "koodimonni-plugin-language/wordpress-importer-nl_nl": "*",
                     "koodimonni-theme-language/twentyten-nl_nl": "*",
                     "koodimonni-theme-language/twentyeleven-nl_nl": "*",
                     "koodimonni-theme-language/twentytwelve-nl_nl": "*",

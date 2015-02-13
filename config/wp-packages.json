@@ -4185,6 +4185,11 @@
                     "3.0.4": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.0.4/ro_RO.zip"
                     }
+                },
+                "da_dk": {
+                    "3.0.4": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.0.4/da_DK.zip"
+                    }
                 }
             },
             "wordpress-importer": {
@@ -4382,6 +4387,11 @@
                 "sq": {
                     "0.6.1": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/wordpress-importer/0.6.1/sq.zip"
+                    }
+                },
+                "nl_nl": {
+                    "0.6.1": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/wordpress-importer/0.6.1/nl_NL.zip"
                     }
                 }
             }
