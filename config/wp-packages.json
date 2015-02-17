@@ -4992,6 +4992,11 @@
                     "4.1": {
                         "dist": "https://downloads.wordpress.org/translation/core/4.1/haz.zip"
                     }
+                },
+                "ug_cn": {
+                    "4.1": {
+                        "dist": "https://downloads.wordpress.org/translation/core/4.1/ug_CN.zip"
+                    }
                 }
             }
         },
