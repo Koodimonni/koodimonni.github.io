@@ -5068,6 +5068,9 @@
                     },
                     "4.1": {
                         "dist": "https://downloads.wordpress.org/translation/core/4.1/zh_TW.zip"
+                    },
+                    "4.1.1": {
+                        "dist": "https://downloads.wordpress.org/translation/core/4.1.1/zh_TW.zip"
                     }
                 },
                 "sl_si": {
