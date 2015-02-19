@@ -4722,6 +4722,9 @@
                 "el": {
                     "4.1": {
                         "dist": "https://downloads.wordpress.org/translation/core/4.1/el.zip"
+                    },
+                    "4.1.1": {
+                        "dist": "https://downloads.wordpress.org/translation/core/4.1.1/el.zip"
                     }
                 },
                 "en_au": {

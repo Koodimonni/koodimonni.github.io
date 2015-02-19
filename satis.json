@@ -32480,6 +32480,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-language/core-el",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "core",
+                    "el"
+                ],
+                "description": "Wordpress core translation for Greek - el",
+                "version": "4.1.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.1.1/el.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-language/core-en_au",
                 "type": "wordpress-language",
                 "keywords": [
@@ -47446,6 +47468,34 @@
                 "version": "4.1",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/core/4.1/el.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-theme-language/twentytwelve-el": "*",
+                    "koodimonni-theme-language/twentythirteen-el": "*",
+                    "koodimonni-theme-language/twentyfourteen-el": "*",
+                    "koodimonni-theme-language/twentyfifteen-el": "*",
+                    "koodimonni-plugin-language/woocommerce-el": "*"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-language/el",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "Full-Package",
+                    "twentyten",
+                    "el"
+                ],
+                "description": "Full Wordpress translation (including themes and core plugins) for Greek - el",
+                "version": "4.1.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.1.1/el.zip",
                     "type": "zip"
                 },
                 "require": {
