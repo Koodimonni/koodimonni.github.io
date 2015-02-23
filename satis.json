@@ -35516,6 +35516,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-language/core-my_mm",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "core",
+                    "my_mm"
+                ],
+                "description": "Wordpress core translation for Burmese - my_mm",
+                "version": "4.1.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.1.1/my_MM.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-language/core-nb_no",
                 "type": "wordpress-language",
                 "keywords": [
@@ -51069,6 +51091,35 @@
                 "version": "4.0",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/core/4.0/my_MM.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-theme-language/twentyten-my_mm": "*",
+                    "koodimonni-theme-language/twentyeleven-my_mm": "*",
+                    "koodimonni-theme-language/twentytwelve-my_mm": "*",
+                    "koodimonni-theme-language/twentythirteen-my_mm": "*",
+                    "koodimonni-theme-language/twentyfourteen-my_mm": "*",
+                    "koodimonni-theme-language/twentyfifteen-my_mm": "*"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-language/my_mm",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "Full-Package",
+                    "twentyten",
+                    "my_mm"
+                ],
+                "description": "Full Wordpress translation (including themes and core plugins) for Burmese - my_mm",
+                "version": "4.1.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.1.1/my_MM.zip",
                     "type": "zip"
                 },
                 "require": {
