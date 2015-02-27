@@ -5263,6 +5263,9 @@
                     },
                     "4.0": {
                         "dist": "https://downloads.wordpress.org/translation/core/4.0/sk_SK.zip"
+                    },
+                    "4.1.1": {
+                        "dist": "https://downloads.wordpress.org/translation/core/4.1.1/sk_SK.zip"
                     }
                 },
                 "sr_rs": {

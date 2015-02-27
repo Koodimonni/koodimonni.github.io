@@ -36022,6 +36022,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-language/core-sk_sk",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "core",
+                    "sk_sk"
+                ],
+                "description": "Wordpress core translation for Slovak - sk_sk",
+                "version": "4.1.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.1.1/sk_SK.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-language/core-sr_rs",
                 "type": "wordpress-language",
                 "keywords": [
@@ -51833,6 +51855,37 @@
                 "version": "4.0",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/core/4.0/sk_SK.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/akismet-sk_sk": "*",
+                    "koodimonni-theme-language/twentyten-sk_sk": "*",
+                    "koodimonni-theme-language/twentyeleven-sk_sk": "*",
+                    "koodimonni-theme-language/twentytwelve-sk_sk": "*",
+                    "koodimonni-theme-language/twentythirteen-sk_sk": "*",
+                    "koodimonni-theme-language/twentyfourteen-sk_sk": "*",
+                    "koodimonni-theme-language/twentyfifteen-sk_sk": "*",
+                    "koodimonni-plugin-language/woocommerce-sk_sk": "*"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-language/sk_sk",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "Full-Package",
+                    "twentyten",
+                    "sk_sk"
+                ],
+                "description": "Full Wordpress translation (including themes and core plugins) for Slovak - sk_sk",
+                "version": "4.1.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.1.1/sk_SK.zip",
                     "type": "zip"
                 },
                 "require": {
