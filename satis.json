@@ -31974,6 +31974,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-plugin-language/akismet-en_au",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "akismet",
+                    "en_au"
+                ],
+                "description": "Wordpress akismet translation for English (Australia) - en_au",
+                "version": "3.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/en_AU.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-plugin-language/akismet-en_ca",
                 "type": "wordpress-language",
                 "keywords": [
@@ -31986,6 +32008,28 @@
                 "version": "3.0",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/plugin/akismet/3.0/en_CA.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-plugin-language/akismet-en_ca",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "akismet",
+                    "en_ca"
+                ],
+                "description": "Wordpress akismet translation for English (Canada) - en_ca",
+                "version": "3.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/en_CA.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -32030,6 +32074,28 @@
                 "version": "3.0",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/plugin/akismet/3.0/es_ES.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-plugin-language/akismet-es_es",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "akismet",
+                    "es_es"
+                ],
+                "description": "Wordpress akismet translation for Spanish (Spain) - es_es",
+                "version": "3.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/es_ES.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -32194,6 +32260,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-plugin-language/akismet-id_id",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "akismet",
+                    "id_id"
+                ],
+                "description": "Wordpress akismet translation for Indonesian - id_id",
+                "version": "3.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/id_ID.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-plugin-language/akismet-it_it",
                 "type": "wordpress-language",
                 "keywords": [
@@ -32294,6 +32382,28 @@
                 "version": "3.0",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/plugin/akismet/3.0/ko_KR.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-plugin-language/akismet-ko_kr",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "akismet",
+                    "ko_kr"
+                ],
+                "description": "Wordpress akismet translation for Korean - ko_kr",
+                "version": "3.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/ko_KR.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -32612,6 +32722,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-plugin-language/akismet-ro_ro",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "akismet",
+                    "ro_ro"
+                ],
+                "description": "Wordpress akismet translation for Romanian - ro_ro",
+                "version": "3.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/ro_RO.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-plugin-language/akismet-da_dk",
                 "type": "wordpress-language",
                 "keywords": [
@@ -32646,6 +32778,50 @@
                 "version": "3.0.4",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/plugin/akismet/3.0.4/is_IS.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-plugin-language/akismet-is_is",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "akismet",
+                    "is_is"
+                ],
+                "description": "Wordpress akismet translation for Icelandic - is_is",
+                "version": "3.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/is_IS.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-plugin-language/akismet-ps",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "akismet",
+                    "ps"
+                ],
+                "description": "Wordpress akismet translation for Pashto - ps",
+                "version": "3.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/ps.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -33724,6 +33900,28 @@
                 "version": "0.6.1",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/plugin/wordpress-importer/0.6.1/nl_NL.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-plugin-language/wordpress-importer-el",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "wordpress-importer",
+                    "el"
+                ],
+                "description": "Wordpress wordpress-importer translation for Greek - el",
+                "version": "0.6.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/wordpress-importer/0.6.1/el.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -49430,6 +49628,7 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/wordpress-importer-el": "*",
                     "koodimonni-theme-language/twentytwelve-el": "*",
                     "koodimonni-theme-language/twentythirteen-el": "*",
                     "koodimonni-theme-language/twentyfourteen-el": "*",
@@ -49458,6 +49657,7 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/wordpress-importer-el": "*",
                     "koodimonni-theme-language/twentytwelve-el": "*",
                     "koodimonni-theme-language/twentythirteen-el": "*",
                     "koodimonni-theme-language/twentyfourteen-el": "*",
