@@ -33602,6 +33602,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-plugin-language/akismet-en_gb",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "akismet",
+                    "en_gb"
+                ],
+                "description": "Wordpress akismet translation for English (UK) - en_gb",
+                "version": "3.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/en_GB.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-plugin-language/akismet-en_au",
                 "type": "wordpress-language",
                 "keywords": [
@@ -33866,6 +33888,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-plugin-language/akismet-gl_es",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "akismet",
+                    "gl_es"
+                ],
+                "description": "Wordpress akismet translation for Galician - gl_es",
+                "version": "3.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/gl_ES.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-plugin-language/akismet-hr",
                 "type": "wordpress-language",
                 "keywords": [
@@ -33988,6 +34032,28 @@
                 "version": "3.0.4",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/plugin/akismet/3.0.4/it_IT.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-plugin-language/akismet-it_it",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "akismet",
+                    "it_it"
+                ],
+                "description": "Wordpress akismet translation for Italian - it_it",
+                "version": "3.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/it_IT.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -34164,6 +34230,28 @@
                 "version": "3.0.4",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/plugin/akismet/3.0.4/pl_PL.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-plugin-language/akismet-pl_pl",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "akismet",
+                    "pl_pl"
+                ],
+                "description": "Wordpress akismet translation for Polish - pl_pl",
+                "version": "3.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/pl_PL.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -34494,6 +34582,28 @@
                 "version": "3.1",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/ps.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-plugin-language/akismet-eo",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "akismet",
+                    "eo"
+                ],
+                "description": "Wordpress akismet translation for Esperanto - eo",
+                "version": "3.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/eo.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -40510,6 +40620,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-theme-language/twentyfourteen-vi",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyfourteen",
+                    "vi"
+                ],
+                "description": "Wordpress twentyfourteen translation for Vietnamese - vi",
+                "version": "1.3",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyfourteen/1.3/vi.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-theme-language/twentyfourteen-zh_tw",
                 "type": "wordpress-language",
                 "keywords": [
@@ -42832,6 +42964,28 @@
                 "version": "1.2",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/theme/twentythirteen/1.2/vi.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentythirteen-vi",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentythirteen",
+                    "vi"
+                ],
+                "description": "Wordpress twentythirteen translation for Vietnamese - vi",
+                "version": "1.4",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentythirteen/1.4/vi.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -48782,6 +48936,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-theme-language/twentyfifteen-vi",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyfifteen",
+                    "vi"
+                ],
+                "description": "Wordpress twentyfifteen translation for Vietnamese - vi",
+                "version": "1.0",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyfifteen/1.0/vi.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-theme-language/twentyten-ar",
                 "type": "wordpress-language",
                 "keywords": [
@@ -51650,6 +51826,7 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/akismet-eo": "*",
                     "koodimonni-plugin-language/wordpress-importer-eo": "*",
                     "koodimonni-theme-language/twentyten-eo": "*",
                     "koodimonni-theme-language/twentyeleven-eo": "*",
@@ -51680,6 +51857,7 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/akismet-eo": "*",
                     "koodimonni-plugin-language/wordpress-importer-eo": "*",
                     "koodimonni-theme-language/twentyten-eo": "*",
                     "koodimonni-theme-language/twentyeleven-eo": "*",
