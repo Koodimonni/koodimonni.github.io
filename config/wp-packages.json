@@ -5639,6 +5639,11 @@
                     "4.1.1": {
                         "dist": "https://downloads.wordpress.org/translation/core/4.1.1/is_IS.zip"
                     }
+                },
+                "ps": {
+                    "4.1.1": {
+                        "dist": "https://downloads.wordpress.org/translation/core/4.1.1/ps.zip"
+                    }
                 }
             }
         },
