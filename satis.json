@@ -34614,6 +34614,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-plugin-language/akismet-th",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "akismet",
+                    "th"
+                ],
+                "description": "Wordpress akismet translation for Thai - th",
+                "version": "3.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/th.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-plugin-language/wordpress-importer-az",
                 "type": "wordpress-language",
                 "keywords": [
@@ -54143,6 +54165,7 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/akismet-th": "*",
                     "koodimonni-plugin-language/wordpress-importer-th": "*",
                     "koodimonni-theme-language/twentyten-th": "*",
                     "koodimonni-theme-language/twentyeleven-th": "*",
@@ -54174,6 +54197,7 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/akismet-th": "*",
                     "koodimonni-plugin-language/wordpress-importer-th": "*",
                     "koodimonni-theme-language/twentyten-th": "*",
                     "koodimonni-theme-language/twentyeleven-th": "*",
@@ -54205,6 +54229,7 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/akismet-th": "*",
                     "koodimonni-plugin-language/wordpress-importer-th": "*",
                     "koodimonni-theme-language/twentyten-th": "*",
                     "koodimonni-theme-language/twentyeleven-th": "*",

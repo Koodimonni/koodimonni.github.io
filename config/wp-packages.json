@@ -4940,6 +4940,11 @@
                     "3.1": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/eo.zip"
                     }
+                },
+                "th": {
+                    "3.1": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/th.zip"
+                    }
                 }
             },
             "wordpress-importer": {
