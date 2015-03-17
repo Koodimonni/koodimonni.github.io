@@ -36682,6 +36682,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-language/core-es_pe",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "core",
+                    "es_pe"
+                ],
+                "description": "Wordpress core translation for Spanish (Peru) - es_pe",
+                "version": "4.1.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.1.1/es_PE.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-language/core-eu",
                 "type": "wordpress-language",
                 "keywords": [
@@ -52061,6 +52083,37 @@
                 "version": "4.1",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/core/4.1/es_PE.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/akismet-es_pe": "*",
+                    "koodimonni-plugin-language/wordpress-importer-es_pe": "*",
+                    "koodimonni-theme-language/twentyten-es_pe": "*",
+                    "koodimonni-theme-language/twentyeleven-es_pe": "*",
+                    "koodimonni-theme-language/twentytwelve-es_pe": "*",
+                    "koodimonni-theme-language/twentythirteen-es_pe": "*",
+                    "koodimonni-theme-language/twentyfourteen-es_pe": "*",
+                    "koodimonni-theme-language/twentyfifteen-es_pe": "*"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-language/es_pe",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "Full-Package",
+                    "twentyten",
+                    "es_pe"
+                ],
+                "description": "Full Wordpress translation (including themes and core plugins) for Spanish (Peru) - es_pe",
+                "version": "4.1.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.1.1/es_PE.zip",
                     "type": "zip"
                 },
                 "require": {
