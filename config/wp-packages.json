@@ -5558,6 +5558,9 @@
                     },
                     "4.0": {
                         "dist": "https://downloads.wordpress.org/translation/core/4.0/sr_RS.zip"
+                    },
+                    "4.1.1": {
+                        "dist": "https://downloads.wordpress.org/translation/core/4.1.1/sr_RS.zip"
                     }
                 },
                 "sv_se": {

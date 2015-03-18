@@ -38112,6 +38112,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-language/core-sr_rs",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "core",
+                    "sr_rs"
+                ],
+                "description": "Wordpress core translation for Serbian - sr_rs",
+                "version": "4.1.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.1.1/sr_RS.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-language/core-sv_se",
                 "type": "wordpress-language",
                 "keywords": [
@@ -54139,6 +54161,36 @@
                 "version": "4.0",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/core/4.0/sr_RS.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-theme-language/twentyten-sr_rs": "*",
+                    "koodimonni-theme-language/twentyeleven-sr_rs": "*",
+                    "koodimonni-theme-language/twentytwelve-sr_rs": "*",
+                    "koodimonni-theme-language/twentythirteen-sr_rs": "*",
+                    "koodimonni-theme-language/twentyfourteen-sr_rs": "*",
+                    "koodimonni-theme-language/twentyfifteen-sr_rs": "*",
+                    "koodimonni-plugin-language/woocommerce-sr_rs": "*"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-language/sr_rs",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "Full-Package",
+                    "twentyten",
+                    "sr_rs"
+                ],
+                "description": "Full Wordpress translation (including themes and core plugins) for Serbian - sr_rs",
+                "version": "4.1.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.1.1/sr_RS.zip",
                     "type": "zip"
                 },
                 "require": {
