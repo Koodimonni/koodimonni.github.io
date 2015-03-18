@@ -36880,6 +36880,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-language/core-fi",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "core",
+                    "fi"
+                ],
+                "description": "Wordpress core translation for Finnish - fi",
+                "version": "4.1.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.1.1/fi.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-language/core-fr_fr",
                 "type": "wordpress-language",
                 "keywords": [
@@ -52423,6 +52445,37 @@
                 "version": "4.0",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/core/4.0/fi.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/akismet-fi": "*",
+                    "koodimonni-plugin-language/wordpress-importer-fi": "*",
+                    "koodimonni-theme-language/twentyeleven-fi": "*",
+                    "koodimonni-theme-language/twentytwelve-fi": "*",
+                    "koodimonni-theme-language/twentythirteen-fi": "*",
+                    "koodimonni-theme-language/twentyfourteen-fi": "*",
+                    "koodimonni-theme-language/twentyfifteen-fi": "*",
+                    "koodimonni-plugin-language/woocommerce-fi": "*"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-language/fi",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "Full-Package",
+                    "twentyten",
+                    "fi"
+                ],
+                "description": "Full Wordpress translation (including themes and core plugins) for Finnish - fi",
+                "version": "4.1.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.1.1/fi.zip",
                     "type": "zip"
                 },
                 "require": {
