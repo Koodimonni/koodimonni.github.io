@@ -36308,6 +36308,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-plugin-language/akismet-cy",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "akismet",
+                    "cy"
+                ],
+                "description": "Wordpress akismet translation for Welsh - cy",
+                "version": "3.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/cy.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-plugin-language/wordpress-importer-az",
                 "type": "wordpress-language",
                 "keywords": [
@@ -53023,6 +53045,7 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/akismet-cy": "*",
                     "koodimonni-theme-language/twentyten-cy": "*",
                     "koodimonni-theme-language/twentyeleven-cy": "*",
                     "koodimonni-theme-language/twentytwelve-cy": "*",
@@ -53053,6 +53076,7 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/akismet-cy": "*",
                     "koodimonni-theme-language/twentyten-cy": "*",
                     "koodimonni-theme-language/twentyeleven-cy": "*",
                     "koodimonni-theme-language/twentytwelve-cy": "*",
@@ -53083,6 +53107,7 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/akismet-cy": "*",
                     "koodimonni-theme-language/twentyten-cy": "*",
                     "koodimonni-theme-language/twentyeleven-cy": "*",
                     "koodimonni-theme-language/twentytwelve-cy": "*",

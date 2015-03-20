@@ -5173,6 +5173,11 @@
                     "3.1": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/th.zip"
                     }
+                },
+                "cy": {
+                    "3.1": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/cy.zip"
+                    }
                 }
             },
             "wordpress-importer": {
