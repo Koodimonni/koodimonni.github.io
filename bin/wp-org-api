@@ -31,7 +31,6 @@ function get_file_extension($file_name) {
 }
 
 function get_json_url($url) {
-  echo "Downloading json: {$url}\n";
   // set HTTP header
   $headers = array(
       'Content-Type: application/json',
@@ -64,9 +63,7 @@ function get_json_url($url) {
 $wp_versions_json = get_json_url("https://api.wordpress.org/core/version-check/1.7/");
 if (!$wp_versions_json) { exit(1); }
 $wp_versions = array();
-echo "These are the latest wordpress versions:\n";
 foreach ($wp_versions_json['offers'] as $key => $value) {
-  echo "version:".$value['version']."\n";
   $wp_versions[] = $value['version'];
 }
 $wp_versions = array_unique($wp_versions);
@@ -212,7 +209,8 @@ foreach ($packages['packages']["wordpress-language"]['core'] as $language => $of
 }
 #merge arrays
 $satis['repositories'] = $repositories;
-echo "Repository count:".count($satis['repositories'])."\n";
+//for debugging
+//echo "Repository count:".count($satis['repositories'])."\n";
 
 #Save results and give to satis afterwise
 file_put_contents($satis_file, json_encode($satis,JSON_UNESCAPED_SLASHES|JSON_PRETTY_PRINT));

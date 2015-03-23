@@ -29,5 +29,7 @@ then
     #Reset git if satis gives error
     echo "Errors in building satis."
     git diff config/wp-packages.json
+    #Reset the json which is causing problems
+    git reset --hard HEAD
   fi
 fi
