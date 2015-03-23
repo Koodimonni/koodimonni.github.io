@@ -5386,6 +5386,16 @@
                     "0.6.1": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/wordpress-importer/0.6.1/el.zip"
                     }
+                },
+                "ja": {
+                    "0.6.1": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/wordpress-importer/0.6.1/ja.zip"
+                    }
+                },
+                "ps": {
+                    "0.6.1": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/wordpress-importer/0.6.1/ps.zip"
+                    }
                 }
             }
         },
