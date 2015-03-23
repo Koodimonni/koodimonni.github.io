@@ -35120,6 +35120,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-plugin-language/woocommerce-n",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "woocommerce",
+                    "n"
+                ],
+                "description": "Wordpress woocommerce translation for  - n",
+                "version": "N",
+                "dist": {
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/N/packages/N",
+                    "type": "com/woothemes/woocommerce-language-packs/N/packages/N"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-plugin-language/akismet-bg_bg",
                 "type": "wordpress-language",
                 "keywords": [
@@ -37420,6 +37442,50 @@
                 "version": "0.6.1",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/plugin/wordpress-importer/0.6.1/el.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-plugin-language/wordpress-importer-ps",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "wordpress-importer",
+                    "ps"
+                ],
+                "description": "Wordpress wordpress-importer translation for Pashto - ps",
+                "version": "0.6.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/wordpress-importer/0.6.1/ps.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-plugin-language/wordpress-importer-ja",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "wordpress-importer",
+                    "ja"
+                ],
+                "description": "Wordpress wordpress-importer translation for Japanese - ja",
+                "version": "0.6.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/wordpress-importer/0.6.1/ja.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -54886,6 +54952,7 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-ja": "*",
+                    "koodimonni-plugin-language/wordpress-importer-ja": "*",
                     "koodimonni-theme-language/twentyten-ja": "*",
                     "koodimonni-theme-language/twentyeleven-ja": "*",
                     "koodimonni-theme-language/twentytwelve-ja": "*",
@@ -54917,6 +54984,7 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-ja": "*",
+                    "koodimonni-plugin-language/wordpress-importer-ja": "*",
                     "koodimonni-theme-language/twentyten-ja": "*",
                     "koodimonni-theme-language/twentyeleven-ja": "*",
                     "koodimonni-theme-language/twentytwelve-ja": "*",
@@ -54948,6 +55016,7 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-ja": "*",
+                    "koodimonni-plugin-language/wordpress-importer-ja": "*",
                     "koodimonni-theme-language/twentyten-ja": "*",
                     "koodimonni-theme-language/twentyeleven-ja": "*",
                     "koodimonni-theme-language/twentytwelve-ja": "*",
@@ -56766,6 +56835,7 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-ps": "*",
+                    "koodimonni-plugin-language/wordpress-importer-ps": "*",
                     "koodimonni-theme-language/twentythirteen-ps": "*",
                     "koodimonni-theme-language/twentyfourteen-ps": "*",
                     "koodimonni-theme-language/twentyfifteen-ps": "*"

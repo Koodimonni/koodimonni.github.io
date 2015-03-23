@@ -13,14 +13,21 @@ CHANGED=$(git diff --name-only satis.json)
 
 if [ "$CHANGED" != "" ]
 then
-  echo "Packages have changed!"
-  echo "LOG:"
-  echo $LOG
-  echo "Updating changes into github..."
-  NOW=$(date +"%T %m-%d-%y")
   #Build satis repos and push changes into github
-  /usr/bin/php bin/satis build satis.json .
-  git add --all
-  git commit -am "Updated languages in: $NOW"
-  git push origin master
+  if /usr/bin/php bin/satis build satis.json . > /dev/null
+  then
+    echo "Packages have changed!"
+    echo "LOG:"
+    echo $LOG
+    echo "Updating changes into github..."
+    NOW=$(date +"%T %m-%d-%y")
+    #If satis was built correctly
+    git add --all
+    git commit -am "Updated languages in: $NOW"
+    git push origin master  
+  else
+    #Reset git if satis gives error
+    echo "Errors in building satis."
+    git diff config/wp-packages.json
+  fi
 fi

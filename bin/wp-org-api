@@ -120,11 +120,14 @@ $woocommerce_tags = get_json_url("https://api.github.com/repos/{$woocommerce_git
 
 #Add all github translation file versions from tags
 foreach ($woocommerce_files as $file) {
-  $language = basename($file['name'],".zip");
-  foreach ($woocommerce_tags as $tag) {
-    $packages['packages']["wordpress-plugin-language"]['woocommerce'][strtolower($language)][$tag['name']] = array(
-      "dist" => "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/{$tag['commit']['sha']}/packages/{$file['name']}"
-    );
+  #only allow filenames with .zip in their name
+  if (strpos($file['name'],'.zip') !== false) {
+    $language = basename($file['name'],".zip");
+    foreach ($woocommerce_tags as $tag) {
+      $packages['packages']["wordpress-plugin-language"]['woocommerce'][strtolower($language)][$tag['name']] = array(
+        "dist" => "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/{$tag['commit']['sha']}/packages/{$file['name']}"
+      );
+    }
   }
 }
 
