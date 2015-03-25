@@ -7892,6 +7892,11 @@
                     "1.0": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyfifteen/1.0/vi.zip"
                     }
+                },
+                "af": {
+                    "1.0": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyfifteen/1.0/af.zip"
+                    }
                 }
             },
             "twentyten": {
