@@ -5121,6 +5121,9 @@
                     },
                     "3.0.4": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.0.4/sv_SE.zip"
+                    },
+                    "3.1": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/sv_SE.zip"
                     }
                 },
                 "az": {
