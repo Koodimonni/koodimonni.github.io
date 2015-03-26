@@ -36396,6 +36396,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-plugin-language/akismet-sq",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "akismet",
+                    "sq"
+                ],
+                "description": "Wordpress akismet translation for Albanian - sq",
+                "version": "3.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/sq.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-plugin-language/wordpress-importer-az",
                 "type": "wordpress-language",
                 "keywords": [
