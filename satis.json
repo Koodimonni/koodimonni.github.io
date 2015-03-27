@@ -35978,6 +35978,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-plugin-language/akismet-pt_pt",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "akismet",
+                    "pt_pt"
+                ],
+                "description": "Wordpress akismet translation for Portuguese (Portugal) - pt_pt",
+                "version": "3.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/pt_PT.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-plugin-language/akismet-ru_ru",
                 "type": "wordpress-language",
                 "keywords": [
