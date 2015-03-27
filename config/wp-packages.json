@@ -5155,6 +5155,9 @@
                 "da_dk": {
                     "3.0.4": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.0.4/da_DK.zip"
+                    },
+                    "3.1": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/da_DK.zip"
                     }
                 },
                 "is_is": {
