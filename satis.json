@@ -36440,6 +36440,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-plugin-language/akismet-eu",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "akismet",
+                    "eu"
+                ],
+                "description": "Wordpress akismet translation for Basque - eu",
+                "version": "3.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/eu.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-plugin-language/wordpress-importer-az",
                 "type": "wordpress-language",
                 "keywords": [
@@ -54155,6 +54177,7 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/akismet-eu": "*",
                     "koodimonni-theme-language/twentyten-eu": "*",
                     "koodimonni-theme-language/twentyeleven-eu": "*",
                     "koodimonni-theme-language/twentytwelve-eu": "*",
@@ -54185,6 +54208,7 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/akismet-eu": "*",
                     "koodimonni-theme-language/twentyten-eu": "*",
                     "koodimonni-theme-language/twentyeleven-eu": "*",
                     "koodimonni-theme-language/twentytwelve-eu": "*",
@@ -54215,6 +54239,7 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/akismet-eu": "*",
                     "koodimonni-theme-language/twentyten-eu": "*",
                     "koodimonni-theme-language/twentyeleven-eu": "*",
                     "koodimonni-theme-language/twentytwelve-eu": "*",
