@@ -42908,6 +42908,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-theme-language/twentyfourteen-uk",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyfourteen",
+                    "uk"
+                ],
+                "description": "Wordpress twentyfourteen translation for Ukrainian - uk",
+                "version": "1.3",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyfourteen/1.3/uk.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-theme-language/twentythirteen-ar",
                 "type": "wordpress-language",
                 "keywords": [
@@ -44988,6 +45010,28 @@
                 "version": "1.2",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/theme/twentythirteen/1.2/uk.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentythirteen-uk",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentythirteen",
+                    "uk"
+                ],
+                "description": "Wordpress twentythirteen translation for Ukrainian - uk",
+                "version": "1.4",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentythirteen/1.4/uk.zip",
                     "type": "zip"
                 },
                 "require": {
