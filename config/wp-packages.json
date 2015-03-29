@@ -7940,6 +7940,11 @@
                     "1.0": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyfifteen/1.0/af.zip"
                     }
+                },
+                "uk": {
+                    "1.0": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyfifteen/1.0/uk.zip"
+                    }
                 }
             },
             "twentyten": {
