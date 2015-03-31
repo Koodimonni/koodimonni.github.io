@@ -5148,6 +5148,9 @@
                 "lt_lt": {
                     "3.0.4": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.0.4/lt_LT.zip"
+                    },
+                    "3.1": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/lt_LT.zip"
                     }
                 },
                 "ro_ro": {
