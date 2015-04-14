@@ -5069,6 +5069,9 @@
                     },
                     "3.0.4": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.0.4/ja.zip"
+                    },
+                    "3.1": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/ja.zip"
                     }
                 },
                 "ko_kr": {
