@@ -40752,6 +40752,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-language/core-nn_no",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "core",
+                    "nn_no"
+                ],
+                "description": "Wordpress core translation for Norwegian (Nynorsk) - nn_no",
+                "version": "4.1.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.1.1/nn_NO.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-theme-language/twentyfourteen-ar",
                 "type": "wordpress-language",
                 "keywords": [
@@ -57406,6 +57428,34 @@
                     "koodimonni-theme-language/twentyfourteen-uk": "*",
                     "koodimonni-theme-language/twentyfifteen-uk": "*",
                     "koodimonni-plugin-language/woocommerce-uk": "*"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-language/nn_no",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "Full-Package",
+                    "twentyten",
+                    "nn_no"
+                ],
+                "description": "Full Wordpress translation (including themes and core plugins) for Norwegian (Nynorsk) - nn_no",
+                "version": "4.1.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.1.1/nn_NO.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/wordpress-importer-nn_no": "*",
+                    "koodimonni-theme-language/twentytwelve-nn_no": "*",
+                    "koodimonni-theme-language/twentythirteen-nn_no": "*",
+                    "koodimonni-theme-language/twentyfourteen-nn_no": "*",
+                    "koodimonni-plugin-language/woocommerce-nn_no": "*"
                 }
             }
         }

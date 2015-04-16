@@ -5959,6 +5959,11 @@
                     "4.1.1": {
                         "dist": "https://downloads.wordpress.org/translation/core/4.1.1/uk.zip"
                     }
+                },
+                "nn_no": {
+                    "4.1.1": {
+                        "dist": "https://downloads.wordpress.org/translation/core/4.1.1/nn_NO.zip"
+                    }
                 }
             }
         },
