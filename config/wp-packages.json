@@ -7996,6 +7996,11 @@
                     "1.0": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyfifteen/1.0/ka_GE.zip"
                     }
+                },
+                "sq": {
+                    "1.0": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyfifteen/1.0/sq.zip"
+                    }
                 }
             },
             "twentyten": {
