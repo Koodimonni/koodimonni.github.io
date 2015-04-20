@@ -65,6 +65,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/af_ZA.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/af_ZA.zip"
                     }
                 },
                 "ar": {
@@ -130,6 +133,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/ar.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/ar.zip"
                     }
                 },
                 "bg_bg": {
@@ -195,6 +201,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/bg_BG.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/bg_BG.zip"
                     }
                 },
                 "bn_bd": {
@@ -260,6 +269,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/bn_BD.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/bn_BD.zip"
                     }
                 },
                 "bn_in": {
@@ -325,6 +337,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/bn_IN.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/bn_IN.zip"
                     }
                 },
                 "ca": {
@@ -390,6 +405,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/ca.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/ca.zip"
                     }
                 },
                 "cs_cz": {
@@ -455,6 +473,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/cs_CZ.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/cs_CZ.zip"
                     }
                 },
                 "cy": {
@@ -520,6 +541,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/cy.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/cy.zip"
                     }
                 },
                 "da_dk": {
@@ -585,6 +609,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/da_DK.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/da_DK.zip"
                     }
                 },
                 "de_ch": {
@@ -650,6 +677,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/de_CH.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/de_CH.zip"
                     }
                 },
                 "de_de": {
@@ -715,6 +745,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/de_DE.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/de_DE.zip"
                     }
                 },
                 "el": {
@@ -780,6 +813,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/el.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/el.zip"
                     }
                 },
                 "el_gr": {
@@ -845,6 +881,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/el_GR.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/el_GR.zip"
                     }
                 },
                 "en_gb": {
@@ -910,6 +949,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/en_GB.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/en_GB.zip"
                     }
                 },
                 "es_ar": {
@@ -975,6 +1017,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/es_AR.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/es_AR.zip"
                     }
                 },
                 "es_cl": {
@@ -1040,6 +1085,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/es_CL.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/es_CL.zip"
                     }
                 },
                 "es_co": {
@@ -1105,6 +1153,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/es_CO.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/es_CO.zip"
                     }
                 },
                 "es_es": {
@@ -1170,6 +1221,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/es_ES.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/es_ES.zip"
                     }
                 },
                 "es_mx": {
@@ -1235,6 +1289,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/es_MX.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/es_MX.zip"
                     }
                 },
                 "et": {
@@ -1300,6 +1357,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/et.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/et.zip"
                     }
                 },
                 "eu": {
@@ -1365,6 +1425,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/eu.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/eu.zip"
                     }
                 },
                 "fa_ir": {
@@ -1430,6 +1493,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/fa_IR.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/fa_IR.zip"
                     }
                 },
                 "fi": {
@@ -1495,6 +1561,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/fi.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/fi.zip"
                     }
                 },
                 "fi_fi": {
@@ -1560,6 +1629,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/fi_FI.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/fi_FI.zip"
                     }
                 },
                 "fil": {
@@ -1625,6 +1697,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/fil.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/fil.zip"
                     }
                 },
                 "fr_fr": {
@@ -1690,6 +1765,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/fr_FR.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/fr_FR.zip"
                     }
                 },
                 "he_il": {
@@ -1755,6 +1833,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/he_IL.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/he_IL.zip"
                     }
                 },
                 "hi_in": {
@@ -1820,6 +1901,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/hi_IN.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/hi_IN.zip"
                     }
                 },
                 "hr": {
@@ -1885,6 +1969,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/hr.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/hr.zip"
                     }
                 },
                 "hu_hu": {
@@ -1950,6 +2037,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/hu_HU.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/hu_HU.zip"
                     }
                 },
                 "hy": {
@@ -2015,6 +2105,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/hy.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/hy.zip"
                     }
                 },
                 "id_id": {
@@ -2080,6 +2173,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/id_ID.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/id_ID.zip"
                     }
                 },
                 "is_is": {
@@ -2145,6 +2241,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/is_IS.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/is_IS.zip"
                     }
                 },
                 "it_it": {
@@ -2210,6 +2309,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/it_IT.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/it_IT.zip"
                     }
                 },
                 "ja": {
@@ -2275,6 +2377,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/ja.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/ja.zip"
                     }
                 },
                 "ka_ge": {
@@ -2340,6 +2445,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/ka_GE.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/ka_GE.zip"
                     }
                 },
                 "km": {
@@ -2405,6 +2513,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/km.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/km.zip"
                     }
                 },
                 "ko_kr": {
@@ -2470,6 +2581,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/ko_KR.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/ko_KR.zip"
                     }
                 },
                 "lo": {
@@ -2535,6 +2649,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/lo.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/lo.zip"
                     }
                 },
                 "lt_lt": {
@@ -2600,6 +2717,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/lt_LT.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/lt_LT.zip"
                     }
                 },
                 "lv_lv": {
@@ -2665,6 +2785,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/lv_LV.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/lv_LV.zip"
                     }
                 },
                 "mk_mk": {
@@ -2730,6 +2853,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/mk_MK.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/mk_MK.zip"
                     }
                 },
                 "ms_my": {
@@ -2795,6 +2921,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/ms_MY.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/ms_MY.zip"
                     }
                 },
                 "nb_no": {
@@ -2860,6 +2989,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/nb_NO.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/nb_NO.zip"
                     }
                 },
                 "ne_np": {
@@ -2925,6 +3057,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/ne_NP.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/ne_NP.zip"
                     }
                 },
                 "nl_nl": {
@@ -2990,6 +3125,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/nl_NL.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/nl_NL.zip"
                     }
                 },
                 "nn_no": {
@@ -3055,6 +3193,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/nn_NO.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/nn_NO.zip"
                     }
                 },
                 "pl_pl": {
@@ -3120,6 +3261,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/pl_PL.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/pl_PL.zip"
                     }
                 },
                 "pt_br": {
@@ -3185,6 +3329,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/pt_BR.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/pt_BR.zip"
                     }
                 },
                 "pt_pt": {
@@ -3250,6 +3397,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/pt_PT.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/pt_PT.zip"
                     }
                 },
                 "ro_ro": {
@@ -3315,6 +3465,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/ro_RO.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/ro_RO.zip"
                     }
                 },
                 "ru_ru": {
@@ -3380,6 +3533,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/ru_RU.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/ru_RU.zip"
                     }
                 },
                 "sk_sk": {
@@ -3445,6 +3601,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/sk_SK.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/sk_SK.zip"
                     }
                 },
                 "sl_si": {
@@ -3510,6 +3669,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/sl_SI.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/sl_SI.zip"
                     }
                 },
                 "sq": {
@@ -3575,6 +3737,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/sq.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/sq.zip"
                     }
                 },
                 "sr_rs": {
@@ -3640,6 +3805,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/sr_RS.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/sr_RS.zip"
                     }
                 },
                 "sv_se": {
@@ -3705,6 +3873,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/sv_SE.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/sv_SE.zip"
                     }
                 },
                 "th": {
@@ -3770,6 +3941,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/th.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/th.zip"
                     }
                 },
                 "tl": {
@@ -3835,6 +4009,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/tl.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/tl.zip"
                     }
                 },
                 "tr_tr": {
@@ -3900,6 +4077,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/tr_TR.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/tr_TR.zip"
                     }
                 },
                 "uk_ua": {
@@ -3965,6 +4145,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/uk_UA.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/uk_UA.zip"
                     }
                 },
                 "vi": {
@@ -4030,6 +4213,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/vi.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/vi.zip"
                     }
                 },
                 "zh_cn": {
@@ -4095,6 +4281,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/zh_CN.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/zh_CN.zip"
                     }
                 },
                 "zh_tw": {
@@ -4160,6 +4349,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/zh_TW.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/zh_TW.zip"
                     }
                 },
                 "bs_ba": {
@@ -4225,6 +4417,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/bs_BA.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/bs_BA.zip"
                     }
                 },
                 "de": {
@@ -4290,6 +4485,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/de.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/de.zip"
                     }
                 },
                 "gl_es": {
@@ -4355,6 +4553,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/gl_ES.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/gl_ES.zip"
                     }
                 },
                 "kk": {
@@ -4420,6 +4621,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/kk.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/kk.zip"
                     }
                 },
                 "lv": {
@@ -4485,6 +4689,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/lv.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/lv.zip"
                     }
                 },
                 "ml_in": {
@@ -4550,6 +4757,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/ml_IN.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/ml_IN.zip"
                     }
                 },
                 "si_lk": {
@@ -4615,6 +4825,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/si_LK.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/si_LK.zip"
                     }
                 },
                 "sr_rs@latin": {
@@ -4680,6 +4893,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/sr_RS@latin.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/sr_RS@latin.zip"
                     }
                 },
                 "ta_lk": {
@@ -4745,6 +4961,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/ta_LK.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/ta_LK.zip"
                     }
                 },
                 "uk": {
@@ -4810,6 +5029,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/uk.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/uk.zip"
                     }
                 },
                 "zh_cn.gb2312": {
@@ -4875,6 +5097,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/zh_CN.GB2312.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/zh_CN.GB2312.zip"
                     }
                 },
                 "zh_tw.big5": {
@@ -4940,6 +5165,9 @@
                     },
                     "v2.3.7": {
                         "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/638eff6883a3f2333ecb1aa60acfcc4f4695b9f3/packages/zh_TW.Big5.zip"
+                    },
+                    "v2.3.8": {
+                        "dist": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/f9e36a36fceb193e1da2037581ed55d22015dadc/packages/zh_TW.Big5.zip"
                     }
                 }
             },
