@@ -37760,6 +37760,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-plugin-language/akismet-ru_ru",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "akismet",
+                    "ru_ru"
+                ],
+                "description": "Wordpress akismet translation for Russian - ru_ru",
+                "version": "3.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/ru_RU.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-plugin-language/akismet-sk_sk",
                 "type": "wordpress-language",
                 "keywords": [
