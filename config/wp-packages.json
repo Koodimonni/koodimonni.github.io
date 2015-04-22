@@ -5445,6 +5445,11 @@
                     "3.1": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/eu.zip"
                     }
+                },
+                "tr_tr": {
+                    "3.1": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/tr_TR.zip"
+                    }
                 }
             },
             "wordpress-importer": {

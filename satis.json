@@ -38244,6 +38244,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-plugin-language/akismet-tr_tr",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "akismet",
+                    "tr_tr"
+                ],
+                "description": "Wordpress akismet translation for Turkish - tr_tr",
+                "version": "3.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/tr_TR.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-plugin-language/wordpress-importer-az",
                 "type": "wordpress-language",
                 "keywords": [
@@ -60862,6 +60884,7 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/akismet-tr_tr": "*",
                     "koodimonni-plugin-language/wordpress-importer-tr_tr": "*",
                     "koodimonni-theme-language/twentyten-tr_tr": "*",
                     "koodimonni-theme-language/twentyeleven-tr_tr": "*",
@@ -60893,6 +60916,7 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/akismet-tr_tr": "*",
                     "koodimonni-plugin-language/wordpress-importer-tr_tr": "*",
                     "koodimonni-theme-language/twentyten-tr_tr": "*",
                     "koodimonni-theme-language/twentyeleven-tr_tr": "*",
@@ -60924,6 +60948,7 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/akismet-tr_tr": "*",
                     "koodimonni-plugin-language/wordpress-importer-tr_tr": "*",
                     "koodimonni-theme-language/twentyten-tr_tr": "*",
                     "koodimonni-theme-language/twentyeleven-tr_tr": "*",
@@ -60955,6 +60980,7 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/akismet-tr_tr": "*",
                     "koodimonni-plugin-language/wordpress-importer-tr_tr": "*",
                     "koodimonni-theme-language/twentyten-tr_tr": "*",
                     "koodimonni-theme-language/twentyeleven-tr_tr": "*",
