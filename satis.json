@@ -37210,6 +37210,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-plugin-language/akismet-fi",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "akismet",
+                    "fi"
+                ],
+                "description": "Wordpress akismet translation for Finnish - fi",
+                "version": "3.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/fi.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-plugin-language/akismet-fr_fr",
                 "type": "wordpress-language",
                 "keywords": [
@@ -43448,6 +43470,28 @@
                 "version": "4.1.1",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/core/4.1.1/is_IS.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-language/core-is_is",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "core",
+                    "is_is"
+                ],
+                "description": "Wordpress core translation for Icelandic - is_is",
+                "version": "4.1.2",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.1.2/is_IS.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -61687,6 +61731,35 @@
                 "version": "4.1.1",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/core/4.1.1/is_IS.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/akismet-is_is": "*",
+                    "koodimonni-theme-language/twentytwelve-is_is": "*",
+                    "koodimonni-theme-language/twentythirteen-is_is": "*",
+                    "koodimonni-theme-language/twentyfourteen-is_is": "*",
+                    "koodimonni-theme-language/twentyfifteen-is_is": "*",
+                    "koodimonni-plugin-language/woocommerce-is_is": "*"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-language/is_is",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "Full-Package",
+                    "twentyten",
+                    "is_is"
+                ],
+                "description": "Full Wordpress translation (including themes and core plugins) for Icelandic - is_is",
+                "version": "4.1.2",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.1.2/is_IS.zip",
                     "type": "zip"
                 },
                 "require": {
