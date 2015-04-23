@@ -44668,6 +44668,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-language/core-es_mx",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "core",
+                    "es_mx"
+                ],
+                "description": "Wordpress core translation for Spanish (Mexico) - es_mx",
+                "version": "4.2",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.2/es_MX.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-language/core-lt_lt",
                 "type": "wordpress-language",
                 "keywords": [
@@ -65143,6 +65165,31 @@
                 "version": "4.1.2",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/core/4.1.2/es_MX.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-theme-language/twentytwelve-es_mx": "*",
+                    "koodimonni-plugin-language/woocommerce-es_mx": "*"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-language/es_mx",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "Full-Package",
+                    "twentyten",
+                    "es_mx"
+                ],
+                "description": "Full Wordpress translation (including themes and core plugins) for Spanish (Mexico) - es_mx",
+                "version": "4.2",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.2/es_MX.zip",
                     "type": "zip"
                 },
                 "require": {
