@@ -38288,6 +38288,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-plugin-language/akismet-zh_cn",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "akismet",
+                    "zh_cn"
+                ],
+                "description": "Wordpress akismet translation for Chinese (China) - zh_cn",
+                "version": "3.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/zh_CN.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-plugin-language/wordpress-importer-az",
                 "type": "wordpress-language",
                 "keywords": [
@@ -61056,6 +61078,7 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/akismet-zh_cn": "*",
                     "koodimonni-plugin-language/wordpress-importer-zh_cn": "*",
                     "koodimonni-theme-language/twentyten-zh_cn": "*",
                     "koodimonni-theme-language/twentyeleven-zh_cn": "*",
@@ -61085,6 +61108,7 @@
                 },
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/akismet-zh_cn": "*",
                     "koodimonni-plugin-language/wordpress-importer-zh_cn": "*",
                     "koodimonni-theme-language/twentyten-zh_cn": "*",
                     "koodimonni-theme-language/twentyeleven-zh_cn": "*",

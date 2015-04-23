@@ -5453,6 +5453,11 @@
                     "3.1": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/tr_TR.zip"
                     }
+                },
+                "zh_cn": {
+                    "3.1": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/zh_CN.zip"
+                    }
                 }
             },
             "wordpress-importer": {
