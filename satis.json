@@ -49574,6 +49574,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-theme-language/twentyfourteen-zh_tw",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyfourteen",
+                    "zh_tw"
+                ],
+                "description": "Wordpress twentyfourteen translation for Chinese (Taiwan) - zh_tw",
+                "version": "1.4",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyfourteen/1.4/zh_TW.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-theme-language/twentyfourteen-bg_bg",
                 "type": "wordpress-language",
                 "keywords": [
@@ -53172,6 +53194,28 @@
                 "version": "1.4",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/theme/twentythirteen/1.4/zh_TW.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentythirteen-zh_tw",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentythirteen",
+                    "zh_tw"
+                ],
+                "description": "Wordpress twentythirteen translation for Chinese (Taiwan) - zh_tw",
+                "version": "1.5",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentythirteen/1.5/zh_TW.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -61092,6 +61136,28 @@
                 "version": "1.0",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/theme/twentyfifteen/1.0/zh_TW.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyfifteen-zh_tw",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyfifteen",
+                    "zh_tw"
+                ],
+                "description": "Wordpress twentyfifteen translation for Chinese (Taiwan) - zh_tw",
+                "version": "1.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyfifteen/1.1/zh_TW.zip",
                     "type": "zip"
                 },
                 "require": {
