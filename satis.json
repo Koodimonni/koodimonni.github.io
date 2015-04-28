@@ -40664,6 +40664,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-language/core-de_de",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "core",
+                    "de_de"
+                ],
+                "description": "Wordpress core translation for German - de_de",
+                "version": "4.2.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.2.1/de_DE.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-language/core-el",
                 "type": "wordpress-language",
                 "keywords": [
@@ -41390,6 +41412,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-language/core-eo",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "core",
+                    "eo"
+                ],
+                "description": "Wordpress core translation for Esperanto - eo",
+                "version": "4.2.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.2.1/eo.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-language/core-es_es",
                 "type": "wordpress-language",
                 "keywords": [
@@ -41984,6 +42028,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-language/core-fa_ir",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "core",
+                    "fa_ir"
+                ],
+                "description": "Wordpress core translation for Persian - fa_ir",
+                "version": "4.2.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.2.1/fa_IR.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-language/core-fi",
                 "type": "wordpress-language",
                 "keywords": [
@@ -42138,6 +42204,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-language/core-fi",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "core",
+                    "fi"
+                ],
+                "description": "Wordpress core translation for Finnish - fi",
+                "version": "4.2.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.2.1/fi.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-language/core-fr_fr",
                 "type": "wordpress-language",
                 "keywords": [
@@ -42260,6 +42348,28 @@
                 "version": "4.1.3",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/core/4.1.3/fr_FR.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-language/core-fr_fr",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "core",
+                    "fr_fr"
+                ],
+                "description": "Wordpress core translation for French (France) - fr_fr",
+                "version": "4.2.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.2.1/fr_FR.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -42414,6 +42524,28 @@
                 "version": "4.1.3",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/core/4.1.3/gl_ES.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-language/core-gl_es",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "core",
+                    "gl_es"
+                ],
+                "description": "Wordpress core translation for Galician - gl_es",
+                "version": "4.2.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.2.1/gl_ES.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -43876,6 +44008,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-language/core-nl_nl",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "core",
+                    "nl_nl"
+                ],
+                "description": "Wordpress core translation for Dutch - nl_nl",
+                "version": "4.2.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.2.1/nl_NL.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-language/core-pl_pl",
                 "type": "wordpress-language",
                 "keywords": [
@@ -44592,6 +44746,28 @@
                 "version": "4.1.3",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/core/4.1.3/ru_RU.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-language/core-ru_ru",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "core",
+                    "ru_ru"
+                ],
+                "description": "Wordpress core translation for Russian - ru_ru",
+                "version": "4.2.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.2.1/ru_RU.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -46572,6 +46748,28 @@
                 "version": "4.1.3",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/core/4.1.3/nn_NO.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-language/core-nn_no",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "core",
+                    "nn_no"
+                ],
+                "description": "Wordpress core translation for Norwegian (Nynorsk) - nn_no",
+                "version": "4.2.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.2.1/nn_NO.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -65324,6 +65522,38 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-language/de_de",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "Full-Package",
+                    "twentyten",
+                    "de_de"
+                ],
+                "description": "Full Wordpress translation (including themes and core plugins) for German - de_de",
+                "version": "4.2.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.2.1/de_DE.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/akismet-de_de": "*",
+                    "koodimonni-plugin-language/wordpress-importer-de_de": "*",
+                    "koodimonni-theme-language/twentyten-de_de": "*",
+                    "koodimonni-theme-language/twentyeleven-de_de": "*",
+                    "koodimonni-theme-language/twentytwelve-de_de": "*",
+                    "koodimonni-theme-language/twentythirteen-de_de": "*",
+                    "koodimonni-theme-language/twentyfourteen-de_de": "*",
+                    "koodimonni-theme-language/twentyfifteen-de_de": "*",
+                    "koodimonni-plugin-language/woocommerce-de_de": "*"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-language/el",
                 "type": "wordpress-language",
                 "keywords": [
@@ -66314,6 +66544,37 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-language/eo",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "Full-Package",
+                    "twentyten",
+                    "eo"
+                ],
+                "description": "Full Wordpress translation (including themes and core plugins) for Esperanto - eo",
+                "version": "4.2.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.2.1/eo.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/akismet-eo": "*",
+                    "koodimonni-plugin-language/wordpress-importer-eo": "*",
+                    "koodimonni-theme-language/twentyten-eo": "*",
+                    "koodimonni-theme-language/twentyeleven-eo": "*",
+                    "koodimonni-theme-language/twentytwelve-eo": "*",
+                    "koodimonni-theme-language/twentythirteen-eo": "*",
+                    "koodimonni-theme-language/twentyfourteen-eo": "*",
+                    "koodimonni-theme-language/twentyfifteen-eo": "*"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-language/es_es",
                 "type": "wordpress-language",
                 "keywords": [
@@ -67150,6 +67411,36 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-language/fa_ir",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "Full-Package",
+                    "twentyten",
+                    "fa_ir"
+                ],
+                "description": "Full Wordpress translation (including themes and core plugins) for Persian - fa_ir",
+                "version": "4.2.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.2.1/fa_IR.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-theme-language/twentyten-fa_ir": "*",
+                    "koodimonni-theme-language/twentyeleven-fa_ir": "*",
+                    "koodimonni-theme-language/twentytwelve-fa_ir": "*",
+                    "koodimonni-theme-language/twentythirteen-fa_ir": "*",
+                    "koodimonni-theme-language/twentyfourteen-fa_ir": "*",
+                    "koodimonni-theme-language/twentyfifteen-fa_ir": "*",
+                    "koodimonni-plugin-language/woocommerce-fa_ir": "*"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-language/fi",
                 "type": "wordpress-language",
                 "keywords": [
@@ -67367,6 +67658,37 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-language/fi",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "Full-Package",
+                    "twentyten",
+                    "fi"
+                ],
+                "description": "Full Wordpress translation (including themes and core plugins) for Finnish - fi",
+                "version": "4.2.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.2.1/fi.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/akismet-fi": "*",
+                    "koodimonni-plugin-language/wordpress-importer-fi": "*",
+                    "koodimonni-theme-language/twentyeleven-fi": "*",
+                    "koodimonni-theme-language/twentytwelve-fi": "*",
+                    "koodimonni-theme-language/twentythirteen-fi": "*",
+                    "koodimonni-theme-language/twentyfourteen-fi": "*",
+                    "koodimonni-theme-language/twentyfifteen-fi": "*",
+                    "koodimonni-plugin-language/woocommerce-fi": "*"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-language/fr_fr",
                 "type": "wordpress-language",
                 "keywords": [
@@ -67540,6 +67862,38 @@
                 "version": "4.1.3",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/core/4.1.3/fr_FR.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/akismet-fr_fr": "*",
+                    "koodimonni-plugin-language/wordpress-importer-fr_fr": "*",
+                    "koodimonni-theme-language/twentyten-fr_fr": "*",
+                    "koodimonni-theme-language/twentyeleven-fr_fr": "*",
+                    "koodimonni-theme-language/twentytwelve-fr_fr": "*",
+                    "koodimonni-theme-language/twentythirteen-fr_fr": "*",
+                    "koodimonni-theme-language/twentyfourteen-fr_fr": "*",
+                    "koodimonni-theme-language/twentyfifteen-fr_fr": "*",
+                    "koodimonni-plugin-language/woocommerce-fr_fr": "*"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-language/fr_fr",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "Full-Package",
+                    "twentyten",
+                    "fr_fr"
+                ],
+                "description": "Full Wordpress translation (including themes and core plugins) for French (France) - fr_fr",
+                "version": "4.2.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.2.1/fr_FR.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -67753,6 +68107,37 @@
                 "version": "4.1.3",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/core/4.1.3/gl_ES.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/akismet-gl_es": "*",
+                    "koodimonni-theme-language/twentyten-gl_es": "*",
+                    "koodimonni-theme-language/twentyeleven-gl_es": "*",
+                    "koodimonni-theme-language/twentytwelve-gl_es": "*",
+                    "koodimonni-theme-language/twentythirteen-gl_es": "*",
+                    "koodimonni-theme-language/twentyfourteen-gl_es": "*",
+                    "koodimonni-theme-language/twentyfifteen-gl_es": "*",
+                    "koodimonni-plugin-language/woocommerce-gl_es": "*"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-language/gl_es",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "Full-Package",
+                    "twentyten",
+                    "gl_es"
+                ],
+                "description": "Full Wordpress translation (including themes and core plugins) for Galician - gl_es",
+                "version": "4.2.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.2.1/gl_ES.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -69819,6 +70204,38 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-language/nl_nl",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "Full-Package",
+                    "twentyten",
+                    "nl_nl"
+                ],
+                "description": "Full Wordpress translation (including themes and core plugins) for Dutch - nl_nl",
+                "version": "4.2.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.2.1/nl_NL.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/akismet-nl_nl": "*",
+                    "koodimonni-plugin-language/wordpress-importer-nl_nl": "*",
+                    "koodimonni-theme-language/twentyten-nl_nl": "*",
+                    "koodimonni-theme-language/twentyeleven-nl_nl": "*",
+                    "koodimonni-theme-language/twentytwelve-nl_nl": "*",
+                    "koodimonni-theme-language/twentythirteen-nl_nl": "*",
+                    "koodimonni-theme-language/twentyfourteen-nl_nl": "*",
+                    "koodimonni-theme-language/twentyfifteen-nl_nl": "*",
+                    "koodimonni-plugin-language/woocommerce-nl_nl": "*"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-language/pl_pl",
                 "type": "wordpress-language",
                 "keywords": [
@@ -70842,6 +71259,38 @@
                 "version": "4.1.3",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/core/4.1.3/ru_RU.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/akismet-ru_ru": "*",
+                    "koodimonni-plugin-language/wordpress-importer-ru_ru": "*",
+                    "koodimonni-theme-language/twentyten-ru_ru": "*",
+                    "koodimonni-theme-language/twentyeleven-ru_ru": "*",
+                    "koodimonni-theme-language/twentytwelve-ru_ru": "*",
+                    "koodimonni-theme-language/twentythirteen-ru_ru": "*",
+                    "koodimonni-theme-language/twentyfourteen-ru_ru": "*",
+                    "koodimonni-theme-language/twentyfifteen-ru_ru": "*",
+                    "koodimonni-plugin-language/woocommerce-ru_ru": "*"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-language/ru_ru",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "Full-Package",
+                    "twentyten",
+                    "ru_ru"
+                ],
+                "description": "Full Wordpress translation (including themes and core plugins) for Russian - ru_ru",
+                "version": "4.2.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.2.1/ru_RU.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -73537,6 +73986,35 @@
                 "version": "4.1.3",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/core/4.1.3/nn_NO.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-plugin-language/wordpress-importer-nn_no": "*",
+                    "koodimonni-theme-language/twentytwelve-nn_no": "*",
+                    "koodimonni-theme-language/twentythirteen-nn_no": "*",
+                    "koodimonni-theme-language/twentyfourteen-nn_no": "*",
+                    "koodimonni-theme-language/twentyfifteen-nn_no": "*",
+                    "koodimonni-plugin-language/woocommerce-nn_no": "*"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-language/nn_no",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "Full-Package",
+                    "twentyten",
+                    "nn_no"
+                ],
+                "description": "Full Wordpress translation (including themes and core plugins) for Norwegian (Nynorsk) - nn_no",
+                "version": "4.2.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.2.1/nn_NO.zip",
                     "type": "zip"
                 },
                 "require": {
