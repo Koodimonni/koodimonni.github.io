@@ -51972,6 +51972,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-theme-language/twentyfourteen-tl",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyfourteen",
+                    "tl"
+                ],
+                "description": "Wordpress twentyfourteen translation for Tagalog - tl",
+                "version": "1.4",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyfourteen/1.4/tl.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-theme-language/twentyfourteen-ug_cn",
                 "type": "wordpress-language",
                 "keywords": [
@@ -55460,6 +55482,28 @@
                 "version": "1.4",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/theme/twentythirteen/1.4/tl.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentythirteen-tl",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentythirteen",
+                    "tl"
+                ],
+                "description": "Wordpress twentythirteen translation for Tagalog - tl",
+                "version": "1.5",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentythirteen/1.5/tl.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -63204,6 +63248,28 @@
                 "version": "1.0",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/theme/twentyfifteen/1.0/tl.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyfifteen-tl",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyfifteen",
+                    "tl"
+                ],
+                "description": "Wordpress twentyfifteen translation for Tagalog - tl",
+                "version": "1.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyfifteen/1.1/tl.zip",
                     "type": "zip"
                 },
                 "require": {
