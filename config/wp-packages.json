@@ -5365,6 +5365,9 @@
                 "sk_sk": {
                     "3.0": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.0/sk_SK.zip"
+                    },
+                    "3.1": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/sk_SK.zip"
                     }
                 },
                 "sv_se": {
