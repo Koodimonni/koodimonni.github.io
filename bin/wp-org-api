@@ -190,6 +190,7 @@ foreach ($packages['packages']["wordpress-language"]['core'] as $language => $of
         //echo "OMITTING: {$component}-{$language} because doesn't exist! \n";
       }
     }
+    
     $repositories[] = array(
       "type" => "package",
       "package" => array(
