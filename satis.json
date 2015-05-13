@@ -51400,6 +51400,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-theme-language/twentyfourteen-cs_cz",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyfourteen",
+                    "cs_cz"
+                ],
+                "description": "Wordpress twentyfourteen translation for Czech - cs_cz",
+                "version": "1.4",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyfourteen/1.4/cs_CZ.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-theme-language/twentyfourteen-cy",
                 "type": "wordpress-language",
                 "keywords": [
@@ -54844,6 +54866,28 @@
                 "version": "1.4",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/theme/twentythirteen/1.4/cs_CZ.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentythirteen-cs_cz",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentythirteen",
+                    "cs_cz"
+                ],
+                "description": "Wordpress twentythirteen translation for Czech - cs_cz",
+                "version": "1.5",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentythirteen/1.5/cs_CZ.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -61432,6 +61476,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-theme-language/twentyeleven-cs_cz",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyeleven",
+                    "cs_cz"
+                ],
+                "description": "Wordpress twentyeleven translation for Czech - cs_cz",
+                "version": "2.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyeleven/2.1/cs_CZ.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-theme-language/twentyeleven-cy",
                 "type": "wordpress-language",
                 "keywords": [
@@ -63688,6 +63754,28 @@
                 "version": "1.0",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/theme/twentyfifteen/1.0/cs_CZ.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyfifteen-cs_cz",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyfifteen",
+                    "cs_cz"
+                ],
+                "description": "Wordpress twentyfifteen translation for Czech - cs_cz",
+                "version": "1.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyfifteen/1.1/cs_CZ.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -66306,6 +66394,28 @@
                 "version": "1.8",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.8/cs_CZ.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-cs_cz",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "cs_cz"
+                ],
+                "description": "Wordpress twentyten translation for Czech - cs_cz",
+                "version": "1.9",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.9/cs_CZ.zip",
                     "type": "zip"
                 },
                 "require": {
