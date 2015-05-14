@@ -58484,6 +58484,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-theme-language/twentytwelve-cs_cz",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentytwelve",
+                    "cs_cz"
+                ],
+                "description": "Wordpress twentytwelve translation for Czech - cs_cz",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentytwelve/1.7/cs_CZ.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-theme-language/twentytwelve-cy",
                 "type": "wordpress-language",
                 "keywords": [
