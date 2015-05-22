@@ -61388,6 +61388,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-theme-language/twentytwelve-is_is",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentytwelve",
+                    "is_is"
+                ],
+                "description": "Wordpress twentytwelve translation for Icelandic - is_is",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentytwelve/1.7/is_IS.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-theme-language/twentytwelve-it_it",
                 "type": "wordpress-language",
                 "keywords": [
