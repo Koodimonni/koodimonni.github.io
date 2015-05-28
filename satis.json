@@ -54700,6 +54700,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-theme-language/twentyfourteen-lv",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyfourteen",
+                    "lv"
+                ],
+                "description": "Wordpress twentyfourteen translation for Latvian - lv",
+                "version": "1.4",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyfourteen/1.4/lv.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-theme-language/twentyfourteen-my_mm",
                 "type": "wordpress-language",
                 "keywords": [
@@ -67846,6 +67868,28 @@
                 "version": "1.1",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/theme/twentyfifteen/1.1/oci.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyfifteen-lv",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyfifteen",
+                    "lv"
+                ],
+                "description": "Wordpress twentyfifteen translation for Latvian - lv",
+                "version": "1.1",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyfifteen/1.1/lv.zip",
                     "type": "zip"
                 },
                 "require": {
