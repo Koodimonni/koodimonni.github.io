@@ -80,7 +80,7 @@ foreach ($wp_versions as $version) {
 }
 
 #Gather data for core plugins
-$plugins = array("akismet","wordpress-importer");
+$plugins = array("akismet","wordpress-importer","bbpress");
 
 $themes = array("twentyten","twentyeleven","twentytwelve","twentythirteen","twentyfourteen","twentyfifteen");
 $thirdparty_plugins = array("woocommerce");
