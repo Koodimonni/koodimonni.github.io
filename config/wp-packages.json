@@ -6446,6 +6446,11 @@
                     "2.5": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5/th.zip"
                     }
+                },
+                "hu_hu": {
+                    "2.5": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5/hu_HU.zip"
+                    }
                 }
             }
         },

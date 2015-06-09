@@ -44822,6 +44822,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-plugin-language/bbpress-hu_hu",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "bbpress",
+                    "hu_hu"
+                ],
+                "description": "Wordpress bbpress translation for Hungarian - hu_hu",
+                "version": "2.5",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5/hu_HU.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-language/core-ar",
                 "type": "wordpress-language",
                 "keywords": [
@@ -81043,6 +81065,7 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/wordpress-importer-hu_hu": "*",
+                    "koodimonni-plugin-language/bbpress-hu_hu": "*",
                     "koodimonni-theme-language/twentytwelve-hu_hu": "*",
                     "koodimonni-theme-language/twentythirteen-hu_hu": "*",
                     "koodimonni-theme-language/twentyfourteen-hu_hu": "*",
@@ -81072,6 +81095,7 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/wordpress-importer-hu_hu": "*",
+                    "koodimonni-plugin-language/bbpress-hu_hu": "*",
                     "koodimonni-theme-language/twentytwelve-hu_hu": "*",
                     "koodimonni-theme-language/twentythirteen-hu_hu": "*",
                     "koodimonni-theme-language/twentyfourteen-hu_hu": "*",
@@ -81101,6 +81125,7 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/wordpress-importer-hu_hu": "*",
+                    "koodimonni-plugin-language/bbpress-hu_hu": "*",
                     "koodimonni-theme-language/twentytwelve-hu_hu": "*",
                     "koodimonni-theme-language/twentythirteen-hu_hu": "*",
                     "koodimonni-theme-language/twentyfourteen-hu_hu": "*",
@@ -81130,6 +81155,7 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/wordpress-importer-hu_hu": "*",
+                    "koodimonni-plugin-language/bbpress-hu_hu": "*",
                     "koodimonni-theme-language/twentytwelve-hu_hu": "*",
                     "koodimonni-theme-language/twentythirteen-hu_hu": "*",
                     "koodimonni-theme-language/twentyfourteen-hu_hu": "*",
@@ -81159,6 +81185,7 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/wordpress-importer-hu_hu": "*",
+                    "koodimonni-plugin-language/bbpress-hu_hu": "*",
                     "koodimonni-theme-language/twentytwelve-hu_hu": "*",
                     "koodimonni-theme-language/twentythirteen-hu_hu": "*",
                     "koodimonni-theme-language/twentyfourteen-hu_hu": "*",
@@ -81188,6 +81215,7 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/wordpress-importer-hu_hu": "*",
+                    "koodimonni-plugin-language/bbpress-hu_hu": "*",
                     "koodimonni-theme-language/twentytwelve-hu_hu": "*",
                     "koodimonni-theme-language/twentythirteen-hu_hu": "*",
                     "koodimonni-theme-language/twentyfourteen-hu_hu": "*",
@@ -81217,6 +81245,7 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/wordpress-importer-hu_hu": "*",
+                    "koodimonni-plugin-language/bbpress-hu_hu": "*",
                     "koodimonni-theme-language/twentytwelve-hu_hu": "*",
                     "koodimonni-theme-language/twentythirteen-hu_hu": "*",
                     "koodimonni-theme-language/twentyfourteen-hu_hu": "*",
@@ -81246,6 +81275,7 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/wordpress-importer-hu_hu": "*",
+                    "koodimonni-plugin-language/bbpress-hu_hu": "*",
                     "koodimonni-theme-language/twentytwelve-hu_hu": "*",
                     "koodimonni-theme-language/twentythirteen-hu_hu": "*",
                     "koodimonni-theme-language/twentyfourteen-hu_hu": "*",
@@ -81275,6 +81305,7 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/wordpress-importer-hu_hu": "*",
+                    "koodimonni-plugin-language/bbpress-hu_hu": "*",
                     "koodimonni-theme-language/twentytwelve-hu_hu": "*",
                     "koodimonni-theme-language/twentythirteen-hu_hu": "*",
                     "koodimonni-theme-language/twentyfourteen-hu_hu": "*",
@@ -81304,6 +81335,7 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/wordpress-importer-hu_hu": "*",
+                    "koodimonni-plugin-language/bbpress-hu_hu": "*",
                     "koodimonni-theme-language/twentytwelve-hu_hu": "*",
                     "koodimonni-theme-language/twentythirteen-hu_hu": "*",
                     "koodimonni-theme-language/twentyfourteen-hu_hu": "*",
@@ -81333,6 +81365,7 @@
                 "require": {
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/wordpress-importer-hu_hu": "*",
+                    "koodimonni-plugin-language/bbpress-hu_hu": "*",
                     "koodimonni-theme-language/twentytwelve-hu_hu": "*",
                     "koodimonni-theme-language/twentythirteen-hu_hu": "*",
                     "koodimonni-theme-language/twentyfourteen-hu_hu": "*",
