@@ -547,7 +547,7 @@
                 "description": "Wordpress woocommerce translation for  - af_za",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/af_ZA.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/af_ZA.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -1097,7 +1097,7 @@
                 "description": "Wordpress woocommerce translation for Arabic - ar",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/ar.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/ar.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -1647,7 +1647,7 @@
                 "description": "Wordpress woocommerce translation for Bulgarian - bg_bg",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/bg_BG.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/bg_BG.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -2197,7 +2197,7 @@
                 "description": "Wordpress woocommerce translation for Bengali - bn_bd",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/bn_BD.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/bn_BD.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -2747,7 +2747,7 @@
                 "description": "Wordpress woocommerce translation for  - bn_in",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/bn_IN.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/bn_IN.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -3297,7 +3297,7 @@
                 "description": "Wordpress woocommerce translation for Catalan - ca",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/ca.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/ca.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -3847,7 +3847,7 @@
                 "description": "Wordpress woocommerce translation for Czech - cs_cz",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/cs_CZ.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/cs_CZ.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -4397,7 +4397,7 @@
                 "description": "Wordpress woocommerce translation for Welsh - cy",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/cy.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/cy.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -4947,7 +4947,7 @@
                 "description": "Wordpress woocommerce translation for Danish - da_dk",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/da_DK.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/da_DK.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -5497,7 +5497,7 @@
                 "description": "Wordpress woocommerce translation for German (Switzerland) - de_ch",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/de_CH.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/de_CH.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -6047,7 +6047,7 @@
                 "description": "Wordpress woocommerce translation for German - de_de",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/de_DE.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/de_DE.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -6597,7 +6597,7 @@
                 "description": "Wordpress woocommerce translation for Greek - el",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/el.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/el.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -7147,7 +7147,7 @@
                 "description": "Wordpress woocommerce translation for  - el_gr",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/el_GR.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/el_GR.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -7697,7 +7697,7 @@
                 "description": "Wordpress woocommerce translation for English (UK) - en_gb",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/en_GB.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/en_GB.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -8247,7 +8247,7 @@
                 "description": "Wordpress woocommerce translation for Spanish (Argentina) - es_ar",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/es_AR.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/es_AR.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -8797,7 +8797,7 @@
                 "description": "Wordpress woocommerce translation for Spanish (Chile) - es_cl",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/es_CL.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/es_CL.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -9347,7 +9347,7 @@
                 "description": "Wordpress woocommerce translation for Spanish (Colombia) - es_co",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/es_CO.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/es_CO.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -9897,7 +9897,7 @@
                 "description": "Wordpress woocommerce translation for Spanish (Spain) - es_es",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/es_ES.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/es_ES.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -10447,7 +10447,7 @@
                 "description": "Wordpress woocommerce translation for Spanish (Mexico) - es_mx",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/es_MX.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/es_MX.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -10997,7 +10997,7 @@
                 "description": "Wordpress woocommerce translation for Estonian - et",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/et.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/et.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -11547,7 +11547,7 @@
                 "description": "Wordpress woocommerce translation for Basque - eu",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/eu.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/eu.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -12097,7 +12097,7 @@
                 "description": "Wordpress woocommerce translation for Persian - fa_ir",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/fa_IR.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/fa_IR.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -12647,7 +12647,7 @@
                 "description": "Wordpress woocommerce translation for Finnish - fi",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/fi.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/fi.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -13197,7 +13197,7 @@
                 "description": "Wordpress woocommerce translation for  - fi_fi",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/fi_FI.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/fi_FI.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -13747,7 +13747,7 @@
                 "description": "Wordpress woocommerce translation for  - fil",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/fil.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/fil.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -14297,7 +14297,7 @@
                 "description": "Wordpress woocommerce translation for French (France) - fr_fr",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/fr_FR.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/fr_FR.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -14847,7 +14847,7 @@
                 "description": "Wordpress woocommerce translation for Hebrew - he_il",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/he_IL.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/he_IL.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -15397,7 +15397,7 @@
                 "description": "Wordpress woocommerce translation for Hindi - hi_in",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/hi_IN.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/hi_IN.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -15947,7 +15947,7 @@
                 "description": "Wordpress woocommerce translation for Croatian - hr",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/hr.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/hr.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -16497,7 +16497,7 @@
                 "description": "Wordpress woocommerce translation for Hungarian - hu_hu",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/hu_HU.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/hu_HU.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -17047,7 +17047,7 @@
                 "description": "Wordpress woocommerce translation for Armenian - hy",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/hy.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/hy.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -17597,7 +17597,7 @@
                 "description": "Wordpress woocommerce translation for Indonesian - id_id",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/id_ID.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/id_ID.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -18147,7 +18147,7 @@
                 "description": "Wordpress woocommerce translation for Icelandic - is_is",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/is_IS.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/is_IS.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -18697,7 +18697,7 @@
                 "description": "Wordpress woocommerce translation for Italian - it_it",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/it_IT.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/it_IT.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -19247,7 +19247,7 @@
                 "description": "Wordpress woocommerce translation for Japanese - ja",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/ja.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/ja.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -19797,7 +19797,7 @@
                 "description": "Wordpress woocommerce translation for Georgian - ka_ge",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/ka_GE.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/ka_GE.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -20347,7 +20347,7 @@
                 "description": "Wordpress woocommerce translation for Khmer - km",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/km.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/km.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -20897,7 +20897,7 @@
                 "description": "Wordpress woocommerce translation for Korean - ko_kr",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/ko_KR.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/ko_KR.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -21447,7 +21447,7 @@
                 "description": "Wordpress woocommerce translation for Lao - lo",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/lo.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/lo.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -21997,7 +21997,7 @@
                 "description": "Wordpress woocommerce translation for Lithuanian - lt_lt",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/lt_LT.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/lt_LT.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -22547,7 +22547,7 @@
                 "description": "Wordpress woocommerce translation for  - lv_lv",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/lv_LV.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/lv_LV.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -23097,7 +23097,7 @@
                 "description": "Wordpress woocommerce translation for Macedonian - mk_mk",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/mk_MK.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/mk_MK.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -23647,7 +23647,7 @@
                 "description": "Wordpress woocommerce translation for Malay - ms_my",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/ms_MY.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/ms_MY.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -24197,7 +24197,7 @@
                 "description": "Wordpress woocommerce translation for Norwegian (Bokm\u00e5l) - nb_no",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/nb_NO.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/nb_NO.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -24747,7 +24747,7 @@
                 "description": "Wordpress woocommerce translation for Nepali - ne_np",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/ne_NP.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/ne_NP.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -25297,7 +25297,7 @@
                 "description": "Wordpress woocommerce translation for Dutch - nl_nl",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/nl_NL.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/nl_NL.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -25847,7 +25847,7 @@
                 "description": "Wordpress woocommerce translation for Norwegian (Nynorsk) - nn_no",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/nn_NO.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/nn_NO.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -26397,7 +26397,7 @@
                 "description": "Wordpress woocommerce translation for Polish - pl_pl",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/pl_PL.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/pl_PL.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -26947,7 +26947,7 @@
                 "description": "Wordpress woocommerce translation for Portuguese (Brazil) - pt_br",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/pt_BR.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/pt_BR.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -27497,7 +27497,7 @@
                 "description": "Wordpress woocommerce translation for Portuguese (Portugal) - pt_pt",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/pt_PT.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/pt_PT.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -28047,7 +28047,7 @@
                 "description": "Wordpress woocommerce translation for Romanian - ro_ro",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/ro_RO.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/ro_RO.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -28597,7 +28597,7 @@
                 "description": "Wordpress woocommerce translation for Russian - ru_ru",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/ru_RU.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/ru_RU.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -29147,7 +29147,7 @@
                 "description": "Wordpress woocommerce translation for Slovak - sk_sk",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/sk_SK.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/sk_SK.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -29697,7 +29697,7 @@
                 "description": "Wordpress woocommerce translation for Slovenian - sl_si",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/sl_SI.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/sl_SI.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -30247,7 +30247,7 @@
                 "description": "Wordpress woocommerce translation for Albanian - sq",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/sq.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/sq.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -30797,7 +30797,7 @@
                 "description": "Wordpress woocommerce translation for Serbian - sr_rs",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/sr_RS.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/sr_RS.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -31347,7 +31347,7 @@
                 "description": "Wordpress woocommerce translation for Swedish - sv_se",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/sv_SE.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/sv_SE.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -31897,7 +31897,7 @@
                 "description": "Wordpress woocommerce translation for Thai - th",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/th.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/th.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -32447,7 +32447,7 @@
                 "description": "Wordpress woocommerce translation for Tagalog - tl",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/tl.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/tl.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -32997,7 +32997,7 @@
                 "description": "Wordpress woocommerce translation for Turkish - tr_tr",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/tr_TR.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/tr_TR.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -33547,7 +33547,7 @@
                 "description": "Wordpress woocommerce translation for  - uk_ua",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/uk_UA.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/uk_UA.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -34097,7 +34097,7 @@
                 "description": "Wordpress woocommerce translation for Vietnamese - vi",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/vi.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/vi.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -34647,7 +34647,7 @@
                 "description": "Wordpress woocommerce translation for Chinese (China) - zh_cn",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/zh_CN.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/zh_CN.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -35197,7 +35197,7 @@
                 "description": "Wordpress woocommerce translation for Chinese (Taiwan) - zh_tw",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/zh_TW.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/zh_TW.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -35747,7 +35747,7 @@
                 "description": "Wordpress woocommerce translation for Bosnian - bs_ba",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/bs_BA.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/bs_BA.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -36297,7 +36297,7 @@
                 "description": "Wordpress woocommerce translation for  - de",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/de.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/de.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -36847,7 +36847,7 @@
                 "description": "Wordpress woocommerce translation for Galician - gl_es",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/gl_ES.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/gl_ES.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -37397,7 +37397,7 @@
                 "description": "Wordpress woocommerce translation for Kazakh - kk",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/kk.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/kk.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -37947,7 +37947,7 @@
                 "description": "Wordpress woocommerce translation for Latvian - lv",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/lv.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/lv.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -38497,7 +38497,7 @@
                 "description": "Wordpress woocommerce translation for Malayalam - ml_in",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/ml_IN.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/ml_IN.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -39047,7 +39047,7 @@
                 "description": "Wordpress woocommerce translation for Sinhala - si_lk",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/si_LK.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/si_LK.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -39597,7 +39597,7 @@
                 "description": "Wordpress woocommerce translation for  - sr_rs@latin",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/sr_RS@latin.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/sr_RS@latin.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -40147,7 +40147,7 @@
                 "description": "Wordpress woocommerce translation for Tamil (Sri Lanka) - ta_lk",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/ta_LK.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/ta_LK.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -40697,7 +40697,7 @@
                 "description": "Wordpress woocommerce translation for Ukrainian - uk",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/uk.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/uk.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -41247,7 +41247,7 @@
                 "description": "Wordpress woocommerce translation for  - zh_cn.gb2312",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/zh_CN.GB2312.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/zh_CN.GB2312.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -41797,7 +41797,7 @@
                 "description": "Wordpress woocommerce translation for  - zh_tw.big5",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/zh_TW.Big5.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/zh_TW.Big5.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -42347,7 +42347,7 @@
                 "description": "Wordpress woocommerce translation for Spanish (Peru) - es_pe",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/es_PE.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/es_PE.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -42897,7 +42897,7 @@
                 "description": "Wordpress woocommerce translation for Spanish (Venezuela) - es_ve",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/es_VE.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/es_VE.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -43447,7 +43447,7 @@
                 "description": "Wordpress woocommerce translation for Chinese (Hong Kong) - zh_hk",
                 "version": "v2.3.11",
                 "dist": {
-                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/87da5e37ac9a5198d61c4a87e82883f51424a1ad/packages/zh_HK.zip",
+                    "url": "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/a6e6cf5dc0ee99624fa9ae9ac02e1c2147aa013c/packages/zh_HK.zip",
                     "type": "zip"
                 },
                 "require": {
