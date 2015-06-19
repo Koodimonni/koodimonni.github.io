@@ -9603,6 +9603,11 @@
                     "1.5": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentythirteen/1.5/ml_IN.zip"
                     }
+                },
+                "szl": {
+                    "1.5": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentythirteen/1.5/szl.zip"
+                    }
                 }
             },
             "twentytwelve": {
@@ -11067,6 +11072,11 @@
                 "ml_in": {
                     "1.1": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyfifteen/1.1/ml_IN.zip"
+                    }
+                },
+                "szl": {
+                    "1.1": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyfifteen/1.1/szl.zip"
                     }
                 }
             },
