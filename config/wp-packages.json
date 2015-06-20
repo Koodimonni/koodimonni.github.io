@@ -6688,6 +6688,11 @@
                     "2.5": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5/hu_HU.zip"
                     }
+                },
+                "fr_fr": {
+                    "2.5": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5/fr_FR.zip"
+                    }
                 }
             }
         },
