@@ -11083,6 +11083,11 @@
                     "1.1": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyfifteen/1.1/szl.zip"
                     }
+                },
+                "bn_bd": {
+                    "1.1": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyfifteen/1.1/bn_BD.zip"
+                    }
                 }
             },
             "twentyten": {
