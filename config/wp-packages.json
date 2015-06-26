@@ -8980,6 +8980,11 @@
                     "1.4": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyfourteen/1.4/oci.zip"
                     }
+                },
+                "szl": {
+                    "1.4": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyfourteen/1.4/szl.zip"
+                    }
                 }
             },
             "twentythirteen": {
