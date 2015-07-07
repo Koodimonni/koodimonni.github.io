@@ -8386,6 +8386,11 @@
                     "4.2.2": {
                         "dist": "https://downloads.wordpress.org/translation/core/4.2.2/et.zip"
                     }
+                },
+                "tl": {
+                    "4.2.2": {
+                        "dist": "https://downloads.wordpress.org/translation/core/4.2.2/tl.zip"
+                    }
                 }
             }
         },
