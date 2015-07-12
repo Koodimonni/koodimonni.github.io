@@ -61674,6 +61674,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-language/core-de_de_formal",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "core",
+                    "de_de_formal"
+                ],
+                "description": "Wordpress core translation for  - de_de_formal",
+                "version": "4.1.5",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.1.5/de_DE_formal.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-theme-language/twentyfourteen-ar",
                 "type": "wordpress-language",
                 "keywords": [
@@ -95740,6 +95762,35 @@
                 "version": "4.2.2",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/core/4.2.2/de_DE_formal.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3",
+                    "koodimonni-theme-language/twentyten-de_de_formal": "*",
+                    "koodimonni-theme-language/twentyeleven-de_de_formal": "*",
+                    "koodimonni-theme-language/twentytwelve-de_de_formal": "*",
+                    "koodimonni-theme-language/twentythirteen-de_de_formal": "*",
+                    "koodimonni-theme-language/twentyfourteen-de_de_formal": "*",
+                    "koodimonni-theme-language/twentyfifteen-de_de_formal": "*"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-language/de_de_formal",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "Full-Package",
+                    "twentyten",
+                    "de_de_formal"
+                ],
+                "description": "Full Wordpress translation (including themes and core plugins) for  - de_de_formal",
+                "version": "4.1.5",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/core/4.1.5/de_DE_formal.zip",
                     "type": "zip"
                 },
                 "require": {
