@@ -23,6 +23,9 @@
     "de_de": {
         "english_name": "German"
     },
+    "de_de_formal": {
+        "english_name": "German (Formal)"
+    },
     "el": {
         "english_name": "Greek"
     },
