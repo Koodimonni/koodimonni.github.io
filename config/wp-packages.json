@@ -7495,6 +7495,11 @@
                     "2.5": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5/fr_FR.zip"
                     }
+                },
+                "de_de": {
+                    "2.5": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5/de_DE.zip"
+                    }
                 }
             }
         },

@@ -52456,6 +52456,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-plugin-language/bbpress-de_de",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "bbpress",
+                    "de_de"
+                ],
+                "description": "Wordpress bbpress translation for German - de_de",
+                "version": "2.5",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5/de_DE.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-language/core-ar",
                 "type": "wordpress-language",
                 "keywords": [
@@ -84144,6 +84166,7 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-de_de": "*",
                     "koodimonni-plugin-language/wordpress-importer-de_de": "*",
+                    "koodimonni-plugin-language/bbpress-de_de": "*",
                     "koodimonni-theme-language/twentyten-de_de": "*",
                     "koodimonni-theme-language/twentyeleven-de_de": "*",
                     "koodimonni-theme-language/twentytwelve-de_de": "*",
@@ -84176,6 +84199,7 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-de_de": "*",
                     "koodimonni-plugin-language/wordpress-importer-de_de": "*",
+                    "koodimonni-plugin-language/bbpress-de_de": "*",
                     "koodimonni-theme-language/twentyten-de_de": "*",
                     "koodimonni-theme-language/twentyeleven-de_de": "*",
                     "koodimonni-theme-language/twentytwelve-de_de": "*",
@@ -84208,6 +84232,7 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-de_de": "*",
                     "koodimonni-plugin-language/wordpress-importer-de_de": "*",
+                    "koodimonni-plugin-language/bbpress-de_de": "*",
                     "koodimonni-theme-language/twentyten-de_de": "*",
                     "koodimonni-theme-language/twentyeleven-de_de": "*",
                     "koodimonni-theme-language/twentytwelve-de_de": "*",
@@ -84240,6 +84265,7 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-de_de": "*",
                     "koodimonni-plugin-language/wordpress-importer-de_de": "*",
+                    "koodimonni-plugin-language/bbpress-de_de": "*",
                     "koodimonni-theme-language/twentyten-de_de": "*",
                     "koodimonni-theme-language/twentyeleven-de_de": "*",
                     "koodimonni-theme-language/twentytwelve-de_de": "*",
@@ -84272,6 +84298,7 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-de_de": "*",
                     "koodimonni-plugin-language/wordpress-importer-de_de": "*",
+                    "koodimonni-plugin-language/bbpress-de_de": "*",
                     "koodimonni-theme-language/twentyten-de_de": "*",
                     "koodimonni-theme-language/twentyeleven-de_de": "*",
                     "koodimonni-theme-language/twentytwelve-de_de": "*",
@@ -84304,6 +84331,7 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-de_de": "*",
                     "koodimonni-plugin-language/wordpress-importer-de_de": "*",
+                    "koodimonni-plugin-language/bbpress-de_de": "*",
                     "koodimonni-theme-language/twentyten-de_de": "*",
                     "koodimonni-theme-language/twentyeleven-de_de": "*",
                     "koodimonni-theme-language/twentytwelve-de_de": "*",
@@ -84336,6 +84364,7 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-de_de": "*",
                     "koodimonni-plugin-language/wordpress-importer-de_de": "*",
+                    "koodimonni-plugin-language/bbpress-de_de": "*",
                     "koodimonni-theme-language/twentyten-de_de": "*",
                     "koodimonni-theme-language/twentyeleven-de_de": "*",
                     "koodimonni-theme-language/twentytwelve-de_de": "*",
@@ -84368,6 +84397,7 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-de_de": "*",
                     "koodimonni-plugin-language/wordpress-importer-de_de": "*",
+                    "koodimonni-plugin-language/bbpress-de_de": "*",
                     "koodimonni-theme-language/twentyten-de_de": "*",
                     "koodimonni-theme-language/twentyeleven-de_de": "*",
                     "koodimonni-theme-language/twentytwelve-de_de": "*",
@@ -84400,6 +84430,7 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-de_de": "*",
                     "koodimonni-plugin-language/wordpress-importer-de_de": "*",
+                    "koodimonni-plugin-language/bbpress-de_de": "*",
                     "koodimonni-theme-language/twentyten-de_de": "*",
                     "koodimonni-theme-language/twentyeleven-de_de": "*",
                     "koodimonni-theme-language/twentytwelve-de_de": "*",
@@ -84432,6 +84463,7 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-de_de": "*",
                     "koodimonni-plugin-language/wordpress-importer-de_de": "*",
+                    "koodimonni-plugin-language/bbpress-de_de": "*",
                     "koodimonni-theme-language/twentyten-de_de": "*",
                     "koodimonni-theme-language/twentyeleven-de_de": "*",
                     "koodimonni-theme-language/twentytwelve-de_de": "*",
@@ -84464,6 +84496,7 @@
                     "koodimonni/composer-dropin-installer": ">=0.2.3",
                     "koodimonni-plugin-language/akismet-de_de": "*",
                     "koodimonni-plugin-language/wordpress-importer-de_de": "*",
+                    "koodimonni-plugin-language/bbpress-de_de": "*",
                     "koodimonni-theme-language/twentyten-de_de": "*",
                     "koodimonni-theme-language/twentyeleven-de_de": "*",
                     "koodimonni-theme-language/twentytwelve-de_de": "*",
