@@ -71926,6 +71926,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-theme-language/twentytwelve-el",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentytwelve",
+                    "el"
+                ],
+                "description": "Wordpress twentytwelve translation for Greek - el",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentytwelve/1.7/el.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-theme-language/twentytwelve-en_au",
                 "type": "wordpress-language",
                 "keywords": [
