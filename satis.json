@@ -73730,6 +73730,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-theme-language/twentytwelve-ro_ro",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentytwelve",
+                    "ro_ro"
+                ],
+                "description": "Wordpress twentytwelve translation for Romanian - ro_ro",
+                "version": "1.7",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentytwelve/1.7/ro_RO.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-theme-language/twentytwelve-ru_ru",
                 "type": "wordpress-language",
                 "keywords": [
@@ -81266,6 +81288,28 @@
                 "version": "1.8",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.8/ro_RO.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentyten-ro_ro",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyten",
+                    "ro_ro"
+                ],
+                "description": "Wordpress twentyten translation for Romanian - ro_ro",
+                "version": "1.9",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyten/1.9/ro_RO.zip",
                     "type": "zip"
                 },
                 "require": {
