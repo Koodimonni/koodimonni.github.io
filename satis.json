@@ -73422,6 +73422,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-theme-language/twentythirteen-es_co",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentythirteen",
+                    "es_co"
+                ],
+                "description": "Wordpress twentythirteen translation for Spanish (Colombia) - es_co",
+                "version": "1.5",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentythirteen/1.5/es_CO.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-theme-language/twentytwelve-ar",
                 "type": "wordpress-language",
                 "keywords": [

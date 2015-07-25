@@ -10752,6 +10752,11 @@
                     "1.5": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentythirteen/1.5/de_DE_formal.zip"
                     }
+                },
+                "es_co": {
+                    "1.5": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentythirteen/1.5/es_CO.zip"
+                    }
                 }
             },
             "twentytwelve": {
