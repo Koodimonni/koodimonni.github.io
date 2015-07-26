@@ -52148,6 +52148,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-plugin-language/bbpress-ca",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "bbpress",
+                    "ca"
+                ],
+                "description": "Wordpress bbpress translation for Catalan - ca",
+                "version": "2.5.8",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5.8/ca.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-plugin-language/bbpress-en_au",
                 "type": "wordpress-language",
                 "keywords": [
@@ -52160,6 +52182,28 @@
                 "version": "2.5",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5/en_AU.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-plugin-language/bbpress-en_au",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "bbpress",
+                    "en_au"
+                ],
+                "description": "Wordpress bbpress translation for English (Australia) - en_au",
+                "version": "2.5.8",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5.8/en_AU.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -52214,6 +52258,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-plugin-language/bbpress-hr",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "bbpress",
+                    "hr"
+                ],
+                "description": "Wordpress bbpress translation for Croatian - hr",
+                "version": "2.5.8",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5.8/hr.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-plugin-language/bbpress-id_id",
                 "type": "wordpress-language",
                 "keywords": [
@@ -52258,6 +52324,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-plugin-language/bbpress-it_it",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "bbpress",
+                    "it_it"
+                ],
+                "description": "Wordpress bbpress translation for Italian - it_it",
+                "version": "2.5.8",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5.8/it_IT.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-plugin-language/bbpress-ko_kr",
                 "type": "wordpress-language",
                 "keywords": [
@@ -52292,6 +52380,28 @@
                 "version": "2.5",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5/nb_NO.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-plugin-language/bbpress-nb_no",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "bbpress",
+                    "nb_no"
+                ],
+                "description": "Wordpress bbpress translation for Norwegian (Bokm\u00e5l) - nb_no",
+                "version": "2.5.8",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5.8/nb_NO.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -52368,6 +52478,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-plugin-language/bbpress-ro_ro",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "bbpress",
+                    "ro_ro"
+                ],
+                "description": "Wordpress bbpress translation for Romanian - ro_ro",
+                "version": "2.5.8",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5.8/ro_RO.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-plugin-language/bbpress-ru_ru",
                 "type": "wordpress-language",
                 "keywords": [
@@ -52380,6 +52512,28 @@
                 "version": "2.5",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5/ru_RU.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-plugin-language/bbpress-ru_ru",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "bbpress",
+                    "ru_ru"
+                ],
+                "description": "Wordpress bbpress translation for Russian - ru_ru",
+                "version": "2.5.8",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5.8/ru_RU.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -52412,6 +52566,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-plugin-language/bbpress-sv_se",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "bbpress",
+                    "sv_se"
+                ],
+                "description": "Wordpress bbpress translation for Swedish - sv_se",
+                "version": "2.5.8",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5.8/sv_SE.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-plugin-language/bbpress-th",
                 "type": "wordpress-language",
                 "keywords": [
@@ -52424,6 +52600,28 @@
                 "version": "2.5",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5/th.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-plugin-language/bbpress-th",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "bbpress",
+                    "th"
+                ],
+                "description": "Wordpress bbpress translation for Thai - th",
+                "version": "2.5.8",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5.8/th.zip",
                     "type": "zip"
                 },
                 "require": {
@@ -52456,6 +52654,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-plugin-language/bbpress-hu_hu",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "bbpress",
+                    "hu_hu"
+                ],
+                "description": "Wordpress bbpress translation for Hungarian - hu_hu",
+                "version": "2.5.8",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5.8/hu_HU.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-plugin-language/bbpress-fr_fr",
                 "type": "wordpress-language",
                 "keywords": [
@@ -52478,6 +52698,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-plugin-language/bbpress-fr_fr",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "bbpress",
+                    "fr_fr"
+                ],
+                "description": "Wordpress bbpress translation for French (France) - fr_fr",
+                "version": "2.5.8",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5.8/fr_FR.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-plugin-language/bbpress-de_de",
                 "type": "wordpress-language",
                 "keywords": [
@@ -52490,6 +52732,28 @@
                 "version": "2.5",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5/de_DE.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-plugin-language/bbpress-de_de",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "bbpress",
+                    "de_de"
+                ],
+                "description": "Wordpress bbpress translation for German - de_de",
+                "version": "2.5.8",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5.8/de_DE.zip",
                     "type": "zip"
                 },
                 "require": {
