@@ -69616,6 +69616,28 @@
         {
             "type": "package",
             "package": {
+                "name": "koodimonni-theme-language/twentyfourteen-de_ch",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentyfourteen",
+                    "de_ch"
+                ],
+                "description": "Wordpress twentyfourteen translation for German (Switzerland) - de_ch",
+                "version": "1.4",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentyfourteen/1.4/de_CH.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "koodimonni-theme-language/twentyfourteen-is_is",
                 "type": "wordpress-language",
                 "keywords": [
@@ -73368,6 +73390,28 @@
                 "version": "1.4",
                 "dist": {
                     "url": "https://downloads.wordpress.org/translation/theme/twentythirteen/1.4/de_CH.zip",
+                    "type": "zip"
+                },
+                "require": {
+                    "koodimonni/composer-dropin-installer": ">=0.2.3"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "koodimonni-theme-language/twentythirteen-de_ch",
+                "type": "wordpress-language",
+                "keywords": [
+                    "Wordpress",
+                    "Translation",
+                    "twentythirteen",
+                    "de_ch"
+                ],
+                "description": "Wordpress twentythirteen translation for German (Switzerland) - de_ch",
+                "version": "1.5",
+                "dist": {
+                    "url": "https://downloads.wordpress.org/translation/theme/twentythirteen/1.5/de_CH.zip",
                     "type": "zip"
                 },
                 "require": {
