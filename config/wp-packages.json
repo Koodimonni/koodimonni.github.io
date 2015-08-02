@@ -9561,6 +9561,9 @@
                 "oci": {
                     "4.2.2": {
                         "dist": "https://downloads.wordpress.org/translation/core/4.2.2/oci.zip"
+                    },
+                    "4.2.3": {
+                        "dist": "https://downloads.wordpress.org/translation/core/4.2.3/oci.zip"
                     }
                 },
                 "et": {
