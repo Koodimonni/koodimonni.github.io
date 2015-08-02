@@ -6909,6 +6909,9 @@
                     },
                     "3.1": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/ca.zip"
+                    },
+                    "3.1.3": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1.3/ca.zip"
                     }
                 },
                 "de_de": {
@@ -6925,6 +6928,9 @@
                     },
                     "3.1": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/en_GB.zip"
+                    },
+                    "3.1.3": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1.3/en_GB.zip"
                     }
                 },
                 "en_au": {
@@ -6936,6 +6942,9 @@
                     },
                     "3.1": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/en_AU.zip"
+                    },
+                    "3.1.3": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1.3/en_AU.zip"
                     }
                 },
                 "en_ca": {
@@ -6944,6 +6953,9 @@
                     },
                     "3.1": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/en_CA.zip"
+                    },
+                    "3.1.3": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1.3/en_CA.zip"
                     }
                 },
                 "es_pe": {
@@ -7060,6 +7072,9 @@
                     },
                     "3.1": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/nl_NL.zip"
+                    },
+                    "3.1.3": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1.3/nl_NL.zip"
                     }
                 },
                 "pl_pl": {
@@ -7101,6 +7116,9 @@
                     },
                     "3.1": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/sk_SK.zip"
+                    },
+                    "3.1.3": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1.3/sk_SK.zip"
                     }
                 },
                 "sv_se": {
@@ -7112,6 +7130,9 @@
                     },
                     "3.1": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/sv_SE.zip"
+                    },
+                    "3.1.3": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1.3/sv_SE.zip"
                     }
                 },
                 "az": {
@@ -7157,6 +7178,9 @@
                     },
                     "3.1": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/is_IS.zip"
+                    },
+                    "3.1.3": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1.3/is_IS.zip"
                     }
                 },
                 "ps": {
@@ -7172,6 +7196,9 @@
                 "th": {
                     "3.1": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/th.zip"
+                    },
+                    "3.1.3": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1.3/th.zip"
                     }
                 },
                 "cy": {
@@ -7207,6 +7234,9 @@
                 "tl": {
                     "3.1": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/tl.zip"
+                    },
+                    "3.1.3": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1.3/tl.zip"
                     }
                 }
             },
