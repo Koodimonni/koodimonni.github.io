@@ -7461,6 +7461,16 @@
                     "0.6.1": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/wordpress-importer/0.6.1/sk_SK.zip"
                     }
+                },
+                "en_ca": {
+                    "0.6.1": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/wordpress-importer/0.6.1/en_CA.zip"
+                    }
+                },
+                "en_au": {
+                    "0.6.1": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/wordpress-importer/0.6.1/en_AU.zip"
+                    }
                 }
             },
             "bbpress": {
