@@ -10251,6 +10251,11 @@
                     "1.4": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyfourteen/1.4/es_CO.zip"
                     }
+                },
+                "hy": {
+                    "1.4": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyfourteen/1.4/hy.zip"
+                    }
                 }
             },
             "twentythirteen": {
@@ -12851,6 +12856,11 @@
                 "es_co": {
                     "1.1": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyfifteen/1.1/es_CO.zip"
+                    }
+                },
+                "hy": {
+                    "1.2": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyfifteen/1.2/hy.zip"
                     }
                 }
             },
