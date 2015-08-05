@@ -8414,6 +8414,9 @@
                     },
                     "4.1.7": {
                         "dist": "https://downloads.wordpress.org/translation/core/4.1.7/fi.zip"
+                    },
+                    "4.2.4": {
+                        "dist": "https://downloads.wordpress.org/translation/core/4.2.4/fi.zip"
                     }
                 },
                 "fr_fr": {
