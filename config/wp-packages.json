@@ -11245,6 +11245,11 @@
                     "1.5": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentythirteen/1.5/hy.zip"
                     }
+                },
+                "hi_in": {
+                    "1.5": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentythirteen/1.5/hi_IN.zip"
+                    }
                 }
             },
             "twentytwelve": {
