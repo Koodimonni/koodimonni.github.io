@@ -14057,6 +14057,11 @@
                     "1.8": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentytwelve/1.8/hy.zip"
                     }
+                },
+                "uk": {
+                    "1.8": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentytwelve/1.8/uk.zip"
+                    }
                 }
             },
             "twentyeleven": {
