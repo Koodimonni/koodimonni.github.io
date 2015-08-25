@@ -8949,6 +8949,9 @@
                 "es_es": {
                     "2.5": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5/es_ES.zip"
+                    },
+                    "2.5.8": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5.8/es_ES.zip"
                     }
                 },
                 "hr": {
