@@ -9152,6 +9152,9 @@
                     },
                     "4.3-RC": {
                         "dist": "https://downloads.wordpress.org/translation/core/4.3-RC/az.zip"
+                    },
+                    "4.3": {
+                        "dist": "https://downloads.wordpress.org/translation/core/4.3/az.zip"
                     }
                 },
                 "bg_bg": {
@@ -10036,6 +10039,9 @@
                 "gd": {
                     "4.0": {
                         "dist": "https://downloads.wordpress.org/translation/core/4.0/gd.zip"
+                    },
+                    "4.3": {
+                        "dist": "https://downloads.wordpress.org/translation/core/4.3/gd.zip"
                     }
                 },
                 "gl_es": {
