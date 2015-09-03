@@ -8965,6 +8965,9 @@
                 "id_id": {
                     "2.5": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5/id_ID.zip"
+                    },
+                    "2.5.8": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5.8/id_ID.zip"
                     }
                 },
                 "it_it": {
@@ -9060,6 +9063,11 @@
                 "en_ca": {
                     "2.5.8": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5.8/en_CA.zip"
+                    }
+                },
+                "cy": {
+                    "2.5.8": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5.8/cy.zip"
                     }
                 }
             }
