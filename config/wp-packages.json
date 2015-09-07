@@ -11223,6 +11223,9 @@
                     },
                     "4.1.7": {
                         "dist": "https://downloads.wordpress.org/translation/core/4.1.7/sl_SI.zip"
+                    },
+                    "4.3": {
+                        "dist": "https://downloads.wordpress.org/translation/core/4.3/sl_SI.zip"
                     }
                 },
                 "es_mx": {
@@ -11706,6 +11709,11 @@
                     },
                     "4.2.4": {
                         "dist": "https://downloads.wordpress.org/translation/core/4.2.4/bn_BD.zip"
+                    }
+                },
+                "fr_be": {
+                    "4.3": {
+                        "dist": "https://downloads.wordpress.org/translation/core/4.3/fr_BE.zip"
                     }
                 }
             }
