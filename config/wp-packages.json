@@ -12568,6 +12568,11 @@
                     "1.5": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyfourteen/1.5/gd.zip"
                     }
+                },
+                "hi_in": {
+                    "1.5": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyfourteen/1.5/hi_IN.zip"
+                    }
                 }
             },
             "twentythirteen": {
