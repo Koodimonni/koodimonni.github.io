@@ -11685,6 +11685,9 @@
                     },
                     "4.2.4": {
                         "dist": "https://downloads.wordpress.org/translation/core/4.2.4/de_DE_formal.zip"
+                    },
+                    "4.1.7": {
+                        "dist": "https://downloads.wordpress.org/translation/core/4.1.7/de_DE_formal.zip"
                     }
                 },
                 "hy": {
