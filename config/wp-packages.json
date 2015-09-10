@@ -11369,6 +11369,9 @@
                     },
                     "4.2.4": {
                         "dist": "https://downloads.wordpress.org/translation/core/4.2.4/de_CH.zip"
+                    },
+                    "4.3": {
+                        "dist": "https://downloads.wordpress.org/translation/core/4.3/de_CH.zip"
                     }
                 },
                 "haz": {
