@@ -11974,6 +11974,9 @@
                     },
                     "4.2.5": {
                         "dist": "https://downloads.wordpress.org/translation/core/4.2.5/es_MX.zip"
+                    },
+                    "4.3.1": {
+                        "dist": "https://downloads.wordpress.org/translation/core/4.3.1/es_MX.zip"
                     }
                 },
                 "lt_lt": {
