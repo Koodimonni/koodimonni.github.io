@@ -9467,6 +9467,11 @@
                     "2.5.8": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5.8/sr_RS.zip"
                     }
+                },
+                "he_il": {
+                    "2.5.8": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5.8/he_IL.zip"
+                    }
                 }
             }
         },
