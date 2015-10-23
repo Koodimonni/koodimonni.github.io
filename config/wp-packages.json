@@ -12630,6 +12630,11 @@
                     "4.3.1": {
                         "dist": "https://downloads.wordpress.org/translation/core/4.3.1/ary.zip"
                     }
+                },
+                "vi": {
+                    "4.3.1": {
+                        "dist": "https://downloads.wordpress.org/translation/core/4.3.1/vi.zip"
+                    }
                 }
             }
         },
