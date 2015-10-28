@@ -17592,6 +17592,11 @@
                     "2.0": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.0/hy.zip"
                     }
+                },
+                "sq": {
+                    "2.0": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.0/sq.zip"
+                    }
                 }
             }
         }
