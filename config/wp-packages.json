@@ -9320,6 +9320,11 @@
                     "0.6.1": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/wordpress-importer/0.6.1/en_AU.zip"
                     }
+                },
+                "es_ve": {
+                    "0.6.1": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/wordpress-importer/0.6.1/es_VE.zip"
+                    }
                 }
             },
             "bbpress": {
@@ -16956,6 +16961,11 @@
                 "es_cl": {
                     "1.3": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyfifteen/1.3/es_CL.zip"
+                    }
+                },
+                "yor": {
+                    "1.3": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyfifteen/1.3/yor.zip"
                     }
                 }
             },
