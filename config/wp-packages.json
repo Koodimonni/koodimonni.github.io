@@ -12648,6 +12648,11 @@
                     "4.2.5": {
                         "dist": "https://downloads.wordpress.org/translation/core/4.2.5/es_VE.zip"
                     }
+                },
+                "hi_in": {
+                    "4.3.1": {
+                        "dist": "https://downloads.wordpress.org/translation/core/4.3.1/hi_IN.zip"
+                    }
                 }
             }
         },
