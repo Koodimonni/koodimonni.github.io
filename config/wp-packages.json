@@ -8940,6 +8940,9 @@
                     },
                     "3.1": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/es_ES.zip"
+                    },
+                    "3.1.5": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1.5/es_ES.zip"
                     }
                 },
                 "es_cl": {
