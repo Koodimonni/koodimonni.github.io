@@ -10048,6 +10048,11 @@
                     "0.6.1": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/wordpress-importer/0.6.1/es_VE.zip"
                     }
+                },
+                "es_cl": {
+                    "0.6.1": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/wordpress-importer/0.6.1/es_CL.zip"
+                    }
                 }
             },
             "bbpress": {
