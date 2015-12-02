@@ -9720,6 +9720,9 @@
                 "eo": {
                     "3.1": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/eo.zip"
+                    },
+                    "3.1.5": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1.5/eo.zip"
                     }
                 },
                 "th": {
