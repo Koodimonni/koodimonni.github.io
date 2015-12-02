@@ -14273,6 +14273,11 @@
                     "1.5": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyfourteen/1.5/en_ZA.zip"
                     }
+                },
+                "ms_my": {
+                    "1.5": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyfourteen/1.5/ms_MY.zip"
+                    }
                 }
             },
             "twentythirteen": {
