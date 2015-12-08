@@ -13397,6 +13397,11 @@
                     "4.3.1": {
                         "dist": "https://downloads.wordpress.org/translation/core/4.3.1/en_ZA.zip"
                     }
+                },
+                "fr_ca": {
+                    "4.3.1": {
+                        "dist": "https://downloads.wordpress.org/translation/core/4.3.1/fr_CA.zip"
+                    }
                 }
             }
         },
