@@ -14278,6 +14278,11 @@
                     "1.5": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyfourteen/1.5/ms_MY.zip"
                     }
+                },
+                "fr_ca": {
+                    "1.5": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyfourteen/1.5/fr_CA.zip"
+                    }
                 }
             },
             "twentythirteen": {
@@ -15226,6 +15231,11 @@
                 "si_lk": {
                     "1.6": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentythirteen/1.6/si_LK.zip"
+                    }
+                },
+                "fr_ca": {
+                    "1.6": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentythirteen/1.6/fr_CA.zip"
                     }
                 }
             },
