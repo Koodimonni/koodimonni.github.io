@@ -14247,6 +14247,9 @@
                     },
                     "1.5": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyfourteen/1.5/nl_NL.zip"
+                    },
+                    "1.6": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyfourteen/1.6/nl_NL.zip"
                     }
                 },
                 "pl_pl": {
@@ -14278,6 +14281,9 @@
                     },
                     "1.5": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyfourteen/1.5/pt_BR.zip"
+                    },
+                    "1.6": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyfourteen/1.6/pt_BR.zip"
                     }
                 },
                 "pt_pt": {
