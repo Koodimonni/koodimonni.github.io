@@ -12012,6 +12012,9 @@
                     },
                     "4.3.1": {
                         "dist": "https://downloads.wordpress.org/translation/core/4.3.1/gl_ES.zip"
+                    },
+                    "4.4": {
+                        "dist": "https://downloads.wordpress.org/translation/core/4.4/gl_ES.zip"
                     }
                 },
                 "he_il": {
@@ -14117,6 +14120,9 @@
                     },
                     "4.3.1": {
                         "dist": "https://downloads.wordpress.org/translation/core/4.3.1/ary.zip"
+                    },
+                    "4.4": {
+                        "dist": "https://downloads.wordpress.org/translation/core/4.4/ary.zip"
                     }
                 },
                 "vi": {
