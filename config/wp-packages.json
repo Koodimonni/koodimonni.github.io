@@ -19477,6 +19477,11 @@
                     "1.4": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyfifteen/1.4/fr_CA.zip"
                     }
+                },
+                "kn": {
+                    "1.4": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyfifteen/1.4/kn.zip"
+                    }
                 }
             },
             "twentyten": {
