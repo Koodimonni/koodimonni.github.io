@@ -82,7 +82,7 @@ foreach ($wp_versions as $version) {
 #Gather data for core plugins
 $plugins = array("akismet","wordpress-importer","bbpress");
 
-$themes = array("twentyten","twentyeleven","twentytwelve","twentythirteen","twentyfourteen","twentyfifteen");
+$themes = array("twentyten","twentyeleven","twentytwelve","twentythirteen","twentyfourteen","twentyfifteen","twentysixteen");
 $thirdparty_plugins = array("woocommerce");
 
 $plugin_path = "https://api.wordpress.org/translations/plugins/1.0/?slug=";
@@ -109,7 +109,7 @@ foreach ($themes as $theme) {
   }
 }
 
-###Woocommerce languages 
+###Woocommerce languages
 #github paths
 $woocommerce_github = "woothemes/woocommerce-language-packs";
 $woocommerce_files = get_json_url("https://api.github.com/repos/{$woocommerce_github}/contents/packages/");
@@ -190,7 +190,7 @@ foreach ($packages['packages']["wordpress-language"]['core'] as $language => $of
         //echo "OMITTING: {$component}-{$language} because doesn't exist! \n";
       }
     }
-    
+
     $repositories[] = array(
       "type" => "package",
       "package" => array(
@@ -205,7 +205,7 @@ foreach ($packages['packages']["wordpress-language"]['core'] as $language => $of
         ),
         "require" => $require_array
       )
-    ); 
+    );
   }
 }
 #merge arrays
