@@ -12308,6 +12308,9 @@
                     },
                     "4.3.1": {
                         "dist": "https://downloads.wordpress.org/translation/core/4.3.1/id_ID.zip"
+                    },
+                    "4.4": {
+                        "dist": "https://downloads.wordpress.org/translation/core/4.4/id_ID.zip"
                     }
                 },
                 "it_it": {
