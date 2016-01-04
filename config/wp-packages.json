@@ -13850,6 +13850,9 @@
                     },
                     "4.4-RC1": {
                         "dist": "https://downloads.wordpress.org/translation/core/4.4-RC1/uk.zip"
+                    },
+                    "4.4": {
+                        "dist": "https://downloads.wordpress.org/translation/core/4.4/uk.zip"
                     }
                 },
                 "nn_no": {
