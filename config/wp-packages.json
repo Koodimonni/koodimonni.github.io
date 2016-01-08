@@ -11443,6 +11443,9 @@
                     },
                     "4.1.9": {
                         "dist": "https://downloads.wordpress.org/translation/core/4.1.9/el.zip"
+                    },
+                    "4.4.1": {
+                        "dist": "https://downloads.wordpress.org/translation/core/4.4.1/el.zip"
                     }
                 },
                 "en_au": {
@@ -12546,6 +12549,9 @@
                     },
                     "4.2.6": {
                         "dist": "https://downloads.wordpress.org/translation/core/4.2.6/hu_HU.zip"
+                    },
+                    "4.3.2": {
+                        "dist": "https://downloads.wordpress.org/translation/core/4.3.2/hu_HU.zip"
                     }
                 },
                 "id_id": {
