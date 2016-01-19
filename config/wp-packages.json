@@ -10547,6 +10547,9 @@
                 "sq": {
                     "3.1": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1/sq.zip"
+                    },
+                    "3.1.7": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1.7/sq.zip"
                     }
                 },
                 "eu": {
