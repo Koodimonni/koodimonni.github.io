@@ -15203,6 +15203,11 @@
                     "4.4.1": {
                         "dist": "https://downloads.wordpress.org/translation/core/4.4.1/es_AR.zip"
                     }
+                },
+                "nl_nl_formal": {
+                    "4.4.1": {
+                        "dist": "https://downloads.wordpress.org/translation/core/4.4.1/nl_NL_formal.zip"
+                    }
                 }
             }
         },
