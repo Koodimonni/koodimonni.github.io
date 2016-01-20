@@ -10150,6 +10150,9 @@
                     },
                     "3.1.5": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1.5/es_PE.zip"
+                    },
+                    "3.1.7": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/akismet/3.1.7/es_PE.zip"
                     }
                 },
                 "es_es": {
