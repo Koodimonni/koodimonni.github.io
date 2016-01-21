@@ -10858,6 +10858,11 @@
                     "0.6.1": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/wordpress-importer/0.6.1/ms_MY.zip"
                     }
+                },
+                "cy": {
+                    "0.6.1": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/wordpress-importer/0.6.1/cy.zip"
+                    }
                 }
             },
             "bbpress": {
@@ -21119,6 +21124,9 @@
                     },
                     "2.0": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.0/ar.zip"
+                    },
+                    "2.1": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.1/ar.zip"
                     }
                 },
                 "bg_bg": {
@@ -21133,6 +21141,9 @@
                     },
                     "2.0": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.0/bg_BG.zip"
+                    },
+                    "2.1": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.1/bg_BG.zip"
                     }
                 },
                 "bs_ba": {
@@ -21198,6 +21209,9 @@
                     },
                     "2.0": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.0/cy.zip"
+                    },
+                    "2.1": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.1/cy.zip"
                     }
                 },
                 "da_dk": {
@@ -21331,6 +21345,9 @@
                     },
                     "2.0": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.0/et.zip"
+                    },
+                    "2.1": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.1/et.zip"
                     }
                 },
                 "eu": {
@@ -21362,6 +21379,9 @@
                     },
                     "2.0": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.0/fa_IR.zip"
+                    },
+                    "2.1": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.1/fa_IR.zip"
                     }
                 },
                 "fr_fr": {
@@ -21393,6 +21413,9 @@
                     },
                     "2.0": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.0/gd.zip"
+                    },
+                    "2.1": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.1/gd.zip"
                     }
                 },
                 "gl_es": {
@@ -21407,6 +21430,9 @@
                     },
                     "2.0": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.0/gl_ES.zip"
+                    },
+                    "2.1": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.1/gl_ES.zip"
                     }
                 },
                 "he_il": {
@@ -21455,6 +21481,9 @@
                     },
                     "2.0": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.0/id_ID.zip"
+                    },
+                    "2.1": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.1/id_ID.zip"
                     }
                 },
                 "ja": {
@@ -21486,6 +21515,9 @@
                     },
                     "2.0": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.0/ko_KR.zip"
+                    },
+                    "2.1": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.1/ko_KR.zip"
                     }
                 },
                 "my_mm": {
@@ -21500,6 +21532,9 @@
                     },
                     "2.0": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.0/my_MM.zip"
+                    },
+                    "2.1": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.1/my_MM.zip"
                     }
                 },
                 "nb_no": {
@@ -21582,6 +21617,9 @@
                     },
                     "2.0": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.0/pt_PT.zip"
+                    },
+                    "2.1": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.1/pt_PT.zip"
                     }
                 },
                 "ro_ro": {
@@ -21647,6 +21685,9 @@
                     },
                     "2.0": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.0/sl_SI.zip"
+                    },
+                    "2.1": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.1/sl_SI.zip"
                     }
                 },
                 "sr_rs": {
@@ -21678,6 +21719,9 @@
                     },
                     "2.0": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.0/th.zip"
+                    },
+                    "2.1": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.1/th.zip"
                     }
                 },
                 "tr_tr": {
@@ -21692,6 +21736,9 @@
                     },
                     "2.0": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.0/tr_TR.zip"
+                    },
+                    "2.1": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.1/tr_TR.zip"
                     }
                 },
                 "vi": {
@@ -21706,6 +21753,9 @@
                     },
                     "2.0": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.0/vi.zip"
+                    },
+                    "2.1": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.1/vi.zip"
                     }
                 },
                 "zh_tw": {
@@ -21720,6 +21770,9 @@
                     },
                     "2.0": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.0/zh_TW.zip"
+                    },
+                    "2.1": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.1/zh_TW.zip"
                     }
                 },
                 "zh_cn": {
@@ -21798,6 +21851,9 @@
                     },
                     "2.0": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.0/fi.zip"
+                    },
+                    "2.1": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.1/fi.zip"
                     }
                 },
                 "ps": {
@@ -21814,6 +21870,9 @@
                     },
                     "2.0": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.0/ug_CN.zip"
+                    },
+                    "2.1": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.1/ug_CN.zip"
                     }
                 },
                 "hy": {
@@ -21833,6 +21892,31 @@
                     },
                     "2.1": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.1/sq.zip"
+                    }
+                },
+                "bn_bd": {
+                    "2.1": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.1/bn_BD.zip"
+                    }
+                },
+                "es_cl": {
+                    "2.1": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.1/es_CL.zip"
+                    }
+                },
+                "hu_hu": {
+                    "2.1": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.1/hu_HU.zip"
+                    }
+                },
+                "mk_mk": {
+                    "2.1": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.1/mk_MK.zip"
+                    }
+                },
+                "ms_my": {
+                    "2.1": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentyten/2.1/ms_MY.zip"
                     }
                 }
             },
