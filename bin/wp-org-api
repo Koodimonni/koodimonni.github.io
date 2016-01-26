@@ -80,10 +80,9 @@ foreach ($wp_versions as $version) {
 }
 
 #Gather data for core plugins
-$plugins = array("akismet","wordpress-importer","bbpress");
+$plugins = array("akismet","wordpress-importer","bbpress","woocommerce");
 
 $themes = array("twentyten","twentyeleven","twentytwelve","twentythirteen","twentyfourteen","twentyfifteen","twentysixteen");
-$thirdparty_plugins = array("woocommerce");
 
 $plugin_path = "https://api.wordpress.org/translations/plugins/1.0/?slug=";
 $theme_path = "https://api.wordpress.org/translations/themes/1.0/?slug=";
@@ -106,25 +105,6 @@ foreach ($themes as $theme) {
     $packages['packages']["wordpress-theme-language"][$theme][strtolower($language['language'])][$language['version']] = array(
       "dist" => $language['package']
     );
-  }
-}
-
-###Woocommerce languages
-#github paths
-$woocommerce_github = "woothemes/woocommerce-language-packs";
-$woocommerce_files = get_json_url("https://api.github.com/repos/{$woocommerce_github}/contents/packages/");
-$woocommerce_tags = get_json_url("https://api.github.com/repos/{$woocommerce_github}/tags");
-
-#Add all github translation file versions from tags
-foreach ($woocommerce_files as $file) {
-  #only allow filenames with .zip in their name
-  if (strpos($file['name'],'.zip') !== false) {
-    $language = basename($file['name'],".zip");
-    foreach ($woocommerce_tags as $tag) {
-      $packages['packages']["wordpress-plugin-language"]['woocommerce'][strtolower($language)][$tag['name']] = array(
-        "dist" => "https://raw.githubusercontent.com/woothemes/woocommerce-language-packs/{$tag['commit']['sha']}/packages/{$file['name']}"
-      );
-    }
   }
 }
 
@@ -179,7 +159,7 @@ foreach ($packages['packages']["wordpress-language"]['core'] as $language => $of
               "koodimonni/composer-dropin-installer" => ">=0.2.3"
             );
     #add all required parts into require_array
-    foreach (array_merge($plugins,$themes,$thirdparty_plugins) as $component) {
+    foreach (array_merge($plugins,$themes) as $component) {
 
       // Build up full packages but don't include packages that are not defined in $packages
       if (isset($packages['packages']["wordpress-theme-language"][$component][$language]) && $packages['packages']["wordpress-theme-language"][$component][$language] != NULL) {
