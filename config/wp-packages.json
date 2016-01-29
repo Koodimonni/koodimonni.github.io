@@ -11141,6 +11141,11 @@
                     "2.5.8": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5.8/sl_SI.zip"
                     }
+                },
+                "es_cl": {
+                    "2.5.8": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/bbpress/2.5.8/es_CL.zip"
+                    }
                 }
             }
         },
