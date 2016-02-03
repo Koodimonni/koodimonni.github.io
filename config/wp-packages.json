@@ -10090,6 +10090,9 @@
                     },
                     "2.5.1": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/woocommerce/2.5.1/en_AU.zip"
+                    },
+                    "2.5.2": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/woocommerce/2.5.2/en_AU.zip"
                     }
                 },
                 "de_de_formal": {
