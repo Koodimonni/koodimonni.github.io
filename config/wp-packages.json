@@ -16203,6 +16203,11 @@
                     "4.4.2": {
                         "dist": "https://downloads.wordpress.org/translation/core/4.4.2/azb.zip"
                     }
+                },
+                "es_gt": {
+                    "4.4.2": {
+                        "dist": "https://downloads.wordpress.org/translation/core/4.4.2/es_GT.zip"
+                    }
                 }
             }
         },
