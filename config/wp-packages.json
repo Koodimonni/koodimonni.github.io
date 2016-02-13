@@ -18795,6 +18795,11 @@
                     "1.8": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentythirteen/1.8/ur.zip"
                     }
+                },
+                "ceb": {
+                    "1.8": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentythirteen/1.8/ceb.zip"
+                    }
                 }
             },
             "twentytwelve": {
