@@ -10173,6 +10173,11 @@
                     "2.5.2": {
                         "dist": "https://downloads.wordpress.org/translation/plugin/woocommerce/2.5.2/en_CA.zip"
                     }
+                },
+                "nl_nl_formal": {
+                    "2.5.2": {
+                        "dist": "https://downloads.wordpress.org/translation/plugin/woocommerce/2.5.2/nl_NL_formal.zip"
+                    }
                 }
             },
             "akismet": {
