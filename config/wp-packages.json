@@ -23348,6 +23348,11 @@
                     "1.1": {
                         "dist": "https://downloads.wordpress.org/translation/theme/twentysixteen/1.1/fa_IR.zip"
                     }
+                },
+                "fr_be": {
+                    "1.1": {
+                        "dist": "https://downloads.wordpress.org/translation/theme/twentysixteen/1.1/fr_BE.zip"
+                    }
                 }
             }
         }
